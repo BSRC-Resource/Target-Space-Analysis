@@ -1,0 +1,205 @@
+FO3: TOM formula 3 known to treat Obesity,,,,
+Idx,compid,geneid,CompName_afterADMET,GeneSymbol
+1,57137,727,Gallic acid,ABCB1
+2,1475,3338,Androstenedione,ABCG2
+3,1475,4893,Androstenedione,ABCG5
+4,1475,5486,Androstenedione,ABCG8
+5,57137,751,Gallic acid,ABL1
+6,57137,5420,Gallic acid,ACAN
+7,17352,2917,Rhein,ADAMTS5
+8,57137,4424,Gallic acid,AGER
+9,17352,1048,Rhein,AHR
+10,1475,589,Androstenedione,AKR1C3
+11,538,1139,Azelaic acid,AKR1D1
+12,57137,738,Gallic acid,AKT1
+13,57137,1331,Gallic acid,ALAD
+14,57137,4730,Gallic acid,ALB
+15,35917,4730,2-Methylbutyric acid,ALB
+16,17352,4778,Rhein,ALOX12B
+17,17352,4188,Rhein,ALOX15B
+18,17352,707,Rhein,ALOX5
+19,17352,4777,Rhein,ALOXE3
+20,17352,3847,Rhein,ANGPT2
+21,538,5144,Azelaic acid,AOC2
+22,57137,3941,Gallic acid,APOB
+23,10333,1042,Androsterone,AR
+24,1475,1042,Androstenedione,AR
+25,57137,848,Gallic acid,ATM
+26,538,188,Azelaic acid,AZIN2
+27,17352,4943,Rhein,BAX
+28,57137,4943,Gallic acid,BAX
+29,57137,1404,Gallic acid,BCL2
+30,57137,3481,Gallic acid,BCR
+31,57137,909,Gallic acid,CA1
+32,57137,1156,Gallic acid,CA12
+33,57137,1352,Gallic acid,CA13
+34,57137,1308,Gallic acid,CA14
+35,57137,910,Gallic acid,CA2
+36,57137,1309,Gallic acid,CA3
+37,57137,911,Gallic acid,CA4
+38,57137,1346,Gallic acid,CA5A
+39,57137,1347,Gallic acid,CA5B
+40,57137,1348,Gallic acid,CA6
+41,57137,999,Gallic acid,CA7
+42,57137,1155,Gallic acid,CA9
+43,1475,784,Androstenedione,CARTPT
+44,17352,1382,Rhein,CASP3
+45,57137,1382,Gallic acid,CASP3
+46,57137,2731,Gallic acid,CASP7
+47,17352,4256,Rhein,CASP8
+48,57137,4256,Gallic acid,CASP8
+49,57137,1471,Gallic acid,CAT
+50,46973,2803,2-Heptanol,CBR1
+51,57137,4441,Gallic acid,CCNE1
+52,17352,4254,Rhein,CD47
+53,57137,2352,Gallic acid,CDC42
+54,57137,4376,Gallic acid,CDKN1A
+55,57137,5462,Gallic acid,CDKN1B
+56,57137,4251,Gallic acid,CEBPB
+57,35917,830,2-Methylbutyric acid,CES1
+58,57137,912,Gallic acid,CHUK
+59,57137,518,Gallic acid,CKB
+60,57137,516,Gallic acid,CKM
+61,57137,106,Gallic acid,COL2A1
+62,57137,244,Gallic acid,COMT
+63,1475,3781,Androstenedione,CREBBP
+64,1475,2945,Androstenedione,CRP
+65,57137,3447,Gallic acid,CXCL8
+66,57137,1101,Gallic acid,CXCR4
+67,57137,1383,Gallic acid,CYCS
+78,46973,2455,2-Heptanol,DAO
+79,538,4497,Azelaic acid,DCT
+80,46973,697,2-Heptanol,DHRS4
+81,35917,676,2-Methylbutyric acid,DLAT
+82,35917,5843,2-Methylbutyric acid,DLST
+83,17352,1038,Rhein,EGF
+84,17352,39,Rhein,ELANE
+85,17352,130,Rhein,ERBB2
+86,1475,1524,Androstenedione,eryF
+87,17352,47,Rhein,F10
+88,2714,2460,5b-Androsterone,fabG3
+89,57137,4268,Gallic acid,FASLG
+90,1475,4268,Androstenedione,FASLG
+91,10333,2524,Androsterone,G6PD
+92,35917,3145,2-Methylbutyric acid,GNAI1
+93,35917,5879,2-Methylbutyric acid,GNAI2
+94,35917,5868,2-Methylbutyric acid,GNAI3
+95,35917,5871,2-Methylbutyric acid,GNAT2
+96,538,556,Azelaic acid,GPD1
+97,57137,482,Gallic acid,GPX1
+98,57137,459,Gallic acid,GPX4
+99,57137,486,Gallic acid,GPX5
+100,57137,123,Gallic acid,GRB2
+101,57137,471,Gallic acid,GSR
+102,1475,452,Androstenedione,GSTA1
+103,1475,453,Androstenedione,GSTA2
+104,1475,475,Androstenedione,GSTA3
+105,17352,481,Rhein,GSTO1
+106,17352,467,Rhein,GSTO2
+107,17352,1447,Rhein,HIF1A
+108,57137,1447,Gallic acid,HIF1A
+109,17352,13179,Rhein,HLA-B
+110,1475,582,Androstenedione,HSD17B1
+111,2714,2459,5b-Androsterone,HSD17B11
+112,1475,583,Androstenedione,HSD17B2
+113,1475,574,Androstenedione,HSD17B3
+114,1475,595,Androstenedione,HSD3B1
+115,538,718,Azelaic acid,IARS
+116,1475,1800,Androstenedione,IGF1
+117,538,1488,Azelaic acid,IGFBP3
+118,2714,2461,5b-Androsterone,IGHG2
+119,57137,928,Gallic acid,IKBKB
+120,57137,1380,Gallic acid,IL1B
+121,57137,1514,Gallic acid,IL6
+122,1475,1693,Androstenedione,INS
+123,57137,1161,Gallic acid,JUN
+124,1475,4292,Androstenedione,KLK3
+125,1475,288,Androstenedione,LCT
+126,57137,562,Gallic acid,LDHA
+127,57137,567,Gallic acid,LDHB
+128,57137,1235,Gallic acid,LDLR
+129,35917,715,2-Methylbutyric acid,LIAS
+130,17352,4296,Rhein,LOX
+131,57137,2046,Gallic acid,MAP2K1
+132,57137,1409,Gallic acid,MAPK1
+133,538,1409,Azelaic acid,MAPK1
+134,57137,1179,Gallic acid,MAPK3
+135,538,1179,Azelaic acid,MAPK3
+136,57137,1699,Gallic acid,MAPK8
+137,57137,3524,Gallic acid,MAPK9
+138,57137,531,Gallic acid,MGMT
+139,57137,454,Gallic acid,MGST1
+140,57137,1273,Gallic acid,MMP2
+141,57137,1275,Gallic acid,MMP7
+142,57137,1277,Gallic acid,MMP9
+143,57137,929,Gallic acid,MPO
+144,1475,1024,Androstenedione,MTOR
+145,35917,430,2-Methylbutyric acid,NAGS
+146,57137,4535,Gallic acid,NCF1
+147,1475,1552,Androstenedione,NCOA1
+148,1475,1553,Androstenedione,NCOA2
+149,1475,4284,Androstenedione,NCOA3
+150,538,645,Azelaic acid,NDUFAB1
+151,17352,832,Rhein,NEU2
+152,17352,1396,Rhein,NFKB1
+153,1475,285,Androstenedione,NOS2
+154,1475,1249,Androstenedione,NR0B1
+155,1475,1614,Androstenedione,NR1I3
+156,1475,3304,Androstenedione,NR5A1
+157,35917,1805,2-Methylbutyric acid,NSF
+158,57137,176,Gallic acid,ODC1
+159,538,622,Azelaic acid,OGDH
+160,35917,248,2-Methylbutyric acid,PKLR
+161,35917,252,2-Methylbutyric acid,PKM
+162,538,30,Azelaic acid,PLAT
+163,538,29,Azelaic acid,PLAU
+164,538,1141,Azelaic acid,polA
+165,17352,1015,Rhein,PPARA
+166,17352,685,Rhein,PPARD
+167,57137,684,Gallic acid,PPARG
+168,538,684,Azelaic acid,PPARG
+169,35917,3707,2-Methylbutyric acid,PPP3CA
+170,35917,5260,2-Methylbutyric acid,PPP3CC
+171,57137,494,Gallic acid,PRKCA
+172,17352,3177,Rhein,PRKCD
+173,57137,843,Gallic acid,PRKDC
+174,17352,538,Rhein,PTGS2
+175,57137,538,Gallic acid,PTGS2
+176,57137,3160,Gallic acid,RAC1
+177,17352,862,Rhein,RARA
+178,17352,859,Rhein,RARB
+179,17352,4192,Rhein,RELA
+180,57137,4192,Gallic acid,RELA
+181,57137,3151,Gallic acid,RHOA
+182,57137,137,Gallic acid,RHOB
+183,57137,3328,Gallic acid,RPS6KA1
+184,57137,5509,Gallic acid,RPS6KA5
+185,57137,3357,Gallic acid,RPSA
+186,17352,863,Rhein,RXRA
+187,57137,1430,Gallic acid,SELP
+188,538,26,Azelaic acid,SERPINE1
+189,10333,1084,Androsterone,SHBG
+190,1475,1084,Androstenedione,SHBG
+191,2714,1084,5b-Androsterone,SHBG
+192,57137,2687,Gallic acid,SOD2
+193,1475,1041,Androstenedione,SRD5A1
+194,538,1140,Azelaic acid,SRD5A2
+195,57137,1723,Gallic acid,SULT1A1
+196,57137,1611,Gallic acid,SULT2A1
+197,2714,1611,5b-Androsterone,SULT2A1
+198,57137,1613,Gallic acid,SULT2B1
+199,17352,1470,Rhein,TBXA2R
+200,17352,127,Rhein,TGFB1
+201,57137,3439,Gallic acid,TIMP3
+202,57137,17,Gallic acid,TNF
+203,1475,17,Androstenedione,TNF
+204,57137,4386,Gallic acid,TNNT2
+205,57137,1360,Gallic acid,TP53
+206,538,1138,Azelaic acid,trxB
+207,35917,808,2-Methylbutyric acid,TSPO
+208,538,681,Azelaic acid,TYR
+209,10333,5914,Androsterone,UGT2B17
+210,10333,4868,Androsterone,UGT2B7
+211,17352,166,Rhein,VEGFA
+212,57137,166,Gallic acid,VEGFA
+213,57137,2354,Gallic acid,XIAP

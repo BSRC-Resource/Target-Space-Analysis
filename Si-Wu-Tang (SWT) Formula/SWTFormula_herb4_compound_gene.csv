@@ -1,0 +1,106 @@
+herbID,compID,geneID,herbName,compName,geneName,geneSymbol
+6019,10624,48,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Coagulation factor IX / coagulation factor IX,F9
+6019,53911,143,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Peptidyl-prolyl cis-trans isomerase A / peptidylprolyl isomerase A (cyclophilin A) / CYCLOPHILIN A,PPIA
+6019,53911,144,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Peptidyl-prolyl cis-trans isomerase F,PPIF
+6019,10624,259,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Phenylalanine-4-hydroxylase / phenylalanine hydroxylase / PHENYLALANINE-4-HYDROXYLASE,PAH
+6019,10624,324,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,CAD protein / carbamoyl-phosphate synthetase 2,CAD
+6019,10624,469,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Lactoylglutathione lyase / glyoxalase I / GLYOXALASE I,GLO1
+6019,10624,473,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Glutathione S-transferase Mu 1 / glutathione S-transferase mu 1 / GLUTATHIONE S-TRANSFERASE MU 1,GSTM1
+6019,10624,634,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,NAD(P) transhydrogenase,NNT
+6019,10624,685,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Peroxisome proliferator-activated receptor delta / peroxisome proliferator-activated receptor delta / PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR DELTA,PPARD
+6019,10624,727,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Multidrug resistance protein 1 / ATP-binding cassette,ABCB1
+6019,53911,853,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Potassium voltage-gated channel subfamily H member 2 / potassium channel,KCNH2
+6019,10624,877,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Alpha-2 adrenergic receptor / Alpha-2A adrenergic receptor / adrenoceptor alpha 2A,ADRA2A
+6019,10624,910,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Carbonic anhydrase 2 / carbonic anhydrase II / CARBONIC ANHYDRASE 2 (CA II),CA2
+6019,53911,910,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Carbonic anhydrase 2 / carbonic anhydrase II / CARBONIC ANHYDRASE 2 (CA II),CA2
+6019,10624,939,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Alpha-2C adrenergic receptor / adrenoceptor alpha 2C,ADRA2C
+6019,10624,1015,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Peroxisome proliferator-activated receptor alpha / peroxisome proliferator-activated receptor alpha / PEROXISOME PROLIFERATOR-ACTIVATED RECEPTOR ALPHA,PPARA
+6019,10624,1048,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Aryl hydrocarbon receptor / aryl hydrocarbon receptor / ARYL HYDROCARBON RECEPTOR,AHR
+6019,10624,1065,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,RAF proto-oncogene serine/threonine-protein kinase / Raf-1 proto-oncogene,RAF1
+6019,10624,1108,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Calmodulin / calmodulin 1 (phosphorylase kinase,CALM1
+6019,10624,1161,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Transcription factor AP-1 / jun proto-oncogene / PROTO-ONCOGENE C-JUN,JUN
+6019,53911,1235,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Low-density lipoprotein receptor / low density lipoprotein receptor / LDL RECEPTOR,LDLR
+6019,10624,1246,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Squalene monooxygenase / squalene epoxidase,SQLE
+6019,35274,1320,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,Somatostatin / somatostatin / SOMATOSTATIN,SST
+6019,10624,1321,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Neuropeptide Y receptor type 2 / neuropeptide Y receptor Y2 / NPY2R,NPY2R
+6019,53911,1335,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Ferritin heavy chain / ferritin,FTH1
+6019,53911,1336,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Ferritin light chain / ferritin,FTL
+6019,10624,1350,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Carbonic anhydrase-related protein 10 / carbonic anhydrase X,CA10
+6019,10624,1352,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Carbonic anhydrase 13 / carbonic anhydrase XIII,CA13
+6019,53911,1352,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Carbonic anhydrase 13 / carbonic anhydrase XIII,CA13
+6019,10624,1404,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Apoptosis regulator Bcl-2 / B-cell CLL/lymphoma 2 / APOPTOSIS REGULATOR BCL-2,BCL2
+6019,10624,1471,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Catalase / catalase,CAT
+6019,10624,1483,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome P450 3A4 / cytochrome P450,CYP3A4
+6019,10624,1971,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Bifunctional epoxide hydrolase 2 / epoxide hydrolase 2,EPHX2
+6019,10624,2145,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome P450 1A1 / cytochrome P450,CYP1A1
+6019,10624,2291,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome P450 2C9 / cytochrome P450,CYP2C9
+6019,10624,2366,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome c oxidase subunit 1 / cytochrome c oxidase subunit I / CYTOCHROME C OXIDASE SUBUNIT 1,COX1
+6019,10624,2501,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome P450 2B6 / cytochrome P450,CYP2B6
+6019,10624,2524,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Glucose-6-phosphate 1-dehydrogenase / glucose-6-phosphate dehydrogenase / GLUCOSE-6-PHOSPHATE 1-DEHYDROGENASE ISOFORM B,G6PD
+6019,10624,2572,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,NADPH:adrenodoxin oxidoreductase,FDXR
+6019,10624,2715,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Galectin-1 / lectin,LGALS1
+6019,10624,2851,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Uroporphyrinogen decarboxylase / uroporphyrinogen decarboxylase,UROD
+6019,10624,2884,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome P450 2C8 / cytochrome P450,CYP2C8
+6019,53911,3126,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Calpain-1 catalytic subunit / calpain 1,CAPN1
+6019,35274,3256,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,Mannan-binding lectin serine protease 2 / mannan-binding lectin serine peptidase 2,MASP2
+6019,10624,3275,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Hydroxymethylglutaryl-CoA lyase,HMGCL
+6019,10624,3301,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome P450 2A6 / cytochrome P450,CYP2A6
+6019,10624,3360,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Neuropeptide Y receptor type 1 / neuropeptide Y receptor Y1 / NEUROPEPTIDE Y RECEPTOR TYPE 1,NPY1R
+6019,10624,3361,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Neuropeptide Y receptor type 5 / neuropeptide Y receptor Y5 / NEUROPEPTIDE Y RECEPTOR TYPE 5,NPY5R
+6019,10624,3427,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Cytochrome P450 1A2 / cytochrome P450,CYP1A2
+6019,10624,3447,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Interleukin-8 / chemokine (C-X-C motif) ligand 8 / INTERLEUKIN 8 PRECURSOR,CXCL8
+6019,53911,3464,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,Lactosylceramide alpha-2,ST3GAL5
+6019,10624,3500,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Carbamoyl-phosphate synthase [ammonia],CPS1
+6019,10624,3746,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Uteroglobin / secretoglobin,SCGB1A1
+6019,10624,3796,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,Proto-oncogene c-Fos / FBJ murine osteosarcoma viral oncogene homolog,FOS
+6019,10624,4143,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,interleukin 4,IL4
+6019,10624,4730,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,albumin / SERUM ALBUMIN,ALB
+6019,35274,4730,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,albumin / SERUM ALBUMIN,ALB
+6019,53911,4771,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,ferritin mitochondrial,FTMT
+6019,10624,4820,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,cytochrome P450,CYP2E1
+6019,53911,4820,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,cytochrome P450,CYP2E1
+6019,10624,4825,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,cytochrome P450,CYP20A1
+6019,10624,4829,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,cytochrome P450,CYP2C19
+6019,10624,4838,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,cytochrome P450,CYP2A13
+6019,10624,4840,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,cytochrome P450,CYP2F1
+6019,10624,4841,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,coenzyme Q6 monooxygenase,COQ6
+6019,35274,5165,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor),MASP1
+6019,10624,5182,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,surfactant protein C,SFTPC
+6019,35274,5317,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,FK506 binding protein 14,FKBP14
+6019,35274,5319,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,FK506 binding protein 7,FKBP7
+6019,35274,5323,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,FK506 binding protein 11,FKBP11
+6019,35274,5326,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,FK506 binding protein 10,FKBP10
+6019,35274,5328,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,FK506 binding protein 2,FKBP2
+6019,53911,5559,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,X-ray repair complementing defective repair in Chinese hamster cells 6,XRCC6
+6019,66824,5559,Radix chuanxiong (Rhizoma Chuanxiong),p-Menth-3-en-1-ol,X-ray repair complementing defective repair in Chinese hamster cells 6,XRCC6
+6019,10624,5562,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,epoxide hydrolase 1,EPHX1
+6019,10624,5793,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,NDC80 kinetochore complex component,NDC80
+6019,10624,6047,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,TIMP metallopeptidase inhibitor 1,TIMP1
+6019,53911,6465,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,phosducin-like,PDCL
+6019,35274,6552,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,syndecan binding protein (syntenin),SDCBP
+6019,10624,6590,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,syntaxin 8,STX8
+6019,10624,6909,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,FUS RNA binding protein,FUS
+6019,35274,7683,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,ligase IV,LIG4
+6019,10624,7932,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,kynurenine 3-monooxygenase (kynurenine 3-hydroxylase) / KYNURENINE 3-MONOOXYGENASE,KMO
+6019,10624,8526,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,glyoxalase domain containing 4,GLOD4
+6019,35274,8656,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,myosin,MYL4
+6019,10624,8890,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,calmodulin 3 (phosphorylase kinase,CALM3
+6019,10624,9043,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,methylmalonyl CoA epimerase,MCEE
+6019,35274,9155,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,syndecan binding protein (syntenin) 2,SDCBP2
+6019,10624,9898,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,homogentisate 1,HGD
+6019,10624,10530,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,transmembrane protein 131,TMEM131
+6019,10624,10782,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,secretoglobin,SCGB3A2
+6019,66824,11039,Radix chuanxiong (Rhizoma Chuanxiong),p-Menth-3-en-1-ol,parvin,PARVA
+6019,53911,12097,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,ST3 beta-galactoside alpha-2,ST3GAL3
+6019,10624,12485,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,calmodulin 2 (phosphorylase kinase,CALM2
+6019,35274,13417,Radix chuanxiong (Rhizoma Chuanxiong),(+)-alpha-Pinene,FK506 binding protein 9,FKBP9
+6019,10624,13603,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,forkhead box J1,FOXJ1
+6019,10624,13612,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,3-hydroxymethyl-3-methylglutaryl-CoA lyase-like 1,HMGCLL1
+6019,10624,14513,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,transcription factor 7 (T-cell specific,TCF7
+6019,70472,16655,Radix chuanxiong (Rhizoma Chuanxiong),Pentadecanoate,3-oxoacyl-ACP synthase,OXSM
+6019,53911,16818,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,RAN binding protein 2,RANBP2
+6019,38618,17779,Radix chuanxiong (Rhizoma Chuanxiong),(S)-(?)-Limonene,fatty acyl CoA reductase 1,FAR1
+6019,66824,19009,Radix chuanxiong (Rhizoma Chuanxiong),p-Menth-3-en-1-ol,zinc finger protein 224,ZNF224
+6019,38618,19820,Radix chuanxiong (Rhizoma Chuanxiong),(S)-(?)-Limonene,fatty acyl CoA reductase 2,FAR2
+6019,10624,22986,Radix chuanxiong (Rhizoma Chuanxiong),(-)-camphene,dihydrodiol dehydrogenase (dimeric),DHDH
+6019,53911,26718,Radix chuanxiong (Rhizoma Chuanxiong),Dibutyl 1,ferritin,FTHL17

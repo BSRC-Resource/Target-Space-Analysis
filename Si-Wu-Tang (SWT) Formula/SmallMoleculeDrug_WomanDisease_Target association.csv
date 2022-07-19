@@ -1,0 +1,309 @@
+Small-molecule drugs known to treat women's disease,,,
+DRUGID,DRUG NAME,TARGET,Symbol
+DB00286,Conjugated estrogens,P-glycoprotein 1,ABCB1
+DB00286,Conjugated estrogens,Multidrug resistance-associated protein 1,ABCC1
+DB00286,Conjugated estrogens,ATP-binding cassette sub-family C member 11,ABCC11
+DB00286,Conjugated estrogens,Canalicular multispecific organic anion transporter 1,ABCC2
+DB00286,Conjugated estrogens,Canalicular multispecific organic anion transporter 2,ABCC3
+DB00286,Conjugated estrogens,Multidrug resistance-associated protein 4,ABCC4
+DB00286,Conjugated estrogens,ATP-binding cassette sub-family G member 2,ABCG2
+DB00286,Conjugated estrogens,Serum albumin,ALB
+DB00286,Conjugated estrogens,Catechol O-methyltransferase,COMT
+DB00286,Conjugated estrogens,Cytochrome P450 1A2,CYP1A2
+DB00286,Conjugated estrogens,Cytochrome P450 3A4,CYP3A4
+DB00286,Conjugated estrogens,Estrogen receptor alpha,ESR1
+DB00286,Conjugated estrogens,Estrogen receptor beta,ESR2
+DB00286,Conjugated estrogens,Thyroxine-binding globulin,SERPINA7
+DB00286,Conjugated estrogens,Sex hormone-binding globulin,SHBG
+DB00286,Conjugated estrogens,Sodium/bile acid cotransporter,SLC10A1
+DB00286,Conjugated estrogens,Solute carrier family 22 member 10,SLC22A10
+DB00286,Conjugated estrogens,Solute carrier family 22 member 11,SLC22A11
+DB00286,Conjugated estrogens,Solute carrier family 22 member 6,SLC22A6
+DB00286,Conjugated estrogens,Solute carrier family 22 member 8,SLC22A8
+DB00286,Conjugated estrogens,Organic solute transporter subunit alpha,SLC51A
+DB00286,Conjugated estrogens,Organic solute transporter subunit beta,SLC51B
+DB00286,Conjugated estrogens,Solute carrier organic anion transporter family member 1A2,SLCO1A2
+DB00286,Conjugated estrogens,Solute carrier organic anion transporter family member 1B1,SLCO1B1
+DB00286,Conjugated estrogens,Solute carrier organic anion transporter family member 1B3,SLCO1B3
+DB00286,Conjugated estrogens,Solute carrier organic anion transporter family member 1C1,SLCO1C1
+DB00286,Conjugated estrogens,Solute carrier organic anion transporter family member 2B1,SLCO2B1
+DB00286,Conjugated estrogens,Solute carrier organic anion transporter family member 3A1,SLCO3A1
+DB00286,Conjugated estrogens,Solute carrier organic anion transporter family member 4A1,SLCO4A1
+DB00367,Levonorgestrel,Androgen receptor,AR
+DB00367,Levonorgestrel,Cytochrome P450 3A4,CYP3A4
+DB00367,Levonorgestrel,Cytochrome P450 3A5,CYP3A5
+DB00367,Levonorgestrel,Estrogen receptor alpha,ESR1
+DB00367,Levonorgestrel,Glucocorticoid receptor,NR3C1
+DB00367,Levonorgestrel,Progesterone receptor,PGR
+DB00367,Levonorgestrel,Sex hormone-binding globulin,SHBG
+DB00367,Levonorgestrel,3-oxo-5-alpha-steroid 4-dehydrogenase 1,SRD5A1
+DB00378,Dydrogesterone,Cytochrome P450 3A4,CYP3A4
+DB00378,Dydrogesterone,Progesterone receptor,PGR
+DB00575,Clonidine,Alpha-1A adrenergic receptor,ADRA1A
+DB00575,Clonidine,Alpha-1B adrenergic receptor,ADRA1B
+DB00575,Clonidine,Alpha-1D adrenergic receptor,ADRA1D
+DB00575,Clonidine,Alpha-2A adrenergic receptor,ADRA2A
+DB00575,Clonidine,Alpha-2B adrenergic receptor,ADRA2B
+DB00575,Clonidine,Alpha-2C adrenergic receptor,ADRA2C
+DB00575,Clonidine,Serum albumin,ALB
+DB00575,Clonidine,Cytochrome P450 1A1,CYP1A1
+DB00575,Clonidine,Cytochrome P450 1A2,CYP1A2
+DB00575,Clonidine,Cytochrome P450 2D6,CYP2D6
+DB00575,Clonidine,Cytochrome P450 3A4,CYP3A4
+DB00575,Clonidine,Cytochrome P450 3A5,CYP3A5
+DB00575,Clonidine,Solute carrier family 22 member 3,SLC22A3
+DB00575,Clonidine,Solute carrier family 22 member 4,SLC22A4
+DB00575,Clonidine,Solute carrier family 22 member 5,SLC22A5
+DB00603,Medroxyprogesterone acetate,P-glycoprotein 1,ABCB1
+DB00603,Medroxyprogesterone acetate,Serum albumin,ALB
+DB00603,Medroxyprogesterone acetate,Cytochrome P450 2C8,CYP2C8
+DB00603,Medroxyprogesterone acetate,Cytochrome P450 2C9,CYP2C9
+DB00603,Medroxyprogesterone acetate,Cytochrome P450 3A1,CYP3A1
+DB00603,Medroxyprogesterone acetate,Cytochrome P450 3A4,CYP3A4
+DB00603,Medroxyprogesterone acetate,Estrogen receptor alpha,ESR1
+DB00603,Medroxyprogesterone acetate,GABA(A) Receptor,GABRA1
+DB00603,Medroxyprogesterone acetate,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,HSD3B2
+DB00603,Medroxyprogesterone acetate,Progesterone receptor,PGR
+DB00655,Estrone,P-glycoprotein 1,ABCB1
+DB00655,Estrone,ATP-binding cassette sub-family G member 2,ABCG2
+DB00655,Estrone,Serum albumin,ALB
+DB00655,Estrone,Androgen receptor,AR
+DB00655,Estrone,Cytochrome P450 19A1,CYP19A1
+DB00655,Estrone,Cytochrome P450 1A1,CYP1A1
+DB00655,Estrone,Cytochrome P450 1A2,CYP1A2
+DB00655,Estrone,Cytochrome P450 1B1,CYP1B1
+DB00655,Estrone,Cytochrome P450 2B6,CYP2B6
+DB00655,Estrone,Cytochrome P450 2C9,CYP2C9
+DB00655,Estrone,Cytochrome P450 2E1,CYP2E1
+DB00655,Estrone,Cytochrome P450 3A4,CYP3A4
+DB00655,Estrone,Cytochrome P450 3A5,CYP3A5
+DB00655,Estrone,Estrogen receptor alpha,ESR1
+DB00655,Estrone,Estrogen receptor beta,ESR2
+DB00655,Estrone,Sex hormone-binding globulin,SHBG
+DB00655,Estrone,Solute carrier family 22 member 8,SLC22A8
+DB00655,Estrone,Solute carrier organic anion transporter family member 1A2,SLCO1A2
+DB00655,Estrone,Solute carrier organic anion transporter family member 1B1,SLCO1B1
+DB00655,Estrone,Solute carrier organic anion transporter family member 2B1,SLCO2B1
+DB00712,Flurbiprofen,Multidrug resistance-associated protein 4,ABCC4
+DB00712,Flurbiprofen,Serum albumin,ALB
+DB00712,Flurbiprofen,Cytochrome P450 2C9,CYP2C9
+DB00712,Flurbiprofen,Prostaglandin G/H synthase 1,PTGS1
+DB00712,Flurbiprofen,Prostaglandin G/H synthase 2,PTGS2
+DB00712,Flurbiprofen,Solute carrier family 22 member 6,SLC22A6
+DB00712,Flurbiprofen,UDP-glucuronosyltransferase 1-1,UGT1A1
+DB00712,Flurbiprofen,UDP-glucuronosyltransferase 1-3,UGT1A3
+DB00712,Flurbiprofen,UDP-glucuronosyltransferase 1-9,UGT1A9
+DB00712,Flurbiprofen,UDP-glucuronosyltransferase 2B4,UGT2B4
+DB00712,Flurbiprofen,UDP-glucuronosyltransferase 2B7,UGT2B7
+DB00715,Paroxetine,P-glycoprotein 1,ABCB1
+DB00715,Paroxetine,Alpha-1 adrenergic receptors,ADRA1A
+DB00715,Paroxetine,Alpha-2 adrenergic receptors,ADRA2A
+DB00715,Paroxetine,Beta adrenergic receptor,ADRB1
+DB00715,Paroxetine,Muscarinic acetylcholine receptor,CHR
+DB00715,Paroxetine,Cytochrome P450 1A2,CYP1A2
+DB00715,Paroxetine,Cytochrome P450 2B6,CYP2B6
+DB00715,Paroxetine,Cytochrome P450 2C19,CYP2C19
+DB00715,Paroxetine,Cytochrome P450 2C9,CYP2C9
+DB00715,Paroxetine,Cytochrome P450 2D6,CYP2D6
+DB00715,Paroxetine,Cytochrome P450 3A4,CYP3A4
+DB00715,Paroxetine,D(1) dopamine receptor,DRD1
+DB00715,Paroxetine,Dopamine D2 receptor,DRD2
+DB00715,Paroxetine,Histamine H1 receptor,HRH1
+DB00715,Paroxetine,Serotonin Receptors,HTR
+DB00715,Paroxetine,5-hydroxytryptamine receptor 2A,HTR2A
+DB00715,Paroxetine,5-hydroxytryptamine receptor 2B,HTR2B
+DB00715,Paroxetine,Sodium-dependent noradrenaline transporter,SLC6A2
+DB00715,Paroxetine,Sodium-dependent serotonin transporter,SLC6A4
+DB00717,Norethisterone,P-glycoprotein 1,ABCB1
+DB00717,Norethisterone,Aldo-keto reductase family 1 member C4,AKR1C4
+DB00717,Norethisterone,Serum albumin,ALB
+DB00717,Norethisterone,Androgen receptor,AR
+DB00717,Norethisterone,Cytochrome P450 1A2,CYP1A2
+DB00717,Norethisterone,Cytochrome P450 2A6,CYP2A6
+DB00717,Norethisterone,Cytochrome P450 2C19,CYP2C19
+DB00717,Norethisterone,Cytochrome P450 3A4,CYP3A4
+DB00717,Norethisterone,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,HSD3B2
+DB00717,Norethisterone,Glucocorticoid receptor,NR3C1
+DB00717,Norethisterone,Progesterone receptor,PGR
+DB00717,Norethisterone,Sex hormone-binding globulin,SHBG
+DB00717,Norethisterone,3-oxo-5-alpha-steroid 4-dehydrogenase,SRD5A1
+DB00717,Norethisterone,3-oxo-5-beta-steroid 4-dehydrogenase,SRD5B1
+DB00783,Estradiol,P-glycoprotein 1,ABCB1
+DB00783,Estradiol,Multidrug resistance-associated protein 7,ABCC10
+DB00783,Estradiol,ATP-binding cassette sub-family G member 2,ABCG2
+DB00783,Estradiol,Serum albumin,ALB
+DB00783,Estradiol,Beclin-1,BECN1
+DB00783,Estradiol,Neuronal acetylcholine receptor subunit alpha-4,CHRNA4
+DB00783,Estradiol,Catechol O-methyltransferase,COMT
+DB00783,Estradiol,Cytochrome P450 1A1,CYP1A1
+DB00783,Estradiol,Cytochrome P450 1A2,CYP1A2
+DB00783,Estradiol,Cytochrome P450 1B1,CYP1B1
+DB00783,Estradiol,Cytochrome P450 2C19,CYP2C19
+DB00783,Estradiol,Cytochrome P450 2C8,CYP2C8
+DB00783,Estradiol,Cytochrome P450 2C9,CYP2C9
+DB00783,Estradiol,Cytochrome P450 3A4,CYP3A4
+DB00783,Estradiol,Cytochrome P450 3A5,CYP3A5
+DB00783,Estradiol,Cytochrome P450 3A7,CYP3A7
+DB00783,Estradiol,Estrogen receptor alpha,ESR1
+DB00783,Estradiol,Estrogen receptor beta,ESR2
+DB00783,Estradiol,"Fatty acid-binding protein, intestinal",FABP2
+DB00783,Estradiol,G-protein coupled estrogen receptor 1,GPER1
+DB00783,Estradiol,ATP synthase subunit a,MT-ATP6
+DB00783,Estradiol,Nuclear receptor subfamily 1 group I member 2,NR1I2
+DB00783,Estradiol,Sex hormone-binding globulin,SHBG
+DB00783,Estradiol,Solute carrier family 22 member 11,SLC22A11
+DB00783,Estradiol,Solute carrier family 22 member 2,SLC22A2
+DB00783,Estradiol,Solute carrier family 22 member 3,SLC22A3
+DB00783,Estradiol,Solute carrier family 22 member 8,SLC22A8
+DB00783,Estradiol,Solute carrier organic anion transporter family member 1B1,SLCO1B1
+DB00783,Estradiol,Solute carrier organic anion transporter family member 1B3,SLCO1B3
+DB00783,Estradiol,Solute carrier organic anion transporter family member 1C1,SLCO1C1
+DB00783,Estradiol,UDP-glucuronosyltransferase 1-1,UGT1A1
+DB00783,Estradiol,UDP-glucuronosyltransferase 2B15,UGT2B15
+DB00788,Naproxen,P-glycoprotein 1,ABCB1
+DB00788,Naproxen,Bile salt export pump,ABCB11
+DB00788,Naproxen,Serum albumin,ALB
+DB00788,Naproxen,Cytochrome P450 1A2,CYP1A2
+DB00788,Naproxen,Cytochrome P450 2C8,CYP2C8
+DB00788,Naproxen,Cytochrome P450 2C9,CYP2C9
+DB00788,Naproxen,Prostaglandin G/H synthase 1,PTGS1
+DB00788,Naproxen,Prostaglandin G/H synthase 2,PTGS2
+DB00788,Naproxen,Solute carrier family 22 member 6,SLC22A6
+DB00788,Naproxen,Solute carrier family 22 member 8,SLC22A8
+DB00788,Naproxen,Solute carrier organic anion transporter family member 1A2,SLCO1A2
+DB00788,Naproxen,UDP-glucuronosyltransferase 1-10,UGT1A10
+DB00788,Naproxen,UDP-glucuronosyltransferase 1-3,UGT1A3
+DB00788,Naproxen,UDP-glucuronosyltransferase 1-6,UGT1A6
+DB00788,Naproxen,UDP-glucuronosyltransferase 1-7,UGT1A7
+DB00788,Naproxen,UDP-glucuronosyltransferase 1-8,UGT1A8
+DB00788,Naproxen,UDP-glucuronosyltransferase 1-9,UGT1A9
+DB00788,Naproxen,UDP-glucuronosyltransferase 2B7,UGT2B7
+DB00823,Ethynodiol diacetate,Cytochrome P450 3A4,CYP3A4
+DB00823,Ethynodiol diacetate,Estrogen receptor alpha,ESR1
+DB00823,Ethynodiol diacetate,Progesterone receptor,PGR
+DB00945,Acetylsalicylic acid,P-glycoprotein 1,ABCB1
+DB00945,Acetylsalicylic acid,Aldo-keto reductase family 1 member C1,AKR1C1
+DB00945,Acetylsalicylic acid,Caspase-1,CASP1
+DB00945,Acetylsalicylic acid,Caspase-3,CASP3
+DB00945,Acetylsalicylic acid,Cyclin A,CCNA2
+DB00945,Acetylsalicylic acid,G1/S-specific cyclin-D1,CCND1
+DB00945,Acetylsalicylic acid,Cytochrome P450 2C19,CYP2C19
+DB00945,Acetylsalicylic acid,Cytochrome P450 2C9,CYP2C9
+DB00945,Acetylsalicylic acid,Endothelin-1 receptor,EDNRA
+DB00945,Acetylsalicylic acid,78 kDa glucose-regulated protein,HEL-S-89n
+DB00945,Acetylsalicylic acid,Inhibitor of nuclear factor kappa-B kinase subunit beta,IKBKB
+DB00945,Acetylsalicylic acid,Myc proto-oncogene protein,MYC
+DB00945,Acetylsalicylic acid,Arylamine N-acetyltransferase 2,NAT2
+DB00945,Acetylsalicylic acid,NF-kappa-B inhibitor alpha,NFKBIA
+DB00945,Acetylsalicylic acid,Proliferating cell nuclear antigen,PCNA
+DB00945,Acetylsalicylic acid,Prostaglandin G/H synthase 1,PTGS1
+DB00945,Acetylsalicylic acid,Prostaglandin G/H synthase 2,PTGS2
+DB00945,Acetylsalicylic acid,Ribosomal protein S6 kinase alpha-3,RPS6KA3
+DB00945,Acetylsalicylic acid,Solute carrier family 22 member 6,SLC22A6
+DB00945,Acetylsalicylic acid,Solute carrier family 22 member 8,SLC22A8
+DB00945,Acetylsalicylic acid,Tumor necrosis factor-inducible gene 6 protein,TNFAIP6
+DB00945,Acetylsalicylic acid,Cellular tumor antigen p53,TP53
+DB00945,Acetylsalicylic acid,UDP-glucuronosyltransferase 1-6,UGT1A6
+DB00957,Norgestimate,P-glycoprotein 1,ABCB1
+DB00957,Norgestimate,Canalicular multispecific organic anion transporter 1,ABCC2
+DB00957,Norgestimate,Serum albumin,ALB
+DB00957,Norgestimate,Androgen receptor,AR
+DB00957,Norgestimate,Cytochrome P450 2B6,CYP2B6
+DB00957,Norgestimate,Cytochrome P450 2C9,CYP2C9
+DB00957,Norgestimate,Cytochrome P450 3A4,CYP3A4
+DB00957,Norgestimate,Estrogen receptor alpha,ESR1
+DB00957,Norgestimate,Progesterone receptor,PGR
+DB00957,Norgestimate,Sex hormone-binding globulin,SHBG
+DB00957,Norgestimate,UDP-glucuronosyltransferase 1-1,UGT1A1
+DB01050,Ibuprofen,P-glycoprotein 1,ABCB1
+DB01050,Ibuprofen,Multidrug resistance-associated protein 1,ABCC1
+DB01050,Ibuprofen,Multidrug resistance-associated protein 4,ABCC4
+DB01050,Ibuprofen,Serum albumin,ALB
+DB01050,Ibuprofen,Alpha-methylacyl-CoA racemase,AMACR
+DB01050,Ibuprofen,Apoptosis regulator Bcl-2,BCL2
+DB01050,Ibuprofen,Cystic fibrosis transmembrane conductance regulator,CFTR
+DB01050,Ibuprofen,Cytochrome P450 2C19,CYP2C19
+DB01050,Ibuprofen,Cytochrome P450 2C8,CYP2C8
+DB01050,Ibuprofen,Cytochrome P450 2C9,CYP2C9
+DB01050,Ibuprofen,Cytochrome P450 3A4,CYP3A4
+DB01050,Ibuprofen,"Fatty acid-binding protein, intestinal",FABP2
+DB01050,Ibuprofen,Platelet glycoprotein Ib alpha chain,GP1BA
+DB01050,Ibuprofen,Peroxisome proliferator-activated receptor alpha,PPARA
+DB01050,Ibuprofen,Peroxisome proliferator-activated receptor gamma,PPARG
+DB01050,Ibuprofen,Prostaglandin G/H synthase 1,PTGS1
+DB01050,Ibuprofen,Prostaglandin G/H synthase 2,PTGS2
+DB01050,Ibuprofen,Protein S100-A7,S100A7
+DB01050,Ibuprofen,Solute carrier family 22 member 11,SLC22A11
+DB01050,Ibuprofen,Solute carrier family 22 member 6,SLC22A6
+DB01050,Ibuprofen,Solute carrier family 22 member 8,SLC22A8
+DB01050,Ibuprofen,Solute carrier organic anion transporter family member 1A2,SLCO1A2
+DB01050,Ibuprofen,Solute carrier organic anion transporter family member 2B1,SLCO2B1
+DB01050,Ibuprofen,Thrombomodulin,THBD
+DB01050,Ibuprofen,UDP-glucuronosyltransferase 1-3,UGT1A3
+DB01050,Ibuprofen,UDP-glucuronosyltransferase 1-9,UGT1A9
+DB01050,Ibuprofen,UDP-glucuronosyltransferase 2B4,UGT2B4
+DB01050,Ibuprofen,UDP-glucuronosyltransferase 2B7,UGT2B7
+DB01323,St. John's Wort,P-glycoprotein 1,ABCB1
+DB01323,St. John's Wort,Cytochrome P450 2C19,CYP2C19
+DB01323,St. John's Wort,Cytochrome P450 2D6,CYP2D6
+DB01323,St. John's Wort,Cytochrome P450 3A4,CYP3A4
+DB01357,Mestranol,Cytochrome P450 2C8,CYP2C8
+DB01357,Mestranol,Cytochrome P450 2C9,CYP2C9
+DB01357,Mestranol,Cytochrome P450 3A4,CYP3A4
+DB01357,Mestranol,Estrogen receptor alpha,ESR1
+DB01395,Drospirenone,Androgen receptor,AR
+DB01395,Drospirenone,Cytochrome P450 3A4,CYP3A4
+DB01395,Drospirenone,Glucocorticoid receptor,NR3C1
+DB01395,Drospirenone,Mineralocorticoid receptor,NR3C2
+DB01395,Drospirenone,Progesterone receptor,PGR
+DB01395,Drospirenone,Serum paraoxonase/arylesterase 1,PON1
+DB01395,Drospirenone,Prostaglandin G/H synthase 2,PTGS2
+DB04574,Estrone sulfate,Serum albumin,ALB
+DB04574,Estrone sulfate,Cytochrome P450 1A2,CYP1A2
+DB04574,Estrone sulfate,Cytochrome P450 2C9,CYP2C9
+DB04574,Estrone sulfate,Cytochrome P450 3A4,CYP3A4
+DB04574,Estrone sulfate,Estrogen receptor alpha,ESR1
+DB04574,Estrone sulfate,Estrogen receptor beta,ESR2
+DB04574,Estrone sulfate,Sex hormone-binding globulin,SHBG
+DB04574,Estrone sulfate,Multidrug and toxin extrusion protein 1,SLC47A1
+DB04574,Estrone sulfate,Multidrug and toxin extrusion protein 2,SLC47A2
+DB04743,Nimesulide,Cytochrome P450 3A4,CYP3A4
+DB04743,Nimesulide,Lactotransferrin,LTF
+DB04743,Nimesulide,Group IIE secretory phospholipase A2,PLA2G2E
+DB04743,Nimesulide,Prostaglandin G/H synthase 2,PTGS2
+DB04938,Ospemifene,Cytochrome P450 2B6,CYP2B6
+DB04938,Ospemifene,Cytochrome P450 2C19,CYP2C19
+DB04938,Ospemifene,Cytochrome P450 2C9,CYP2C9
+DB04938,Ospemifene,Cytochrome P450 2D6,CYP2D6
+DB04938,Ospemifene,Cytochrome P450 3A4,CYP3A4
+DB04938,Ospemifene,Estrogen receptor alpha,ESR1
+DB06401,Bazedoxifene,Estrogen receptor alpha,ESR1
+DB06401,Bazedoxifene,Estrogen receptor beta,ESR2
+DB06401,Bazedoxifene,UDP-glucuronosyltransferase 1-10,UGT1A10
+DB06401,Bazedoxifene,UDP-glucuronosyltransferase 1-4,UGT1A4
+DB06401,Bazedoxifene,UDP-glucuronosyltransferase 1-8,UGT1A8
+DB06700,Desvenlafaxine,Cytochrome P450 2D6,CYP2D6
+DB06700,Desvenlafaxine,Cytochrome P450 3A4,CYP3A4
+DB06700,Desvenlafaxine,Sodium-dependent noradrenaline transporter,SLC6A2
+DB06700,Desvenlafaxine,Sodium-dependent dopamine transporter,SLC6A3
+DB06700,Desvenlafaxine,Sodium-dependent serotonin transporter,SLC6A4
+DB08984,Etofenamate,Thyroxine-binding globulin,SERPINA7
+DB09214,Dexketoprofen,Prostaglandin G/H synthase 1,PTGS1
+DB09214,Dexketoprofen,Prostaglandin G/H synthase 2,PTGS2
+DB09317,"Synthetic Conjugated Estrogens, A",Cytochrome P450 3A4,CYP3A4
+DB09317,"Synthetic Conjugated Estrogens, A",Estrogen receptor alpha,ESR1
+DB09317,"Synthetic Conjugated Estrogens, A",Thyroxine-binding globulin,SERPINA7
+DB09318,"Synthetic Conjugated Estrogens, B",Cytochrome P450 3A4,CYP3A4
+DB09318,"Synthetic Conjugated Estrogens, B",Estrogen receptor alpha,ESR1
+DB09318,"Synthetic Conjugated Estrogens, B",Thyroxine-binding globulin,SERPINA7
+DB09381,Esterified estrogens,Cytochrome P450 3A4,CYP3A4
+DB09381,Esterified estrogens,Thyroxine-binding globulin,SERPINA7
+DB09389,Norgestrel,Androgen receptor,AR
+DB09389,Norgestrel,Cytochrome P450 19A1,CYP19A1
+DB09389,Norgestrel,Cytochrome P450 3A4,CYP3A4
+DB09389,Norgestrel,Progesterone receptor,PGR
+DB09389,Norgestrel,3-oxo-5-alpha-steroid 4-dehydrogenase 1,SRD5A1
+DB12474,Lynestrenol,Cytochrome P450 2C19,CYP2C19
+DB12474,Lynestrenol,Cytochrome P450 2C9,CYP2C9
+DB12474,Lynestrenol,Cytochrome P450 3A4,CYP3A4
+DB13437,Medazepam,GABA(A) Receptor,GABRA1

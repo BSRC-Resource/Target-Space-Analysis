@@ -1,0 +1,2760 @@
+FO5: TOM formula 5 known to treat Obesity,,,,
+Idx,compid,geneid,CompName_afterADMET,GeneSymbol
+1,36879,178,Vanillin,ABAT
+2,31781,178,g-Guanidinobutyrate,ABAT
+3,117,730,choline,ABCA1
+4,897,5503,Cocaine,ABCA2
+5,897,5504,Cocaine,ABCA3
+6,34650,727,Sinensetin,ABCB1
+7,34785,727,Pachypodol,ABCB1
+8,35586,727,Nobiletin,ABCB1
+9,1102,727,Nifedipine,ABCB1
+10,34516,727,Neochanin,ABCB1
+11,8019,727,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCB1
+12,194,727,Caffeine,ABCB1
+13,32326,743,Oleanolic acid,ABCB11
+14,1102,743,Nifedipine,ABCB11
+15,117,3869,choline,ABCB4
+16,1102,3337,Nifedipine,ABCB5
+17,194,3337,Caffeine,ABCB5
+18,35710,1448,Tangeritin,ABCC1
+19,34650,1448,Sinensetin,ABCC1
+20,34785,1448,Pachypodol,ABCC1
+21,35586,1448,Nobiletin,ABCC1
+22,34516,1448,Neochanin,ABCC1
+23,3283,1448,Naringenin,ABCC1
+24,8019,1448,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC1
+25,34602,1448,iso-Licoflavonol,ABCC1
+26,35360,1448,7-Hydroxy-2-(4-hydroxyphenyl)-6-(3-methyl-2-buten-1-yl)-4H-chromen-4-one,ABCC1
+27,8019,5900,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC11
+28,1102,729,Nifedipine,ABCC2
+29,34516,729,Neochanin,ABCC2
+30,1102,5296,Nifedipine,ABCC3
+31,8019,5296,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC3
+32,3283,5332,Naringenin,ABCC4
+33,8019,5332,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC4
+34,3283,5337,Naringenin,ABCC5
+35,117,728,choline,ABCG1
+36,3993,728,4-Hydroxybenzoic acid,ABCG1
+37,34650,3338,Sinensetin,ABCG2
+38,32326,3338,Oleanolic acid,ABCG2
+39,35586,3338,Nobiletin,ABCG2
+40,8019,3338,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCG2
+41,34518,3338,Licochalcone A,ABCG2
+42,34602,3338,iso-Licoflavonol,ABCG2
+43,57804,3338,Glycyrrh-iso-flavone,ABCG2
+44,194,3338,Caffeine,ABCG2
+45,35360,3338,7-Hydroxy-2-(4-hydroxyphenyl)-6-(3-methyl-2-buten-1-yl)-4H-chromen-4-one,ABCG2
+46,3993,3338,4-Hydroxybenzoic acid,ABCG2
+47,33749,4893,Stigmasterol,ABCG5
+48,1102,4893,Nifedipine,ABCG5
+49,897,4893,Cocaine,ABCG5
+50,3993,4893,4-Hydroxybenzoic acid,ABCG5
+51,33749,5486,Stigmasterol,ABCG8
+52,3993,5486,4-Hydroxybenzoic acid,ABCG8
+53,63707,5174,(.+/-.)-trans-Nerolidol,ABHD1
+54,8660,5005,DL-Proline,ABHD5
+55,35694,751,Myristicin,ABL1
+56,4179,270,Carboxy-N,ACACA
+57,36879,267,Vanillin,ACACB
+58,142,267,CREATINE,ACACB
+59,117,267,choline,ACACB
+60,32446,267,beta-Ionone,ACACB
+61,33749,1296,Stigmasterol,ACAT1
+62,2687,1296,Decane,ACAT1
+63,2687,1814,Decane,ACAT2
+64,194,1814,Caffeine,ACAT2
+65,8019,778,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ACE
+66,8660,778,DL-Proline,ACE
+67,142,778,CREATINE,ACE
+68,194,778,Caffeine,ACE
+69,31159,272,Trimethylamine,ACHE
+70,3283,272,Naringenin,ACHE
+71,897,272,Cocaine,ACHE
+72,31559,272,Chuanxingzine,ACHE
+73,117,272,choline,ACHE
+74,194,272,Caffeine,ACHE
+75,18491,1632,gentisic acid,ACO2
+76,142,1632,CREATINE,ACO2
+77,897,1632,Cocaine,ACO2
+78,7890,1632,(+/-)-Eucalyptol,ACO2
+79,3993,3784,4-Hydroxybenzoic acid,ACOT13
+80,3993,2573,4-Hydroxybenzoic acid,ACOX1
+81,32326,765,Oleanolic acid,ACP1
+82,8019,765,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ACP1
+83,8660,2737,DL-Proline,ACPP
+84,142,2737,CREATINE,ACPP
+85,36999,353,Osthole,ACSL1
+86,194,687,Caffeine,ACSL3
+87,34588,2350,o-Cymene,ACTA1
+88,142,2350,CREATINE,ACTA1
+89,194,2350,Caffeine,ACTA1
+90,142,741,CREATINE,ACVR1B
+91,194,1144,Caffeine,ADA
+92,194,2333,Caffeine,ADCY2
+93,194,4802,Caffeine,ADCY7
+94,194,839,Caffeine,ADORA1
+95,34602,840,iso-Licoflavonol,ADORA2A
+96,194,840,Caffeine,ADORA2A
+97,194,967,Caffeine,ADORA2B
+98,194,3863,Caffeine,ADORA3
+99,2687,787,Decane,ADRA1A
+100,2687,864,Decane,ADRA1B
+101,2687,865,Decane,ADRA1D
+102,897,788,Cocaine,ADRB1
+103,32656,788,Citronellal,ADRB1
+104,897,824,Cocaine,ADRB2
+105,32656,824,Citronellal,ADRB2
+106,897,1043,Cocaine,ADRB3
+107,3993,5107,4-Hydroxybenzoic acid,ADSL
+108,8019,325,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ADSS
+109,194,325,Caffeine,ADSS
+110,8019,329,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ADSSL1
+111,194,329,Caffeine,ADSSL1
+112,194,5700,Caffeine,AFG3L1P
+113,3283,4381,Naringenin,AFP
+114,8019,4381,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AFP
+115,9210,4381,Acetic acid,AFP
+116,32326,4424,Oleanolic acid,AGER
+117,117,3974,choline,AGPAT1
+118,1102,3411,Nifedipine,AGT
+119,8019,2629,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AHCY
+120,3283,1048,Naringenin,AHR
+121,2399,2563,Thymol,AIFM1
+122,142,1626,CREATINE,AK1
+123,194,1623,Caffeine,AK2
+124,194,5721,Caffeine,AKAP17A
+125,194,2217,Caffeine,AKR1A1
+126,34785,559,Pachypodol,AKR1B1
+127,38045,559,Nonanal,AKR1B1
+128,35586,559,Nobiletin,AKR1B1
+129,34602,559,iso-Licoflavonol,AKR1B1
+130,142,559,CREATINE,AKR1B1
+131,35360,559,7-Hydroxy-2-(4-hydroxyphenyl)-6-(3-methyl-2-buten-1-yl)-4H-chromen-4-one,AKR1B1
+132,3283,592,Naringenin,AKR1C1
+133,36879,600,Vanillin,AKR1C2
+134,18491,600,gentisic acid,AKR1C2
+135,70543,600,(S)-(+)-Linalool,AKR1C2
+136,36999,589,Osthole,AKR1C3
+137,3283,589,Naringenin,AKR1C3
+138,36039,589,glycycoumarin,AKR1C3
+139,32320,738,TERPINOLENE,AKT1
+140,35710,738,Tangeritin,AKT1
+141,32326,738,Oleanolic acid,AKT1
+142,1102,738,Nifedipine,AKT1
+143,3283,738,Naringenin,AKT1
+144,8019,738,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AKT1
+145,31207,738,levistolide A,AKT1
+146,142,738,CREATINE,AKT1
+147,70575,738,Chromone,AKT1
+148,117,738,choline,AKT1
+149,194,738,Caffeine,AKT1
+150,32303,738,Betulinic acid,AKT1
+151,70543,738,(S)-(+)-Linalool,AKT1
+152,1392,3628,Bufotenin,AKT2
+153,7002,1331,Homogentisic acid,ALAD
+154,194,498,Caffeine,ALAS2
+155,70543,498,(S)-(+)-Linalool,ALAS2
+156,31159,4730,Trimethylamine,ALB
+157,2399,4730,Thymol,ALB
+158,56947,4730,Ononin,ALB
+159,34516,4730,Neochanin,ALB
+160,8019,4730,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALB
+161,31126,4730,Lutein,ALB
+162,526,4730,Guanidine,ALB
+163,2616,4730,Glycocyamine,ALB
+164,18491,4730,gentisic acid,ALB
+165,35400,4730,Ferulic acid,ALB
+166,8660,4730,DL-Proline,ALB
+167,2687,4730,Decane,ALB
+168,142,4730,CREATINE,ALB
+169,117,4730,choline,ALB
+170,35084,4730,Calycosin,ALB
+171,194,4730,Caffeine,ALB
+172,3993,4730,4-Hydroxybenzoic acid,ALB
+173,35274,4730,2-Methylphenol,ALB
+174,8660,446,DL-Proline,ALDH18A1
+175,194,446,Caffeine,ALDH18A1
+176,1392,446,Bufotenin,ALDH18A1
+177,8660,605,DL-Proline,ALDH1A1
+178,117,605,choline,ALDH1A1
+179,194,605,Caffeine,ALDH1A1
+180,8660,612,DL-Proline,ALDH1A2
+181,117,612,choline,ALDH1A2
+182,8660,608,DL-Proline,ALDH1A3
+183,117,608,choline,ALDH1A3
+184,8660,609,DL-Proline,ALDH1B1
+185,117,609,choline,ALDH1B1
+186,8019,234,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALDH1L1
+187,8660,234,DL-Proline,ALDH1L1
+188,526,598,Guanidine,ALDH2
+189,8660,598,DL-Proline,ALDH2
+190,117,598,choline,ALDH2
+191,4179,598,Carboxy-N,ALDH2
+192,8660,604,DL-Proline,ALDH3A1
+193,8660,613,DL-Proline,ALDH3A2
+194,8660,602,DL-Proline,ALDH3B2
+195,8660,628,DL-Proline,ALDH4A1
+196,36879,386,Vanillin,ALDH5A1
+197,31781,386,g-Guanidinobutyrate,ALDH5A1
+198,8660,386,DL-Proline,ALDH5A1
+199,8660,603,DL-Proline,ALDH6A1
+200,194,603,Caffeine,ALDH6A1
+201,8660,614,DL-Proline,ALDH7A1
+202,117,614,choline,ALDH7A1
+203,8660,607,DL-Proline,ALDH9A1
+204,117,607,choline,ALDH9A1
+205,194,607,Caffeine,ALDH9A1
+206,117,2293,choline,ALDOA
+207,35710,4191,Tangeritin,ALOX12
+208,34650,4191,Sinensetin,ALOX12
+209,34785,4191,Pachypodol,ALOX12
+210,35586,4191,Nobiletin,ALOX12
+211,57804,4191,Glycyrrh-iso-flavone,ALOX12
+212,57804,3756,Glycyrrh-iso-flavone,ALOX15
+213,9091,3756,Caffeic acid,ALOX15
+214,34785,707,Pachypodol,ALOX5
+215,35586,707,Nobiletin,ALOX5
+216,9091,707,Caffeic acid,ALOX5
+217,2399,4715,Thymol,ALPL
+218,3283,4715,Naringenin,ALPL
+219,8019,4715,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALPL
+220,526,4715,Guanidine,ALPL
+221,8660,4715,DL-Proline,ALPL
+222,2687,4715,Decane,ALPL
+223,142,4715,CREATINE,ALPL
+224,117,4715,choline,ALPL
+225,194,4715,Caffeine,ALPL
+226,2399,3751,Thymol,ALPP
+227,8019,3751,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALPP
+228,526,3751,Guanidine,ALPP
+229,8660,3751,DL-Proline,ALPP
+230,2687,3751,Decane,ALPP
+231,142,3751,CREATINE,ALPP
+232,117,3751,choline,ALPP
+233,194,3751,Caffeine,ALPP
+234,2399,1322,Thymol,ALPPL2
+235,8019,1322,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALPPL2
+236,526,1322,Guanidine,ALPPL2
+237,8660,1322,DL-Proline,ALPPL2
+238,2687,1322,Decane,ALPPL2
+239,142,1322,CREATINE,ALPPL2
+240,117,1322,choline,ALPPL2
+241,194,1322,Caffeine,ALPPL2
+242,194,2531,Caffeine,ANG
+243,31243,4013,1-Methylguanidine,ANGPTL3
+244,194,4447,Caffeine,ANGPTL4
+245,31243,1366,1-Methylguanidine,ANPEP
+246,2530,2090,D-Aspartatic acid,ansB
+247,1102,5249,Nifedipine,ANXA8
+248,1102,5250,Nifedipine,ANXA9
+249,31243,1174,1-Methylguanidine,AOC1
+250,34650,2795,Sinensetin,AOX1
+251,8019,2795,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AOX1
+252,7890,740,(+/-)-Eucalyptol,APAF1
+253,8660,1557,DL-Proline,APCS
+254,194,3356,Caffeine,APEX1
+255,70543,3875,(S)-(+)-Linalool,APH1B
+256,1102,4661,Nifedipine,APOA1
+257,8019,4661,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,APOA1
+258,8660,4661,DL-Proline,APOA1
+259,117,4661,choline,APOA1
+260,194,4661,Caffeine,APOA1
+261,1102,4258,Nifedipine,APOA2
+262,117,4258,choline,APOA2
+263,194,4258,Caffeine,APOA2
+264,1102,4819,Nifedipine,APOA4
+265,194,4819,Caffeine,APOA4
+266,35586,3941,Nobiletin,APOB
+267,8019,3941,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,APOB
+268,35400,3941,Ferulic acid,APOB
+269,142,3941,CREATINE,APOB
+270,117,3941,choline,APOB
+271,194,3941,Caffeine,APOB
+272,194,4813,Caffeine,APOC1
+273,31559,3939,Chuanxingzine,APOC3
+274,194,3939,Caffeine,APOC3
+275,1102,4818,Nifedipine,APOD
+276,194,4818,Caffeine,APOD
+277,8019,124,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,APOE
+278,142,124,CREATINE,APOE
+279,117,124,choline,APOE
+280,3283,2093,Naringenin,APP
+281,117,2093,choline,APP
+282,4179,2093,Carboxy-N,APP
+283,9091,2093,Caffeic acid,APP
+284,31232,2093,Butylphthalide,APP
+285,117,1042,choline,AR
+286,34333,1042,29-Hydroxy-11,AR
+287,32981,1042,(+)-Nootkatone,AR
+288,8660,2436,DL-Proline,ARF1
+289,194,2436,Caffeine,ARF1
+290,117,1779,choline,ARF6
+291,526,332,Guanidine,ARG1
+292,2616,332,Glycocyamine,ARG1
+293,31781,332,g-Guanidinobutyrate,ARG1
+294,8660,332,DL-Proline,ARG1
+295,31159,286,Trimethylamine,ARG2
+296,526,286,Guanidine,ARG2
+297,2616,286,Glycocyamine,ARG2
+298,31781,286,g-Guanidinobutyrate,ARG2
+299,8660,286,DL-Proline,ARG2
+300,526,1133,Guanidine,argG
+301,53410,3719,2-Propylpiperidine,ARPC5
+302,194,5628,Caffeine,ARRB2
+303,117,39173,choline,ARSH
+304,897,3812,Cocaine,ASIC3
+305,31559,3812,Chuanxingzine,ASIC3
+306,897,4988,Cocaine,ASIC5
+307,35586,318,Nobiletin,ASNS
+308,194,318,Caffeine,ASNS
+309,18491,5405,gentisic acid,ASPN
+310,526,287,Guanidine,ASS1
+311,8019,235,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ATIC
+312,142,235,CREATINE,ATIC
+313,194,235,Caffeine,ATIC
+314,35694,848,Myristicin,ATM
+315,194,848,Caffeine,ATM
+316,142,2929,CREATINE,ATP2A1
+317,31559,2929,Chuanxingzine,ATP2A1
+318,194,2929,Caffeine,ATP2A1
+319,31559,4297,Chuanxingzine,ATP2A2
+320,194,4297,Caffeine,ATP2A2
+321,31559,887,Chuanxingzine,ATP2C1
+322,9210,867,Acetic acid,ATP4A
+323,31243,3072,1-Methylguanidine,ATP5A1
+324,194,3421,Caffeine,ATP6V1B2
+325,9912,2266,cis-caffeic acid,AURKA
+326,34650,3311,Sinensetin,AURKB
+327,35586,3311,Nobiletin,AURKB
+328,4410,3311,Hesperidin,AURKB
+329,1102,4196,Nifedipine,AVP
+330,194,82,Caffeine,AVPR1A
+331,1102,81,Nifedipine,AVPR2
+332,897,81,Cocaine,AVPR2
+333,4179,3219,Carboxy-N,AXIN1
+334,8660,2403,DL-Proline,B2M
+335,35710,2165,Tangeritin,BACE1
+336,35586,2165,Nobiletin,BACE1
+337,35400,2165,Ferulic acid,BACE1
+338,2399,4943,Thymol,BAX
+339,1102,4943,Nifedipine,BAX
+340,34516,4943,Neochanin,BAX
+341,3283,4943,Naringenin,BAX
+342,31126,4943,Lutein,BAX
+343,34678,4943,Licochalcone B,BAX
+344,142,4943,CREATINE,BAX
+345,194,4943,Caffeine,BAX
+346,32303,4943,Betulinic acid,BAX
+347,32446,4943,beta-Ionone,BAX
+348,8019,199,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BCAT1
+349,8019,200,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BCAT2
+350,3283,275,Naringenin,BCHE
+351,142,275,CREATINE,BCHE
+352,117,275,choline,BCHE
+353,2399,1404,Thymol,BCL2
+354,1102,1404,Nifedipine,BCL2
+355,34516,1404,Neochanin,BCL2
+356,3283,1404,Naringenin,BCL2
+357,31126,1404,Lutein,BCL2
+358,34678,1404,Licochalcone B,BCL2
+359,31207,1404,levistolide A,BCL2
+360,4410,1404,Hesperidin,BCL2
+361,31559,1404,Chuanxingzine,BCL2
+362,32446,1404,beta-Ionone,BCL2
+363,31126,3530,Lutein,BCL2L1
+364,31559,3530,Chuanxingzine,BCL2L1
+365,8019,3481,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BCR
+366,1102,3373,Nifedipine,BDNF
+367,117,3373,choline,BDNF
+368,194,3373,Caffeine,BDNF
+369,194,5717,Caffeine,BEST4
+370,36999,725,Osthole,BGLAP
+371,8019,363,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BHMT
+372,128,363,L-(-)-methionine,BHMT
+373,2616,363,Glycocyamine,BHMT
+374,117,363,choline,BHMT
+375,4179,363,Carboxy-N,BHMT
+376,8019,364,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BHMT2
+377,128,364,L-(-)-methionine,BHMT2
+378,117,364,choline,BHMT2
+379,8019,4674,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BIRC3
+380,70543,4674,(S)-(+)-Linalool,BIRC3
+381,34678,3391,Licochalcone B,BIRC5
+382,32303,3391,Betulinic acid,BIRC5
+383,35084,391,Calycosin,BLVRB
+384,8660,2726,DL-Proline,BPHL
+385,8019,5225,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BRCA1
+386,35694,5225,Myristicin,BRCA1
+387,194,5225,Caffeine,BRCA1
+388,117,4602,choline,BRCA2
+389,1102,4996,Nifedipine,BTF3P11
+390,194,4996,Caffeine,BTF3P11
+391,194,4,Caffeine,C1R
+392,194,9,Caffeine,C1S
+393,3993,61,4-Hydroxybenzoic acid,C4A
+394,3993,62,4-Hydroxybenzoic acid,C4B_2
+395,36879,909,Vanillin,CA1
+396,9091,909,Caffeic acid,CA1
+397,2399,1350,Thymol,CA10
+398,2399,1351,Thymol,CA11
+399,2399,1156,Thymol,CA12
+400,34602,1156,iso-Licoflavonol,CA12
+401,18491,1156,gentisic acid,CA12
+402,9091,1156,Caffeic acid,CA12
+403,3993,1156,4-Hydroxybenzoic acid,CA12
+404,31159,1352,Trimethylamine,CA13
+405,2399,1352,Thymol,CA13
+406,1102,1352,Nifedipine,CA13
+407,526,1352,Guanidine,CA13
+408,53911,1352,Cymene,CA13
+409,32774,1352,Carvacrol,CA13
+410,3993,1352,4-Hydroxybenzoic acid,CA13
+411,2399,1308,Thymol,CA14
+412,36999,1308,Osthole,CA14
+413,36039,1308,glycycoumarin,CA14
+414,3993,1308,4-Hydroxybenzoic acid,CA14
+415,36879,910,Vanillin,CA2
+416,31159,910,Trimethylamine,CA2
+417,2399,910,Thymol,CA2
+418,526,910,Guanidine,CA2
+419,18491,910,gentisic acid,CA2
+420,53911,910,Cymene,CA2
+421,117,910,choline,CA2
+422,32774,910,Carvacrol,CA2
+423,194,910,Caffeine,CA2
+424,9091,910,Caffeic acid,CA2
+425,3993,910,4-Hydroxybenzoic acid,CA2
+426,2399,1309,Thymol,CA3
+427,526,1309,Guanidine,CA3
+428,142,1309,CREATINE,CA3
+429,9091,1309,Caffeic acid,CA3
+430,3993,1309,4-Hydroxybenzoic acid,CA3
+431,2399,911,Thymol,CA4
+432,18491,911,gentisic acid,CA4
+433,9091,911,Caffeic acid,CA4
+434,3993,911,4-Hydroxybenzoic acid,CA4
+435,2399,1346,Thymol,CA5A
+436,3993,1346,4-Hydroxybenzoic acid,CA5A
+437,2399,1347,Thymol,CA5B
+438,36999,1347,Osthole,CA5B
+439,9091,1347,Caffeic acid,CA5B
+440,3993,1347,4-Hydroxybenzoic acid,CA5B
+441,2399,1348,Thymol,CA6
+442,9091,1348,Caffeic acid,CA6
+443,3993,1348,4-Hydroxybenzoic acid,CA6
+444,2399,999,Thymol,CA7
+445,1102,999,Nifedipine,CA7
+446,9091,999,Caffeic acid,CA7
+447,3993,999,4-Hydroxybenzoic acid,CA7
+448,2399,1349,Thymol,CA8
+449,2399,1155,Thymol,CA9
+450,36999,1155,Osthole,CA9
+451,3993,1155,4-Hydroxybenzoic acid,CA9
+452,1102,1050,Nifedipine,CACNA1B
+453,194,1050,Caffeine,CACNA1B
+454,1102,954,Nifedipine,CACNA1C
+455,194,954,Caffeine,CACNA1C
+456,1102,959,Nifedipine,CACNA1D
+457,194,959,Caffeine,CACNA1D
+458,1102,4177,Nifedipine,CACNA1E
+459,194,4177,Caffeine,CACNA1E
+460,1102,1060,Nifedipine,CACNA1F
+461,194,1060,Caffeine,CACNA1F
+462,1102,1026,Nifedipine,CACNA1G
+463,194,1026,Caffeine,CACNA1G
+464,1102,957,Nifedipine,CACNA1H
+465,194,957,Caffeine,CACNA1H
+466,1102,1157,Nifedipine,CACNA1I
+467,194,1157,Caffeine,CACNA1I
+468,1102,960,Nifedipine,CACNA1S
+469,2687,960,Decane,CACNA1S
+470,194,960,Caffeine,CACNA1S
+471,1102,955,Nifedipine,CACNA2D1
+472,194,955,Caffeine,CACNA2D1
+473,194,958,Caffeine,CACNA2D2
+474,1102,1051,Nifedipine,CACNA2D3
+475,194,1051,Caffeine,CACNA2D3
+476,1102,5000,Nifedipine,CACNA2D4
+477,194,5000,Caffeine,CACNA2D4
+478,1102,992,Nifedipine,CACNB1
+479,194,992,Caffeine,CACNB1
+480,1102,956,Nifedipine,CACNB2
+481,194,956,Caffeine,CACNB2
+482,1102,1061,Nifedipine,CACNB3
+483,194,1061,Caffeine,CACNB3
+484,1102,1062,Nifedipine,CACNB4
+485,194,1062,Caffeine,CACNB4
+486,1102,993,Nifedipine,CACNG1
+487,194,993,Caffeine,CACNG1
+488,1102,5001,Nifedipine,CACNG2
+489,194,5001,Caffeine,CACNG2
+490,1102,4998,Nifedipine,CACNG4
+491,194,4998,Caffeine,CACNG4
+492,1102,4997,Nifedipine,CACNG7
+493,194,4997,Caffeine,CACNG7
+494,31126,324,Lutein,CAD
+495,2687,324,Decane,CAD
+496,8019,4926,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CADM1
+497,1102,1108,Nifedipine,CALM1
+498,142,1108,CREATINE,CALM1
+499,117,1108,choline,CALM1
+500,194,1108,Caffeine,CALM1
+501,142,8890,CREATINE,CALM3
+502,117,8890,choline,CALM3
+503,194,8890,Caffeine,CALM3
+504,8660,53,DL-Proline,CALR
+505,1102,3004,Nifedipine,CAMK2A
+506,194,3484,Caffeine,CAMK2G
+507,194,2150,Caffeine,CAMP
+508,53911,3126,Cymene,CAPN1
+509,194,3126,Caffeine,CAPN1
+510,117,39119,choline,CARNS1
+511,194,5788,Caffeine,CASP2
+512,2399,1382,Thymol,CASP3
+513,36999,1382,Osthole,CASP3
+514,32326,1382,Oleanolic acid,CASP3
+515,34516,1382,Neochanin,CASP3
+516,3283,1382,Naringenin,CASP3
+517,35694,1382,Myristicin,CASP3
+518,34678,1382,Licochalcone B,CASP3
+519,31207,1382,levistolide A,CASP3
+520,4410,1382,Hesperidin,CASP3
+521,32304,1382,Friedelin,CASP3
+522,142,1382,CREATINE,CASP3
+523,897,1382,Cocaine,CASP3
+524,31559,1382,Chuanxingzine,CASP3
+525,117,1382,choline,CASP3
+526,32774,1382,Carvacrol,CASP3
+527,194,1382,Caffeine,CASP3
+528,9091,1382,Caffeic acid,CASP3
+529,32303,1382,Betulinic acid,CASP3
+530,32446,1382,beta-Ionone,CASP3
+531,32303,2731,Betulinic acid,CASP7
+532,2399,4256,Thymol,CASP8
+533,32326,4256,Oleanolic acid,CASP8
+534,34516,4256,Neochanin,CASP8
+535,31559,4256,Chuanxingzine,CASP8
+536,2399,4565,Thymol,CASP9
+537,34516,4565,Neochanin,CASP9
+538,3283,4565,Naringenin,CASP9
+539,4410,4565,Hesperidin,CASP9
+540,31559,4565,Chuanxingzine,CASP9
+541,194,4565,Caffeine,CASP9
+542,9210,1377,Acetic acid,CASR
+543,2399,1471,Thymol,CAT
+544,32326,1471,Oleanolic acid,CAT
+545,3283,1471,Naringenin,CAT
+546,8019,1471,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CAT
+547,31126,1471,Lutein,CAT
+548,4410,1471,Hesperidin,CAT
+549,18491,1471,gentisic acid,CAT
+550,35400,1471,Ferulic acid,CAT
+551,8660,1471,DL-Proline,CAT
+552,142,1471,CREATINE,CAT
+553,117,1471,choline,CAT
+554,4179,1471,Carboxy-N,CAT
+555,194,1471,Caffeine,CAT
+556,9091,1471,Caffeic acid,CAT
+557,9210,1471,Acetic acid,CAT
+558,3993,1471,4-Hydroxybenzoic acid,CAT
+559,9140,1471,(+)-Costunolide,CAT
+560,1102,5002,Nifedipine,CATSPER1
+561,194,5002,Caffeine,CATSPER1
+562,8019,4421,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CBL
+563,8019,4301,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CBS
+564,7002,4301,Homogentisic acid,CBS
+565,117,4301,choline,CBS
+566,3993,4301,4-Hydroxybenzoic acid,CBS
+567,117,4235,choline,CCK
+568,194,4235,Caffeine,CCK
+569,60251,3446,4-(7-Methoxy-4-oxo-4H-chromen-3-yl)phenyl hexopyranoside,CCL11
+570,897,5032,Cocaine,CCL17
+571,1102,1408,Nifedipine,CCL2
+572,3283,1408,Naringenin,CCL2
+573,8019,1408,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CCL2
+574,4179,1408,Carboxy-N,CCL2
+575,9091,1408,Caffeic acid,CCL2
+576,9091,3438,Caffeic acid,CCL3
+577,9091,5758,Caffeic acid,CCL4
+578,35586,2014,Nobiletin,CCNA2
+579,34678,2014,Licochalcone B,CCNA2
+580,36999,4161,Osthole,CCNB1
+581,31207,4161,levistolide A,CCNB1
+582,35084,4161,Calycosin,CCNB1
+583,194,4161,Caffeine,CCNB1
+584,32326,1461,Oleanolic acid,CCND1
+585,31126,1461,Lutein,CCND1
+586,31207,1461,levistolide A,CCND1
+587,35400,1461,Ferulic acid,CCND1
+588,194,1461,Caffeine,CCND1
+589,31207,4963,levistolide A,CCND2
+590,8019,4959,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CCND3
+591,35084,4959,Calycosin,CCND3
+592,35586,4969,Nobiletin,CCNE2
+593,117,4968,choline,CCNF
+594,194,4968,Caffeine,CCNF
+595,35084,4973,Calycosin,CCNG1
+596,31126,4964,Lutein,CCNT1
+597,9091,3913,Caffeic acid,CCR1
+598,9091,3389,Caffeic acid,CCR2
+599,9091,3919,Caffeic acid,CCR4
+600,8660,3336,DL-Proline,CCR5
+601,117,3353,choline,CD22
+602,117,4079,choline,CD36
+603,8019,150,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CD4
+604,526,150,Guanidine,CD4
+605,9091,150,Caffeic acid,CD4
+606,35084,3905,Calycosin,CD40
+607,35586,3460,Nobiletin,CD74
+608,8019,4935,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CD79A
+609,142,4935,CREATINE,CD79A
+610,9210,3442,Acetic acid,CD9
+611,34678,4179,Licochalcone B,CDC25A
+612,194,4179,Caffeine,CDC25A
+613,34678,1689,Licochalcone B,CDC25B
+614,194,1689,Caffeine,CDC25B
+615,194,4181,Caffeine,CDC25C
+616,194,4567,Caffeine,CDH1
+617,8019,5556,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CDH13
+618,9210,1113,Acetic acid,CDH5
+619,34678,1987,Licochalcone B,CDK1
+620,194,1987,Caffeine,CDK1
+621,36999,744,Osthole,CDK15
+622,36999,3622,Osthole,CDK16
+623,36999,1680,Osthole,CDK2
+624,34678,1680,Licochalcone B,CDK2
+625,194,1680,Caffeine,CDK2
+626,9091,1680,Caffeic acid,CDK2
+627,36999,2400,Osthole,CDK4
+628,2635,2400,Dodecane,CDK4
+629,897,2400,Cocaine,CDK4
+630,194,2400,Caffeine,CDK4
+631,36999,2791,Osthole,CDK6
+632,35694,2262,Myristicin,CDK7
+633,9912,2262,cis-caffeic acid,CDK7
+634,35084,2262,Calycosin,CDK7
+635,32326,4376,Oleanolic acid,CDKN1A
+636,35400,4376,Ferulic acid,CDKN1A
+637,35084,4376,Calycosin,CDKN1A
+638,194,4376,Caffeine,CDKN1A
+639,70543,4376,(S)-(+)-Linalool,CDKN1A
+640,70543,5462,(S)-(+)-Linalool,CDKN1B
+641,35084,4275,Calycosin,CDKN1C
+642,70543,4275,(S)-(+)-Linalool,CDKN1C
+643,8019,4341,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CDKN2A
+644,4179,4341,Carboxy-N,CDKN2A
+645,36879,39111,Vanillin,CDY1B
+646,36879,39248,Vanillin,CDY2B
+647,31243,167,1-Methylguanidine,CEACAM1
+648,70543,4251,(S)-(+)-Linalool,CEBPB
+649,117,5023,choline,CEL
+650,34516,830,Neochanin,CES1
+651,38112,830,dl-Perillaldehyde,CES1
+652,35586,1332,Nobiletin,CFTR
+653,1102,1332,Nifedipine,CFTR
+654,31559,1332,Chuanxingzine,CFTR
+655,1102,4823,Nifedipine,CH25H
+656,194,4823,Caffeine,CH25H
+657,117,804,choline,CHAT
+658,9091,804,Caffeic acid,CHAT
+659,8019,5929,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CHDH
+660,117,5929,choline,CHDH
+661,194,3398,Caffeine,CHEK1
+662,35694,3397,Myristicin,CHEK2
+663,194,3397,Caffeine,CHEK2
+664,35933,3397,2-Ethylphenol,CHEK2
+665,194,4006,Caffeine,CHIA
+666,8660,2539,DL-Proline,CHIT1
+667,194,2539,Caffeine,CHIT1
+668,117,4454,choline,CHKA
+669,117,5350,choline,CHKB
+670,194,5350,Caffeine,CHKB
+671,117,3579,choline,CHRFAM7A
+672,194,3579,Caffeine,CHRFAM7A
+673,1102,806,Nifedipine,CHRM1
+674,897,806,Cocaine,CHRM1
+675,194,806,Caffeine,CHRM1
+676,1102,849,Nifedipine,CHRM2
+677,897,849,Cocaine,CHRM2
+678,194,849,Caffeine,CHRM2
+679,194,805,Caffeine,CHRM3
+680,194,940,Caffeine,CHRM4
+681,117,1221,choline,CHRNA1
+682,194,1221,Caffeine,CHRNA1
+683,1392,1221,Bufotenin,CHRNA1
+684,194,800,Caffeine,CHRNA10
+685,1392,800,Bufotenin,CHRNA10
+686,117,795,choline,CHRNA2
+687,194,795,Caffeine,CHRNA2
+688,1392,795,Bufotenin,CHRNA2
+689,1392,796,Bufotenin,CHRNA3
+690,117,792,choline,CHRNA4
+691,194,792,Caffeine,CHRNA4
+692,1392,792,Bufotenin,CHRNA4
+693,1392,797,Bufotenin,CHRNA5
+694,194,798,Caffeine,CHRNA6
+695,1392,798,Bufotenin,CHRNA6
+696,117,793,choline,CHRNA7
+697,194,793,Caffeine,CHRNA7
+698,1392,799,Bufotenin,CHRNA9
+699,117,1222,choline,CHRNB1
+700,194,1222,Caffeine,CHRNB1
+701,1392,1222,Bufotenin,CHRNB1
+702,117,794,choline,CHRNB2
+703,194,794,Caffeine,CHRNB2
+704,1392,794,Bufotenin,CHRNB2
+705,117,801,choline,CHRNB3
+706,1392,801,Bufotenin,CHRNB3
+707,1392,802,Bufotenin,CHRNB4
+708,117,1223,choline,CHRND
+709,194,1223,Caffeine,CHRND
+710,1392,1223,Bufotenin,CHRND
+711,117,1225,choline,CHRNE
+712,194,1225,Caffeine,CHRNE
+713,1392,1225,Bufotenin,CHRNE
+714,1392,1224,Bufotenin,CHRNG
+715,142,518,CREATINE,CKB
+716,142,516,CREATINE,CKM
+717,142,517,CREATINE,CKMT1B
+718,142,519,CREATINE,CKMT2
+719,194,5627,Caffeine,CLCA1
+720,194,5708,Caffeine,CLCA2
+721,194,5718,Caffeine,CLCA3P
+722,194,5714,Caffeine,CLCA4
+723,194,1401,Caffeine,CLCN2
+724,194,5711,Caffeine,CLCN4
+725,194,5719,Caffeine,CLCN5
+726,194,5715,Caffeine,CLIC2
+727,194,5706,Caffeine,CLIC3
+728,194,5720,Caffeine,CLIC4
+729,194,5716,Caffeine,CLIC6
+730,194,5710,Caffeine,CLNS1A
+731,1102,3899,Nifedipine,CLU
+732,117,2267,choline,CMAS
+733,8019,5208,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CNDP2
+734,8660,5208,DL-Proline,CNDP2
+735,194,5208,Caffeine,CNDP2
+736,194,4382,Caffeine,CNP
+737,142,5048,CREATINE,COG2
+738,70543,5401,(S)-(+)-Linalool,COL10A1
+739,8660,5431,DL-Proline,COL14A1
+740,194,5431,Caffeine,COL14A1
+741,1392,5431,Bufotenin,COL14A1
+742,32326,105,Oleanolic acid,COL1A1
+743,31559,105,Chuanxingzine,COL1A1
+744,194,105,Caffeine,COL1A1
+745,9210,105,Acetic acid,COL1A1
+746,9210,106,Acetic acid,COL2A1
+747,8660,1510,DL-Proline,COMP
+748,142,1510,CREATINE,COMP
+749,194,1510,Caffeine,COMP
+750,1392,1510,Bufotenin,COMP
+751,36879,244,Vanillin,COMT
+752,8019,244,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,COMT
+753,194,244,Caffeine,COMT
+754,9091,244,Caffeic acid,COMT
+755,1392,244,Bufotenin,COMT
+756,1102,4841,Nifedipine,COQ6
+757,31126,4841,Lutein,COQ6
+758,194,4841,Caffeine,COQ6
+759,3993,4841,4-Hydroxybenzoic acid,COQ6
+760,194,5769,Caffeine,CORT
+761,8660,2366,DL-Proline,COX1
+762,31962,2368,Trigonelline,COX3
+763,142,2376,CREATINE,COX6B1
+764,194,2373,Caffeine,COX7C
+765,36879,118,Vanillin,CP
+766,8019,118,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CP
+767,194,5207,Caffeine,CPA5
+768,31126,3500,Lutein,CPS1
+769,36999,1170,Osthole,CPT1A
+770,194,1170,Caffeine,CPT1A
+771,194,5563,Caffeine,CPT1C
+772,142,1169,CREATINE,CPT2
+773,194,1169,Caffeine,CPT2
+774,117,5199,choline,CPVL
+775,194,5210,Caffeine,CPZ
+776,9210,5035,Acetic acid,CRABP2
+777,117,1165,choline,CRAT
+778,1102,342,Nifedipine,CREB1
+779,8019,3781,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CREBBP
+780,117,3781,choline,CREBBP
+781,8019,2945,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CRP
+782,31126,2945,Lutein,CRP
+783,8660,2945,DL-Proline,CRP
+784,142,2945,CREATINE,CRP
+785,117,2945,choline,CRP
+786,194,2945,Caffeine,CRP
+787,194,1686,Caffeine,CRYBB1
+788,18491,952,gentisic acid,CRYZ
+789,142,1885,CREATINE,CS
+790,1102,4041,Nifedipine,CSE1L
+791,8019,4647,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CSF3
+792,142,4647,CREATINE,CSF3
+793,35694,1678,Myristicin,CSNK2A1
+794,35694,3587,Myristicin,CSNK2A2
+795,194,3587,Caffeine,CSNK2A2
+796,8019,1836,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CTBP1
+797,117,1836,choline,CTBP1
+798,117,3059,choline,CTDSP1
+799,9091,4022,Caffeic acid,CTF1
+800,36879,3911,Vanillin,CTGF
+801,8019,198,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CTH
+802,194,2927,Caffeine,CTNNB1
+803,117,3976,choline,CTSA
+804,31126,2019,Lutein,CTSB
+805,194,2019,Caffeine,CTSB
+806,9091,2019,Caffeic acid,CTSB
+807,117,4318,choline,CTSC
+808,3283,67,Naringenin,CTSD
+809,35400,67,Ferulic acid,CTSD
+810,9091,67,Caffeic acid,CTSD
+811,70543,67,(S)-(+)-Linalool,CTSD
+812,32303,1765,Betulinic acid,CTSK
+813,194,2827,Caffeine,CTSL
+814,8660,2870,DL-Proline,CTSS
+815,8019,837,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CUBN
+816,4410,4422,Hesperidin,CXCL1
+817,9091,3918,Caffeic acid,CXCL2
+818,32326,5749,Oleanolic acid,CXCL5
+819,36879,3447,Vanillin,CXCL8
+820,33749,3447,Stigmasterol,CXCL8
+821,1102,3447,Nifedipine,CXCL8
+822,3283,3447,Naringenin,CXCL8
+823,8019,3447,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CXCL8
+824,4410,3447,Hesperidin,CXCL8
+825,2635,3447,Dodecane,CXCL8
+826,38112,3447,dl-Perillaldehyde,CXCL8
+827,2687,3447,Decane,CXCL8
+828,31559,3447,Chuanxingzine,CXCL8
+829,9091,3447,Caffeic acid,CXCL8
+830,31126,2968,Lutein,CYB5A
+831,32269,2968,(+/-)-alpha-Pinene,CYB5A
+832,31126,5736,Lutein,CYBA
+833,194,3018,Caffeine,CYC1
+834,3283,1383,Naringenin,CYCS
+835,194,1383,Caffeine,CYCS
+1034,8019,3019,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CYTB
+1035,117,3019,choline,CYTB
+1036,142,4395,CREATINE,DAG1
+1037,8660,2455,DL-Proline,DAO
+1038,8660,320,DL-Proline,DARS
+1039,194,4497,Caffeine,DCT
+1040,3993,4497,4-Hydroxybenzoic acid,DCT
+1041,897,2451,Cocaine,DCXR
+1042,194,2451,Caffeine,DCXR
+1043,36879,3925,Vanillin,DDIT4
+1044,8019,2771,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DECR1
+1045,117,2771,choline,DECR1
+1046,3993,2771,4-Hydroxybenzoic acid,DECR1
+1047,897,4990,Cocaine,DEFB112
+1048,897,4989,Cocaine,DEFB114
+1049,897,4991,Cocaine,DEFB124
+1050,35586,4660,Nobiletin,DGAT1
+1051,194,4115,Caffeine,DHCR24
+1052,8019,621,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DHFR
+1053,8019,1424,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DHODH
+1054,3993,2821,4-Hydroxybenzoic acid,DHPS
+1055,47399,697,Valerophenone,DHRS4
+1056,142,697,CREATINE,DHRS4
+1057,142,39138,CREATINE,DHRS4L2
+1058,3993,4682,4-Hydroxybenzoic acid,DICER1
+1059,35933,4682,2-Ethylphenol,DICER1
+1060,8019,3947,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DKK1
+1061,31126,676,Lutein,DLAT
+1062,526,1134,Guanidine,DLG4
+1063,31126,5843,Lutein,DLST
+1064,142,1872,CREATINE,DMPK
+1065,194,1872,Caffeine,DMPK
+1066,70543,4553,(S)-(+)-Linalool,DNAJB1
+1067,8019,1359,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DNMT1
+1068,117,1359,choline,DNMT1
+1069,194,1359,Caffeine,DNMT1
+1070,9210,1359,Acetic acid,DNMT1
+1071,36879,4597,Vanillin,DNMT3B
+1072,8019,4597,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DNMT3B
+1073,117,4597,choline,DNMT3B
+1074,9210,4597,Acetic acid,DNMT3B
+1075,37613,1662,FARNESYL ACETONE,DPH5
+1076,8660,1418,DL-Proline,DPP4
+1077,194,1418,Caffeine,DPP4
+1078,8019,2125,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DPYD
+1079,526,2125,Guanidine,DPYD
+1080,18491,2125,gentisic acid,DPYD
+1081,1102,789,Nifedipine,DRD2
+1082,194,789,Caffeine,DRD2
+1083,1392,789,Bufotenin,DRD2
+1084,1102,934,Nifedipine,DRD3
+1085,897,933,Cocaine,DRD5
+1086,194,933,Caffeine,DRD5
+1087,32774,4142,Carvacrol,DUSP1
+1088,53410,3071,2-Propylpiperidine,DUSP23
+1089,194,4673,Caffeine,DUSP8
+1090,526,1046,Guanidine,e
+1091,194,3962,Caffeine,E2F1
+1092,36879,2317,Vanillin,ECHS1
+1093,36879,2479,Vanillin,ECI1
+1094,194,2479,Caffeine,ECI1
+1095,36879,3703,Vanillin,ECI2
+1096,194,5430,Caffeine,ECM1
+1097,1102,3443,Nifedipine,EDN1
+1098,194,3443,Caffeine,EDN1
+1099,9091,3443,Caffeic acid,EDN1
+1100,70543,3443,(S)-(+)-Linalool,EDN1
+1101,194,3150,Caffeine,EEF1A1
+1102,9210,3150,Acetic acid,EEF1A1
+1103,897,4992,Cocaine,EEF1B2
+1104,194,1993,Caffeine,EEF2
+1105,8019,2,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,EGFR
+1106,32303,2,Betulinic acid,EGFR
+1107,70543,2,(S)-(+)-Linalool,EGFR
+1108,194,5813,Caffeine,EGR1
+1109,36879,568,Vanillin,EHHADH
+1110,117,5529,choline,EIF2B2
+1111,117,5547,choline,EIF2B3
+1112,117,5549,choline,EIF2B4
+1113,117,5530,choline,EIF2B5
+1114,31126,5525,Lutein,EIF4B
+1115,194,1556,Caffeine,EIF4E
+1116,8660,4039,DL-Proline,EIF4EBP1
+1117,194,4039,Caffeine,EIF4EBP1
+1118,31126,5528,Lutein,EIF4H
+1119,194,5515,Caffeine,EIF5
+1120,35084,4473,Calycosin,ELAVL1
+1121,117,2946,choline,ELSPBP1
+1122,38112,2691,dl-Perillaldehyde,EN2
+1123,32574,2691,2-(4-Methyl-3-cyclohexen-1-yl)-2-propanol,EN2
+1124,194,3996,Caffeine,ENG
+1125,31159,2396,Trimethylamine,ENO2
+1126,142,2396,CREATINE,ENO2
+1127,194,2396,Caffeine,ENO2
+1128,31159,1737,Trimethylamine,ENO3
+1129,31243,423,1-Methylguanidine,ENPEP
+1130,194,1304,Caffeine,ENPP1
+1131,3993,1304,4-Hydroxybenzoic acid,ENPP1
+1132,117,5575,choline,ENPP2
+1133,194,5575,Caffeine,ENPP2
+1134,3993,5575,4-Hydroxybenzoic acid,ENPP2
+1135,194,5568,Caffeine,ENPP3
+1136,3993,5568,4-Hydroxybenzoic acid,ENPP3
+1137,194,5573,Caffeine,ENPP6
+1138,3993,5573,4-Hydroxybenzoic acid,ENPP6
+1139,117,5567,choline,ENPP7
+1140,194,5567,Caffeine,ENPP7
+1141,3993,5567,4-Hydroxybenzoic acid,ENPP7
+1142,8019,5827,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,EP300
+1143,8660,5562,DL-Proline,EPHX1
+1144,194,5562,Caffeine,EPHX1
+1145,76698,5562,.beta.-Methylstyrene,EPHX1
+1146,8660,1971,DL-Proline,EPHX2
+1147,194,28,Caffeine,EPOR
+1148,8660,414,DL-Proline,EPRS
+1149,31243,1415,1-Methylguanidine,EPX
+1150,8660,4522,DL-Proline,ERAP1
+1151,31243,4522,1-Methylguanidine,ERAP1
+1152,8019,130,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ERBB2
+1153,194,3835,Caffeine,ERBB4
+1154,9091,4289,Caffeic acid,ERF
+1155,194,3552,Caffeine,ERN1
+1156,34516,947,Neochanin,ESR1
+1157,3283,947,Naringenin,ESR1
+1158,8019,947,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ESR1
+1159,57804,947,Glycyrrh-iso-flavone,ESR1
+1160,36039,947,glycycoumarin,ESR1
+1161,142,947,CREATINE,ESR1
+1162,35084,947,Calycosin,ESR1
+1163,42599,947,4-[6-Hydroxy-4-methoxy-5-(3-methyl-but-2-enyl)-benzofuran-2-yl]-benzene-1,ESR1
+1164,34516,948,Neochanin,ESR2
+1165,3283,948,Naringenin,ESR2
+1166,34602,948,iso-Licoflavonol,ESR2
+1167,57804,948,Glycyrrh-iso-flavone,ESR2
+1168,35084,948,Calycosin,ESR2
+1169,42599,948,4-[6-Hydroxy-4-methoxy-5-(3-methyl-but-2-enyl)-benzofuran-2-yl]-benzene-1,ESR2
+1170,34516,828,Neochanin,ESRRA
+1171,57804,828,Glycyrrh-iso-flavone,ESRRA
+1172,8660,3498,DL-Proline,F12
+1173,2399,1,Thymol,F2
+1174,36999,1,Osthole,F2
+1175,8019,1,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,F2
+1176,142,1,CREATINE,F2
+1177,117,1,choline,F2
+1178,194,1,Caffeine,F2
+1179,8019,88,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,F3
+1180,142,88,CREATINE,F3
+1181,36879,115,Vanillin,F5
+1182,8019,115,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,F5
+1183,36879,114,Vanillin,F8
+1184,4179,114,Carboxy-N,F8
+1185,4179,48,Carboxy-N,F9
+1186,31243,48,1-Methylguanidine,F9
+1187,31159,5085,Trimethylamine,FABP3
+1188,142,5085,CREATINE,FABP3
+1189,117,5085,choline,FABP3
+1190,36999,4276,Osthole,FABP4
+1191,194,4276,Caffeine,FABP4
+1192,1102,4212,Nifedipine,FABP5
+1193,1102,2364,Nifedipine,FABP6
+1194,7002,1581,Homogentisic acid,FAH
+1195,115,260,L-(-)-Phenylalanine,FARS2
+1196,194,260,Caffeine,FARS2
+1197,115,258,L-(-)-Phenylalanine,FARSA
+1198,194,258,Caffeine,FARSA
+1199,115,261,L-(-)-Phenylalanine,FARSB
+1200,36999,1394,Osthole,FASN
+1201,35400,1394,Ferulic acid,FASN
+1202,2687,1394,Decane,FASN
+1203,117,1394,choline,FASN
+1204,4179,1394,Carboxy-N,FASN
+1205,9091,1394,Caffeic acid,FASN
+1206,3993,1942,4-Hydroxybenzoic acid,fcbC
+1207,8660,13,DL-Proline,FCGR2C
+1208,194,4278,Caffeine,FCGRT
+1209,36999,3431,Osthole,FDFT1
+1210,31126,3431,Lutein,FDFT1
+1211,194,3431,Caffeine,FDFT1
+1212,34333,3431,29-Hydroxy-11,FDFT1
+1213,31126,974,Lutein,FDPS
+1214,32504,974,7-Isopropylidene-1,FDPS
+1215,32325,974,1-Isopropyl-4,FDPS
+1216,194,1215,Caffeine,FDX1
+1217,194,2363,Caffeine,FECH
+1218,32269,2363,(+/-)-alpha-Pinene,FECH
+1219,8019,24,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FGA
+1220,8660,24,DL-Proline,FGA
+1221,18491,1227,gentisic acid,FGF1
+1222,1102,1037,Nifedipine,FGF2
+1223,9210,1228,Acetic acid,FGF4
+1224,36879,90,Vanillin,FGFR2
+1225,35274,5326,2-Methylphenol,FKBP10
+1226,35274,5323,2-Methylphenol,FKBP11
+1227,35274,5317,2-Methylphenol,FKBP14
+1228,194,1025,Caffeine,FKBP1A
+1229,35274,5328,2-Methylphenol,FKBP2
+1230,194,4577,Caffeine,FKBP4
+1231,35274,5319,2-Methylphenol,FKBP7
+1232,35084,1071,Calycosin,FLT1
+1233,9091,1066,Caffeic acid,FLT4
+1234,31159,4907,Trimethylamine,FMO1
+1235,31159,4906,Trimethylamine,FMO3
+1236,117,4906,choline,FMO3
+1237,31159,5141,Trimethylamine,FMO4
+1238,526,3820,Guanidine,FN1
+1239,31559,3820,Chuanxingzine,FN1
+1240,70543,3820,(S)-(+)-Linalool,FN1
+1241,8019,140,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FOLH1
+1242,7890,140,(+/-)-Eucalyptol,FOLH1
+1243,8019,3405,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FOLR1
+1244,117,3405,choline,FOLR1
+1245,8019,682,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FOLR2
+1246,1102,3796,Nifedipine,FOS
+1247,31559,3796,Chuanxingzine,FOS
+1248,117,3796,choline,FOS
+1249,32774,3796,Carvacrol,FOS
+1250,194,3796,Caffeine,FOS
+1251,70543,3796,(S)-(+)-Linalool,FOS
+1252,194,4620,Caffeine,FOXM1
+1253,8019,422,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FPGS
+1254,526,5419,Guanidine,FREM2
+1255,142,39159,CREATINE,FRG2
+1256,31126,78,Lutein,FSHR
+1257,31126,1570,Lutein,FST
+1258,8019,202,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FTCD
+1259,8019,1335,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FTH1
+1260,53911,1335,Cymene,FTH1
+1261,142,1335,CREATINE,FTH1
+1262,8019,1336,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FTL
+1263,53911,1336,Cymene,FTL
+1264,142,1336,CREATINE,FTL
+1265,53911,4771,Cymene,FTMT
+1266,194,1481,Caffeine,FYN
+1267,3283,2524,Naringenin,G6PD
+1268,8019,2524,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,G6PD
+1269,18491,2524,gentisic acid,G6PD
+1270,142,2524,CREATINE,G6PD
+1271,117,2524,choline,G6PD
+1272,194,2524,Caffeine,G6PD
+1273,142,977,CREATINE,GAA
+1274,70543,780,(S)-(+)-Linalool,GABBR1
+1275,2399,807,Thymol,GABRA1
+1276,70543,807,(S)-(+)-Linalool,GABRA1
+1277,70543,896,(S)-(+)-Linalool,GABRB1
+1278,2399,897,Thymol,GABRB2
+1279,9210,898,Acetic acid,GABRB3
+1280,2399,900,Thymol,GABRG2
+1281,9210,169,Acetic acid,GAD1
+1282,35400,4493,Ferulic acid,GAL
+1283,4179,4493,Carboxy-N,GAL
+1284,194,1769,Caffeine,GALE
+1285,38295,521,N-Carbamimidoylaspartic acid,GAMT
+1286,526,521,Guanidine,GAMT
+1287,2616,521,Glycocyamine,GAMT
+1288,142,521,CREATINE,GAMT
+1289,526,611,Guanidine,GAPDH
+1290,142,611,CREATINE,GAPDH
+1291,117,611,choline,GAPDH
+1292,194,611,Caffeine,GAPDH
+1293,9210,611,Acetic acid,GAPDH
+1294,526,606,Guanidine,GAPDHS
+1295,142,606,CREATINE,GAPDHS
+1296,194,500,Caffeine,GARS
+1297,8019,1212,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GART
+1298,8660,4283,DL-Proline,GATA4
+1299,9210,4283,Acetic acid,GATA4
+1300,142,337,CREATINE,GATM
+1301,38295,2534,N-Carbamimidoylaspartic acid,GBA
+1302,31781,2534,g-Guanidinobutyrate,GBA
+1303,31243,2534,1-Methylguanidine,GBA
+1304,32269,96,(+/-)-alpha-Pinene,GCGR
+1305,8019,2164,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GCH1
+1306,36879,417,Vanillin,GCLC
+1307,31962,417,Trigonelline,GCLC
+1308,32326,417,Oleanolic acid,GCLC
+1309,70543,417,(S)-(+)-Linalool,GCLC
+1310,36879,442,Vanillin,GCLM
+1311,32326,442,Oleanolic acid,GCLM
+1312,8828,442,Nerylacetone,GCLM
+1313,1102,5887,Nifedipine,GFAP
+1314,117,5887,choline,GFAP
+1315,194,5887,Caffeine,GFAP
+1316,9210,5887,Acetic acid,GFAP
+1317,194,5240,Caffeine,GFPT1
+1318,194,5231,Caffeine,GFPT2
+1319,8019,4319,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GGH
+1320,31126,1072,Lutein,GGPS1
+1321,63707,1072,(.+/-.)-trans-Nerolidol,GGPS1
+1322,194,4580,Caffeine,GH1
+1323,32326,4324,Oleanolic acid,GHRL
+1324,8019,5766,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GIF
+1325,194,1444,Caffeine,GJA1
+1326,3283,469,Naringenin,GLO1
+1327,32269,98,(+/-)-alpha-Pinene,GLP1R
+1328,32269,97,(+/-)-alpha-Pinene,GLP2R
+1329,897,511,Cocaine,GLRA1
+1330,897,514,Cocaine,GLRA2
+1331,897,512,Cocaine,GLRB
+1332,194,458,Caffeine,GLRX
+1333,2687,2244,Decane,GLTP
+1334,36879,439,Vanillin,GLUD1
+1335,194,439,Caffeine,GLUD1
+1336,36879,419,Vanillin,GLUD2
+1337,194,5474,Caffeine,GMFB
+1338,194,4610,Caffeine,GMNN
+1339,526,420,Guanidine,GMPS
+1340,8660,420,DL-Proline,GMPS
+1341,194,5880,Caffeine,GNA15
+1342,194,3145,Caffeine,GNAI1
+1343,117,5879,choline,GNAI2
+1344,194,5879,Caffeine,GNAI2
+1345,194,5873,Caffeine,GNAL
+1346,194,4552,Caffeine,GNAQ
+1347,32326,2334,Oleanolic acid,GNAS
+1348,38112,2334,dl-Perillaldehyde,GNAS
+1349,194,2334,Caffeine,GNAS
+1350,32269,2756,(+/-)-alpha-Pinene,GNLY
+1351,8019,240,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GNMT
+1352,117,240,choline,GNMT
+1353,31126,20,Lutein,GNRHR
+1354,8019,174,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GOT1
+1355,142,174,CREATINE,GOT1
+1356,117,174,choline,GOT1
+1357,9091,174,Caffeic acid,GOT1
+1358,8019,203,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GOT2
+1359,142,203,CREATINE,GOT2
+1360,117,203,choline,GOT2
+1361,32326,4686,Oleanolic acid,GPBAR1
+1362,8660,556,DL-Proline,GPD1
+1363,194,5180,Caffeine,GPLD1
+1364,32326,192,Oleanolic acid,GPT
+1365,142,192,CREATINE,GPT
+1366,194,192,Caffeine,GPT
+1367,9091,192,Caffeic acid,GPT
+1368,142,217,CREATINE,GPT2
+1369,32326,482,Oleanolic acid,GPX1
+1370,3283,482,Naringenin,GPX1
+1371,8019,482,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GPX1
+1372,31126,482,Lutein,GPX1
+1373,142,482,CREATINE,GPX1
+1374,117,482,choline,GPX1
+1375,31126,483,Lutein,GPX2
+1376,8660,483,DL-Proline,GPX2
+1377,31126,487,Lutein,GPX3
+1378,194,487,Caffeine,GPX3
+1379,8019,459,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GPX4
+1380,31126,459,Lutein,GPX4
+1381,142,459,CREATINE,GPX4
+1382,117,459,choline,GPX4
+1383,8019,486,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GPX5
+1384,31126,486,Lutein,GPX5
+1385,142,486,CREATINE,GPX5
+1386,117,486,choline,GPX5
+1387,897,443,Cocaine,GRIA2
+1388,897,445,Cocaine,GRIA4
+1389,897,410,Cocaine,GRID2
+1390,194,410,Caffeine,GRID2
+1391,194,440,Caffeine,GRIK1
+1392,897,447,Cocaine,GRIK2
+1393,897,403,Cocaine,GRIK5
+1394,2616,421,Glycocyamine,GRIN1
+1395,897,409,Cocaine,GRIN2D
+1396,897,411,Cocaine,GRIN3B
+1397,897,400,Cocaine,GRM1
+1398,194,400,Caffeine,GRM1
+1399,897,3383,Cocaine,GRM2
+1400,7890,3383,(+/-)-Eucalyptol,GRM2
+1401,897,401,Cocaine,GRM4
+1402,897,404,Cocaine,GRM7
+1403,194,3920,Caffeine,GRPR
+1404,194,1502,Caffeine,GSK3B
+1405,8660,2351,DL-Proline,GSN
+1406,194,3149,Caffeine,GSPT1
+1407,3283,471,Naringenin,GSR
+1408,8019,471,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GSR
+1409,31126,471,Lutein,GSR
+1410,34518,471,Licochalcone A,GSR
+1411,4410,471,Hesperidin,GSR
+1412,18491,471,gentisic acid,GSR
+1413,35400,471,Ferulic acid,GSR
+1414,9091,471,Caffeic acid,GSR
+1415,31126,474,Lutein,GSTK1
+1416,8019,473,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GSTM1
+1417,194,473,Caffeine,GSTM1
+1418,9091,473,Caffeic acid,GSTM1
+1419,9091,457,Caffeic acid,GSTM2
+1420,142,476,CREATINE,GSTM3
+1421,194,481,Caffeine,GSTO1
+1422,1102,480,Nifedipine,GSTP1
+1423,8019,480,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GSTP1
+1424,194,480,Caffeine,GSTP1
+1425,9091,480,Caffeic acid,GSTP1
+1426,7002,485,Homogentisic acid,GSTZ1
+1427,526,5913,Guanidine,GUSB
+1428,35400,5913,Ferulic acid,GUSB
+1429,4179,5913,Carboxy-N,GUSB
+1430,9091,5913,Caffeic acid,GUSB
+1431,194,5764,Caffeine,H2AFX
+1432,9091,585,Caffeic acid,H6PD
+1433,194,569,Caffeine,HADH
+1434,36879,597,Vanillin,HADHA
+1435,36879,239,Vanillin,HAL
+1436,35084,239,Calycosin,HAL
+1437,3993,239,4-Hydroxybenzoic acid,HAL
+1438,63707,2058,(.+/-.)-trans-Nerolidol,HAO1
+1439,63707,2642,(.+/-.)-trans-Nerolidol,HAO2
+1440,4179,5924,Carboxy-N,HAS1
+1441,9091,4050,Caffeic acid,HAVCR2
+1442,70543,1334,(S)-(+)-Linalool,HBB
+1443,9210,5083,Acetic acid,HBZ
+1444,8660,2132,DL-Proline,HCN2
+1445,8660,5593,DL-Proline,HCN3
+1446,32326,2306,Oleanolic acid,HDAC1
+1447,194,2306,Caffeine,HDAC1
+1448,194,884,Caffeine,HDAC2
+1449,897,2307,Cocaine,HDAC3
+1450,1102,3639,Nifedipine,HDAC4
+1451,32269,187,(+/-)-alpha-Pinene,HDC
+1452,1102,2111,Nifedipine,HGF
+1453,9210,2111,Acetic acid,HGF
+1454,36879,3075,Vanillin,HIBCH
+1455,56947,1447,Ononin,HIF1A
+1456,34516,1447,Neochanin,HIF1A
+1457,31559,1447,Chuanxingzine,HIF1A
+1458,35084,1447,Calycosin,HIF1A
+1459,194,346,Caffeine,HINT1
+1460,8660,2406,DL-Proline,HLA-A
+1461,8019,13179,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,HLA-B
+1462,8660,13179,DL-Proline,HLA-B
+1463,7002,4051,Homogentisic acid,HMGA1
+1464,63707,4051,(.+/-.)-trans-Nerolidol,HMGA1
+1465,32326,3465,Oleanolic acid,HMGB1
+1466,117,3465,choline,HMGB1
+1467,35084,3465,Calycosin,HMGB1
+1468,42389,3275,2-Methylpentadecanoic acid,HMGCL
+1469,33749,575,Stigmasterol,HMGCR
+1470,8019,575,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,HMGCR
+1471,35400,575,Ferulic acid,HMGCR
+1472,9091,575,Caffeic acid,HMGCR
+1473,70543,575,(S)-(+)-Linalool,HMGCR
+1474,7890,575,(+/-)-Eucalyptol,HMGCR
+1475,63707,575,(.+/-.)-trans-Nerolidol,HMGCR
+1476,194,3616,Caffeine,HMGCS1
+1477,36879,678,Vanillin,HMOX1
+1478,32326,678,Oleanolic acid,HMOX1
+1479,3283,678,Naringenin,HMOX1
+1480,31559,678,Chuanxingzine,HMOX1
+1481,35274,38988,2-Methylphenol,HMSD
+1482,1102,1185,Nifedipine,HNMT
+1483,31126,4663,Lutein,HNRNPA1
+1484,7002,1027,Homogentisic acid,HPD
+1485,194,84,Caffeine,HPN
+1486,36879,1371,Vanillin,HPRT1
+1487,4179,5926,Carboxy-N,HPSE2
+1488,194,4770,Caffeine,HPX
+1489,8019,2082,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,HRAS
+1490,142,2082,CREATINE,HRAS
+1491,117,2082,choline,HRAS
+1492,194,2082,Caffeine,HRAS
+1493,7701,1045,octene,HRH3
+1494,194,593,Caffeine,HSD11B1
+1495,34333,593,29-Hydroxy-11,HSD11B1
+1496,194,599,Caffeine,HSD11B2
+1497,34333,599,29-Hydroxy-11,HSD11B2
+1498,2399,582,Thymol,HSD17B1
+1499,3283,582,Naringenin,HSD17B1
+1500,34602,582,iso-Licoflavonol,HSD17B1
+1501,32774,582,Carvacrol,HSD17B1
+1502,34602,583,iso-Licoflavonol,HSD17B2
+1503,36999,574,Osthole,HSD17B3
+1504,36039,574,glycycoumarin,HSD17B3
+1505,31126,378,Lutein,HSD17B6
+1506,32446,378,beta-Ionone,HSD17B6
+1507,194,578,Caffeine,HSD17B7
+1508,31126,595,Lutein,HSD3B1
+1509,70543,4599,(S)-(+)-Linalool,HSF1
+1510,194,1189,Caffeine,HSP90AA1
+1511,70543,1189,(S)-(+)-Linalool,HSP90AA1
+1512,194,2232,Caffeine,HSP90AB1
+1513,9091,1190,Caffeic acid,HSP90B1
+1514,142,5047,CREATINE,HSPA4
+1515,32774,5047,Carvacrol,HSPA4
+1516,70543,5047,(S)-(+)-Linalool,HSPA4
+1517,1102,52,Nifedipine,HSPA5
+1518,32774,52,Carvacrol,HSPA5
+1519,32774,3527,Carvacrol,HSPA8
+1520,194,3472,Caffeine,HSPB1
+1521,70543,3472,(S)-(+)-Linalool,HSPB1
+1522,32774,4374,Carvacrol,HSPD1
+1523,2687,873,Decane,HTR1A
+1524,1392,873,Bufotenin,HTR1A
+1525,897,871,Cocaine,HTR1B
+1526,1392,871,Bufotenin,HTR1B
+1527,897,870,Cocaine,HTR1D
+1528,897,874,Cocaine,HTR1E
+1529,1392,874,Bufotenin,HTR1E
+1530,1392,872,Bufotenin,HTR1F
+1531,897,931,Cocaine,HTR2A
+1532,194,931,Caffeine,HTR2A
+1533,1392,931,Bufotenin,HTR2A
+1534,1392,875,Bufotenin,HTR2B
+1535,897,817,Cocaine,HTR2C
+1536,1392,817,Bufotenin,HTR2C
+1537,1392,936,Bufotenin,HTR3A
+1538,1392,3865,Bufotenin,HTR3B
+1539,1392,5034,Bufotenin,HTR3E
+1540,1392,1178,Bufotenin,HTR4
+1541,1392,1019,Bufotenin,HTR5A
+1542,897,937,Cocaine,HTR6
+1543,1392,937,Bufotenin,HTR6
+1544,897,876,Cocaine,HTR7
+1545,1392,876,Bufotenin,HTR7
+1546,9210,3973,Acetic acid,IAPP
+1547,8660,718,DL-Proline,IARS
+1548,3993,718,4-Hydroxybenzoic acid,IARS
+1549,32326,163,Oleanolic acid,ICAM1
+1550,4410,163,Hesperidin,ICAM1
+1551,142,163,CREATINE,ICAM1
+1552,32574,4457,2-(4-Methyl-3-cyclohexen-1-yl)-2-propanol,ID2
+1553,70543,4457,(S)-(+)-Linalool,ID2
+1554,31126,1634,Lutein,IDH1
+1555,117,1634,choline,IDH1
+1556,142,1633,CREATINE,IDH2
+1557,2399,581,Thymol,IDH3A
+1558,8660,581,DL-Proline,IDH3A
+1559,2399,580,Thymol,IDH3B
+1560,2399,579,Thymol,IDH3G
+1561,32757,1702,parkeol,IDI1
+1562,194,1702,Caffeine,IDI1
+1563,32269,4747,(+/-)-alpha-Pinene,IDO1
+1564,194,2215,Caffeine,IFNB1
+1565,1102,1800,Nifedipine,IGF1
+1566,8019,1800,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IGF1
+1567,31126,1800,Lutein,IGF1
+1568,142,1800,CREATINE,IGF1
+1569,70575,1800,Chromone,IGF1
+1570,194,1800,Caffeine,IGF1
+1571,8019,65,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IGF1R
+1572,194,65,Caffeine,IGF1R
+1573,1102,4193,Nifedipine,IGF2
+1574,194,4218,Caffeine,IGFBP1
+1575,8019,1488,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IGFBP3
+1576,9210,7271,Acetic acid,IGHG1
+1577,194,928,Caffeine,IKBKB
+1578,194,3917,Caffeine,IKBKE
+1579,33749,3376,Stigmasterol,IL10
+1580,2635,3478,Dodecane,IL1A
+1581,34518,1380,Licochalcone A,IL1B
+1582,4410,1380,Hesperidin,IL1B
+1583,9210,1380,Acetic acid,IL1B
+1584,34516,4143,Neochanin,IL4
+1585,4410,4143,Hesperidin,IL4
+1586,36999,2552,Osthole,IL4I1
+1587,31126,2552,Lutein,IL4I1
+1588,31781,2552,g-Guanidinobutyrate,IL4I1
+1589,8660,2552,DL-Proline,IL4I1
+1590,3993,2552,4-Hydroxybenzoic acid,IL4I1
+1591,53410,2552,2-Propylpiperidine,IL4I1
+1592,9210,1516,Acetic acid,IL5
+1593,3283,1514,Naringenin,IL6
+1594,8019,1514,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IL6
+1595,4410,1514,Hesperidin,IL6
+1596,35400,1514,Ferulic acid,IL6
+1597,2635,1514,Dodecane,IL6
+1598,2687,1514,Decane,IL6
+1599,142,1514,CREATINE,IL6
+1600,117,1514,choline,IL6
+1601,194,1514,Caffeine,IL6
+1602,9091,1514,Caffeic acid,IL6
+1603,9210,1514,Acetic acid,IL6
+1604,9210,4758,Acetic acid,IL6ST
+1605,526,596,Guanidine,IMPDH1
+1606,32269,596,(+/-)-alpha-Pinene,IMPDH1
+1607,8019,588,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IMPDH2
+1608,526,588,Guanidine,IMPDH2
+1609,32269,588,(+/-)-alpha-Pinene,IMPDH2
+1610,32326,1693,Oleanolic acid,INS
+1611,194,1693,Caffeine,INS
+1612,8019,39277,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,INS-IGF2
+1613,31126,39277,Lutein,INS-IGF2
+1614,526,39277,Guanidine,INS-IGF2
+1615,8660,39277,DL-Proline,INS-IGF2
+1616,142,39277,CREATINE,INS-IGF2
+1617,70575,39277,Chromone,INS-IGF2
+1618,117,39277,choline,INS-IGF2
+1619,194,39277,Caffeine,INS-IGF2
+1620,31243,39277,1-Methylguanidine,INS-IGF2
+1621,32326,64,Oleanolic acid,INSR
+1622,142,64,CREATINE,INSR
+1623,194,64,Caffeine,INSR
+1624,32326,3758,Oleanolic acid,IRS1
+1625,8019,4198,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ITGA2
+1626,31126,4198,Lutein,ITGA2
+1627,142,4198,CREATINE,ITGA2
+1628,117,4198,choline,ITGA2
+1629,194,4198,Caffeine,ITGA2
+1630,142,112,CREATINE,ITGA2B
+1631,194,4392,Caffeine,ITGAM
+1632,1102,847,Nifedipine,ITPR1
+1633,194,847,Caffeine,ITPR1
+1634,32656,4750,Citronellal,ITPR2
+1635,1102,4751,Nifedipine,ITPR3
+1636,32656,4751,Citronellal,ITPR3
+1637,194,4751,Caffeine,ITPR3
+1638,18491,2725,gentisic acid,IYD
+1639,34518,3316,Licochalcone A,JAK1
+1640,117,39175,choline,JMJD7-PLA2G4B
+1641,8019,1161,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,JUN
+1642,35400,1161,Ferulic acid,JUN
+1643,142,1161,CREATINE,JUN
+1644,31559,1161,Chuanxingzine,JUN
+1645,194,1161,Caffeine,JUN
+1646,70543,1161,(S)-(+)-Linalool,JUN
+1647,4179,2793,Carboxy-N,kaiB
+1648,8660,282,DL-Proline,KARS
+1649,194,1934,Caffeine,KAT2B
+1650,70543,1934,(S)-(+)-Linalool,KAT2B
+1651,194,1924,Caffeine,KAT5
+1652,194,5818,Caffeine,KAT6A
+1653,194,5829,Caffeine,KAT6B
+1654,194,5825,Caffeine,KAT7
+1655,194,5821,Caffeine,KAT8
+1656,1102,886,Nifedipine,KCNA1
+1657,1102,3486,Nifedipine,KCNA3
+1658,1102,3487,Nifedipine,KCNA5
+1659,2616,3487,Glycocyamine,KCNA5
+1660,1102,3495,Nifedipine,KCNC3
+1661,1102,853,Nifedipine,KCNH2
+1662,3283,853,Naringenin,KCNH2
+1663,53911,853,Cymene,KCNH2
+1664,897,853,Cocaine,KCNH2
+1665,194,853,Caffeine,KCNH2
+1666,1102,4987,Nifedipine,KCNH5
+1667,897,4987,Cocaine,KCNH5
+1668,897,854,Cocaine,KCNK2
+1669,194,854,Caffeine,KCNK2
+1670,2687,1030,Decane,KCNMA1
+1671,9091,885,Caffeic acid,KCNN4
+1672,2616,1007,Glycocyamine,KCNQ2
+1673,2616,1010,Glycocyamine,KCNQ3
+1674,38112,3831,dl-Perillaldehyde,KEAP1
+1675,31159,2965,Trimethylamine,KIF11
+1676,35586,2965,Nobiletin,KIF11
+1677,9091,3197,Caffeic acid,KIF2C
+1678,9210,1069,Acetic acid,KIT
+1679,4179,5925,Carboxy-N,KL
+1680,117,4292,choline,KLK3
+1681,194,4292,Caffeine,KLK3
+1682,7890,4292,(+/-)-Eucalyptol,KLK3
+1683,8660,3430,DL-Proline,KLKB1
+1684,33749,4247,Stigmasterol,KNG1
+1685,8660,4247,DL-Proline,KNG1
+1686,117,4247,choline,KNG1
+1687,194,4247,Caffeine,KNG1
+1688,8019,3620,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,KRAS
+1689,8660,760,DL-Proline,L3HYPDH
+1690,9210,5397,Acetic acid,LAMA1
+1691,142,5448,CREATINE,LAMA2
+1692,142,5408,CREATINE,LAMA5
+1693,9210,5395,Acetic acid,LAMB1
+1694,8660,2220,DL-Proline,LAP3
+1695,8660,525,DL-Proline,LARS
+1696,117,5560,choline,LCAT
+1697,142,562,CREATINE,LDHA
+1698,194,562,Caffeine,LDHA
+1699,9091,562,Caffeic acid,LDHA
+1700,142,557,CREATINE,LDHAL6A
+1701,142,565,CREATINE,LDHAL6B
+1702,142,567,CREATINE,LDHB
+1703,9091,567,Caffeic acid,LDHB
+1704,142,566,CREATINE,LDHC
+1705,2399,1235,Thymol,LDLR
+1706,53911,1235,Cymene,LDLR
+1707,117,1235,choline,LDLR
+1708,70543,1235,(S)-(+)-Linalool,LDLR
+1709,32326,4271,Oleanolic acid,LEP
+1710,8019,4271,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LEP
+1711,2616,4271,Glycocyamine,LEP
+1712,142,4271,CREATINE,LEP
+1713,117,4271,choline,LEP
+1714,194,4271,Caffeine,LEP
+1715,3993,4271,4-Hydroxybenzoic acid,LEP
+1716,31962,3385,Trigonelline,LEPR
+1717,194,3385,Caffeine,LEPR
+1718,194,2715,Caffeine,LGALS1
+1719,18491,2207,gentisic acid,LGALS7
+1720,31126,36,Lutein,LHCGR
+1721,32269,36,(+/-)-alpha-Pinene,LHCGR
+1722,9210,5305,Acetic acid,LIFR
+1723,7002,981,Homogentisic acid,LIG1
+1724,8019,982,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LIG3
+1725,32369,39055,.gamma.-Terpinene,LIMS3L
+1726,8660,1420,DL-Proline,LIPF
+1727,8660,39028,DL-Proline,LIPJ
+1728,8660,39169,DL-Proline,LIPK
+1729,8660,5018,DL-Proline,LIPM
+1730,142,5660,CREATINE,LMNA
+1731,32446,5650,beta-Ionone,LMNB1
+1732,8660,5195,DL-Proline,LNPEP
+1733,31243,5195,1-Methylguanidine,LNPEP
+1734,54863,39096,(22E)-Ergosta-7,LOC101060399
+1735,194,38975,Caffeine,LOC101929829
+1736,63707,38975,(.+/-.)-trans-Nerolidol,LOC101929829
+1737,897,4296,Cocaine,LOX
+1738,117,4895,choline,LPA
+1739,194,5713,Caffeine,LPAR4
+1740,117,3424,choline,LPL
+1741,194,3424,Caffeine,LPL
+1742,31243,4911,1-Methylguanidine,LPO
+1743,8019,4062,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LRP6
+1744,32757,1964,parkeol,LSS
+1745,32656,1964,Citronellal,LSS
+1746,8019,1720,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LTF
+1747,526,315,Guanidine,LYZ
+1748,8660,315,DL-Proline,LYZ
+1749,117,315,choline,LYZ
+1750,34785,814,Pachypodol,MAOA
+1751,36999,814,Osthole,MAOA
+1752,31126,814,Lutein,MAOA
+1753,36039,814,glycycoumarin,MAOA
+1754,31781,814,g-Guanidinobutyrate,MAOA
+1755,8660,814,DL-Proline,MAOA
+1756,194,814,Caffeine,MAOA
+1757,1392,814,Bufotenin,MAOA
+1758,3993,814,4-Hydroxybenzoic acid,MAOA
+1759,53410,814,2-Propylpiperidine,MAOA
+1760,34785,790,Pachypodol,MAOB
+1761,36999,790,Osthole,MAOB
+1762,31126,790,Lutein,MAOB
+1763,36039,790,glycycoumarin,MAOB
+1764,31781,790,g-Guanidinobutyrate,MAOB
+1765,8660,790,DL-Proline,MAOB
+1766,1392,790,Bufotenin,MAOB
+1767,3993,790,4-Hydroxybenzoic acid,MAOB
+1768,53410,790,2-Propylpiperidine,MAOB
+1769,36879,3482,Vanillin,MAP2K2
+1770,9091,4160,Caffeic acid,MAP2K5
+1771,194,4159,Caffeine,MAP2K7
+1772,194,3470,Caffeine,MAP3K1
+1773,194,3483,Caffeine,MAP3K2
+1774,194,4564,Caffeine,MAP3K3
+1775,8019,4158,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MAP3K4
+1776,32326,1409,Oleanolic acid,MAPK1
+1777,1102,1409,Nifedipine,MAPK1
+1778,3283,1409,Naringenin,MAPK1
+1779,7002,1409,Homogentisic acid,MAPK1
+1780,35400,1409,Ferulic acid,MAPK1
+1781,9912,1409,cis-caffeic acid,MAPK1
+1782,35084,1409,Calycosin,MAPK1
+1783,194,1409,Caffeine,MAPK1
+1784,32303,1409,Betulinic acid,MAPK1
+1785,32446,1409,beta-Ionone,MAPK1
+1786,9210,1409,Acetic acid,MAPK1
+1787,194,3400,Caffeine,MAPK11
+1788,35694,2265,Myristicin,MAPK12
+1789,9912,2265,cis-caffeic acid,MAPK12
+1790,194,2265,Caffeine,MAPK12
+1791,194,3401,Caffeine,MAPK13
+1792,194,1677,Caffeine,MAPK14
+1793,32326,1179,Oleanolic acid,MAPK3
+1794,1102,1179,Nifedipine,MAPK3
+1795,3283,1179,Naringenin,MAPK3
+1796,7002,1179,Homogentisic acid,MAPK3
+1797,35400,1179,Ferulic acid,MAPK3
+1798,70575,1179,Chromone,MAPK3
+1799,35084,1179,Calycosin,MAPK3
+1800,194,1179,Caffeine,MAPK3
+1801,32303,1179,Betulinic acid,MAPK3
+1802,32446,1179,beta-Ionone,MAPK3
+1803,9210,1179,Acetic acid,MAPK3
+1804,194,4941,Caffeine,MAPK4
+1805,194,4940,Caffeine,MAPK6
+1806,7002,4942,Homogentisic acid,MAPK7
+1807,194,4942,Caffeine,MAPK7
+1808,31207,1699,levistolide A,MAPK8
+1809,4410,1699,Hesperidin,MAPK8
+1810,35400,1699,Ferulic acid,MAPK8
+1811,4410,3524,Hesperidin,MAPK9
+1812,194,1473,Caffeine,MAPT
+1813,32446,3937,beta-Ionone,MARK3
+1814,8660,4584,DL-Proline,MARS
+1815,35274,5165,2-Methylphenol,MASP1
+1816,35274,3256,2-Methylphenol,MASP2
+1817,8019,242,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MAT2A
+1818,117,10015,choline,MAZ
+1819,31126,1618,Lutein,MB
+1820,142,1618,CREATINE,MB
+1821,35933,4403,2-Ethylphenol,MBTPS1
+1822,32269,5681,(+/-)-alpha-Pinene,MBTPS2
+1823,194,1494,Caffeine,MC2R
+1824,117,266,choline,MCCC2
+1825,34602,3874,iso-Licoflavonol,MCL1
+1826,57804,3874,Glycyrrh-iso-flavone,MCL1
+1827,35084,4285,Calycosin,MCM6
+1828,8660,5861,DL-Proline,MDFIC
+1829,194,5861,Caffeine,MDFIC
+1830,1392,5861,Bufotenin,MDFIC
+1831,142,572,CREATINE,MDH1
+1832,142,561,CREATINE,MDH2
+1833,70575,4245,Chromone,MDK
+1834,31126,2464,Lutein,MDM2
+1835,8660,2464,DL-Proline,MDM2
+1836,194,2464,Caffeine,MDM2
+1837,70543,2464,(S)-(+)-Linalool,MDM2
+1838,142,5862,CREATINE,MEF2A
+1839,194,5862,Caffeine,MEF2A
+1840,142,5863,CREATINE,MEF2C
+1841,194,5863,Caffeine,MEF2C
+1842,194,5859,Caffeine,MEF2D
+1843,32326,2045,Oleanolic acid,MET
+1844,9210,2045,Acetic acid,MET
+1845,1392,3165,Bufotenin,METAP1
+1846,128,362,L-(-)-methionine,METAP2
+1847,194,362,Caffeine,METAP2
+1848,1392,362,Bufotenin,METAP2
+1849,194,454,Caffeine,MGST1
+1850,57804,1795,Glycyrrh-iso-flavone,MIF
+1851,8019,5297,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MLH1
+1852,897,228,Cocaine,MMAA
+1853,897,838,Cocaine,MMAB
+1854,1102,1272,Nifedipine,MMP1
+1855,31126,1272,Lutein,MMP1
+1856,194,1280,Caffeine,MMP13
+1857,32303,1280,Betulinic acid,MMP13
+1858,36999,1273,Osthole,MMP2
+1859,1102,1273,Nifedipine,MMP2
+1860,194,1273,Caffeine,MMP2
+1861,32303,1273,Betulinic acid,MMP2
+1862,32701,1273,Betulin,MMP2
+1863,35586,1275,Nobiletin,MMP7
+1864,194,1275,Caffeine,MMP7
+1865,36879,1277,Vanillin,MMP9
+1866,36999,1277,Osthole,MMP9
+1867,35586,1277,Nobiletin,MMP9
+1868,1102,1277,Nifedipine,MMP9
+1869,4410,1277,Hesperidin,MMP9
+1870,32303,1277,Betulinic acid,MMP9
+1871,9210,1277,Acetic acid,MMP9
+1872,8019,5889,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MOK
+1873,194,3434,Caffeine,MPL
+1874,142,929,CREATINE,MPO
+1875,31559,929,Chuanxingzine,MPO
+1876,9091,929,Caffeic acid,MPO
+1877,9210,929,Acetic acid,MPO
+1878,31243,929,1-Methylguanidine,MPO
+1879,194,4456,Caffeine,MSH2
+1880,194,677,Caffeine,MSMO1
+1881,142,3467,CREATINE,MSTN
+1882,117,771,choline,MTAP
+1883,8019,231,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFD1
+1884,8019,232,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFD2
+1885,8019,230,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFR
+1886,117,230,choline,MTHFR
+1887,8019,5930,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFS
+1888,194,4458,Caffeine,MTMR1
+1889,8660,1024,DL-Proline,MTOR
+1890,142,1024,CREATINE,MTOR
+1891,70575,1024,Chromone,MTOR
+1892,194,1024,Caffeine,MTOR
+1893,8019,225,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTR
+1894,128,225,L-(-)-methionine,MTR
+1895,117,225,choline,MTR
+1896,8019,227,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTRR
+1897,128,227,L-(-)-methionine,MTRR
+1898,194,227,Caffeine,MTRR
+1899,8660,1423,DL-Proline,MTTP
+1900,194,5004,Caffeine,MUSK
+1901,8019,226,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MUT
+1902,35933,5042,2-Ethylphenol,MX1
+1903,36879,3867,Vanillin,MYB
+1904,142,3999,CREATINE,MYBPC3
+1905,194,3999,Caffeine,MYBPC3
+1906,32326,3797,Oleanolic acid,MYC
+1907,1102,3797,Nifedipine,MYC
+1908,8019,3797,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MYC
+1909,4179,3797,Carboxy-N,MYC
+1910,194,3797,Caffeine,MYC
+1911,70543,3797,(S)-(+)-Linalool,MYC
+1912,142,5858,CREATINE,MYF5
+1913,9210,5858,Acetic acid,MYF5
+1914,142,5856,CREATINE,MYF6
+1915,142,5257,CREATINE,MYH1
+1916,1102,5288,Nifedipine,MYH10
+1917,142,5288,CREATINE,MYH10
+1918,1102,3211,Nifedipine,MYH11
+1919,142,3211,CREATINE,MYH11
+1920,142,5258,CREATINE,MYH13
+1921,142,5259,CREATINE,MYH2
+1922,194,5259,Caffeine,MYH2
+1923,1102,5263,Nifedipine,MYH4
+1924,142,5263,CREATINE,MYH4
+1925,142,5284,CREATINE,MYH6
+1926,897,5284,Cocaine,MYH6
+1927,142,3749,CREATINE,MYH7
+1928,897,3749,Cocaine,MYH7
+1929,194,3749,Caffeine,MYH7
+1930,142,5265,CREATINE,MYH7B
+1931,142,5278,CREATINE,MYH9
+1932,142,3748,CREATINE,MYL12A
+1933,142,5254,CREATINE,MYL2
+1934,1102,5255,Nifedipine,MYL7
+1935,1102,5285,Nifedipine,MYL9
+1936,142,5285,CREATINE,MYL9
+1937,897,5285,Cocaine,MYL9
+1938,194,4446,Caffeine,MYLK
+1939,1102,3335,Nifedipine,MYLK2
+1940,35694,5251,Myristicin,MYO1A
+1941,35694,5273,Myristicin,MYO1B
+1942,35694,5275,Myristicin,MYO1D
+1943,35694,5269,Myristicin,MYO1E
+1944,1102,5267,Nifedipine,MYO3A
+1945,142,5855,CREATINE,MYOD1
+1946,9210,5855,Acetic acid,MYOD1
+1947,142,5857,CREATINE,MYOG
+1948,194,5857,Caffeine,MYOG
+1949,8019,4585,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAALAD2
+1950,8019,5209,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAALADL1
+1951,194,5209,Caffeine,NAALADL1
+1952,8660,732,DL-Proline,NAE1
+1953,62975,2986,Methyl phenylacetate,NAGA
+1954,8660,396,DL-Proline,NAGPA
+1955,194,396,Caffeine,NAGPA
+1956,38295,430,N-Carbamimidoylaspartic acid,NAGS
+1957,31781,430,g-Guanidinobutyrate,NAGS
+1958,1102,3413,Nifedipine,NAMPT
+1959,9210,3413,Acetic acid,NAMPT
+1960,8019,5850,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAT1
+1961,194,5850,Caffeine,NAT1
+1962,8019,4776,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAT2
+1963,194,4776,Caffeine,NAT2
+1964,897,1553,Cocaine,NCOA2
+1965,194,660,Caffeine,NDUFB5
+1966,194,668,Caffeine,NDUFS4
+1967,194,3833,Caffeine,NEK11
+1968,194,3535,Caffeine,NEK2
+1969,1102,4894,Nifedipine,NETO1
+1970,897,4894,Cocaine,NETO1
+1971,31962,4068,Trigonelline,NFE2L2
+1972,36999,4068,Osthole,NFE2L2
+1973,32326,4068,Oleanolic acid,NFE2L2
+1974,38112,4068,dl-Perillaldehyde,NFE2L2
+1975,4410,1396,Hesperidin,NFKB1
+1976,194,1396,Caffeine,NFKB1
+1977,32446,1396,beta-Ionone,NFKB1
+1978,70543,1396,(S)-(+)-Linalool,NFKB1
+1979,36999,1362,Osthole,NFKBIA
+1980,1102,1362,Nifedipine,NFKBIA
+1981,3283,1362,Naringenin,NFKBIA
+1982,31559,1362,Chuanxingzine,NFKBIA
+1983,32303,1362,Betulinic acid,NFKBIA
+1984,36547,173,Gastrodigenin,NFS1
+1985,70575,1515,Chromone,NGF
+1986,117,1515,choline,NGF
+1987,1392,3906,Bufotenin,NGFR
+1988,194,1231,Caffeine,NISCH
+1989,35084,2068,Calycosin,NME1
+1990,8019,2630,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NMNAT1
+1991,117,2630,choline,NMNAT1
+1992,8019,2342,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NMNAT3
+1993,117,2342,choline,NMNAT3
+1994,117,2519,choline,NMT1
+1995,117,2067,choline,NMT2
+1996,31126,541,Lutein,NOS1
+1997,526,541,Guanidine,NOS1
+1998,2616,541,Glycocyamine,NOS1
+1999,142,541,CREATINE,NOS1
+2000,194,541,Caffeine,NOS1
+2001,1102,285,Nifedipine,NOS2
+2002,3283,285,Naringenin,NOS2
+2003,4410,285,Hesperidin,NOS2
+2004,526,285,Guanidine,NOS2
+2005,2616,285,Glycocyamine,NOS2
+2006,35400,285,Ferulic acid,NOS2
+2007,31559,285,Chuanxingzine,NOS2
+2008,194,285,Caffeine,NOS2
+2009,32446,285,beta-Ionone,NOS2
+2010,9210,285,Acetic acid,NOS2
+2011,32326,38929,Oleanolic acid,Nos2 Inosl
+2012,1102,283,Nifedipine,NOS3
+2013,34516,283,Neochanin,NOS3
+2014,8019,283,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NOS3
+2015,142,283,CREATINE,NOS3
+2016,194,283,Caffeine,NOS3
+2017,9091,283,Caffeic acid,NOS3
+2018,31126,3423,Lutein,NOXO1
+2019,33749,1365,Stigmasterol,NPC1L1
+2020,8660,3455,DL-Proline,NPEPPS
+2021,31243,3455,1-Methylguanidine,NPEPPS
+2022,1102,1443,Nifedipine,NPPB
+2023,142,1443,CREATINE,NPPB
+2024,2530,1704,D-Aspartatic acid,nprS
+2025,70543,2494,(S)-(+)-Linalool,NPY
+2026,31962,724,Trigonelline,NQO1
+2027,32326,724,Oleanolic acid,NQO1
+2028,31126,724,Lutein,NQO1
+2029,142,1249,CREATINE,NR0B1
+2030,32326,2305,Oleanolic acid,NR1H4
+2031,1102,705,Nifedipine,NR1I2
+2032,32326,1614,Oleanolic acid,NR1I3
+2033,8019,779,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NR3C1
+2034,897,779,Cocaine,NR3C1
+2035,194,779,Caffeine,NR3C1
+2036,34333,779,29-Hydroxy-11,NR3C1
+2037,194,1063,Caffeine,NR3C2
+2038,31126,3304,Lutein,NR5A1
+2039,194,3304,Caffeine,NR5A1
+2040,142,1805,CREATINE,NSF
+2041,194,1805,Caffeine,NSF
+2042,1392,5578,Bufotenin,NT5C
+2043,194,5574,Caffeine,NT5C1A
+2044,194,5569,Caffeine,NT5DC1
+2045,8660,1299,DL-Proline,NT5E
+2046,194,1299,Caffeine,NT5E
+2047,1392,1299,Bufotenin,NT5E
+2048,897,3900,Cocaine,NTSR1
+2049,194,3900,Caffeine,NTSR1
+2050,8019,5571,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NUDT15
+2051,31126,5571,Lutein,NUDT15
+2052,194,5571,Caffeine,NUDT15
+2053,1102,175,Nifedipine,OAT
+2054,31781,175,g-Guanidinobutyrate,OAT
+2055,8660,175,DL-Proline,OAT
+2056,194,175,Caffeine,OAT
+2057,32774,333,Carvacrol,OAZ1
+2058,18491,176,gentisic acid,ODC1
+2059,1102,4486,Nifedipine,OLR1
+2060,117,4486,choline,OLR1
+2061,2635,2229,Dodecane,ompC
+2062,897,819,Cocaine,OPRD1
+2063,897,818,Cocaine,OPRK1
+2064,32656,39030,Citronellal,OR1A1
+2065,32446,4469,beta-Ionone,OR51E2
+2066,194,1109,Caffeine,ORM1
+2067,8660,331,DL-Proline,OTC
+2068,142,331,CREATINE,OTC
+2069,36879,388,Vanillin,OXCT1
+2070,31962,388,Trigonelline,OXCT1
+2071,3993,388,4-Hydroxybenzoic acid,OXCT1
+2072,36879,374,Vanillin,OXCT2
+2073,3993,374,4-Hydroxybenzoic acid,OXCT2
+2074,1102,161,Nifedipine,OXT
+2075,31126,161,Lutein,OXT
+2076,194,5725,Caffeine,P2RY11
+2077,194,5723,Caffeine,P2RY4
+2078,8660,297,DL-Proline,P3H1
+2079,8660,300,DL-Proline,P3H2
+2080,8660,296,DL-Proline,P4HA1
+2081,8660,384,DL-Proline,P4HA2
+2082,8660,5590,DL-Proline,P4HA3
+2083,8660,2818,DL-Proline,P4HB
+2084,7002,1606,Homogentisic acid,pac
+2085,526,2223,Guanidine,PAEP
+2086,115,259,L-(-)-Phenylalanine,PAH
+2087,7002,259,Homogentisic acid,PAH
+2088,8660,259,DL-Proline,PAH
+2089,194,5510,Caffeine,PAK2
+2090,142,5694,CREATINE,PAPPA
+2091,31126,1681,Lutein,PARK7
+2092,8019,2285,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PARP1
+2093,35694,2285,Myristicin,PARP1
+2094,194,2285,Caffeine,PARP1
+2095,8660,758,DL-Proline,PARS2
+2096,117,263,choline,PCCB
+2097,117,4975,choline,PCK2
+2098,32326,4184,Oleanolic acid,PCNA
+2099,70575,4184,Chromone,PCNA
+2100,194,4184,Caffeine,PCNA
+2101,9210,4184,Acetic acid,PCNA
+2102,117,273,choline,PCYT1A
+2103,117,271,choline,PCYT1B
+2104,194,1367,Caffeine,PDE10A
+2105,194,1311,Caffeine,PDE11A
+2106,194,842,Caffeine,PDE1A
+2107,194,1196,Caffeine,PDE1B
+2108,194,4698,Caffeine,PDE1C
+2109,194,915,Caffeine,PDE3A
+2110,194,1543,Caffeine,PDE3B
+2111,194,968,Caffeine,PDE4A
+2112,194,344,Caffeine,PDE4B
+2113,194,347,Caffeine,PDE4D
+2114,34650,850,Sinensetin,PDE5A
+2115,35586,850,Nobiletin,PDE5A
+2116,194,850,Caffeine,PDE5A
+2117,35360,850,7-Hydroxy-2-(4-hydroxyphenyl)-6-(3-methyl-2-buten-1-yl)-4H-chromen-4-one,PDE5A
+2118,32446,5580,beta-Ionone,PDE6A
+2119,194,5565,Caffeine,PDE6C
+2120,32446,5565,beta-Ionone,PDE6C
+2121,194,5564,Caffeine,PDE6D
+2122,194,851,Caffeine,PDE6G
+2123,194,1218,Caffeine,PDE7B
+2124,194,1356,Caffeine,PDE8A
+2125,1102,4643,Nifedipine,PDGFB
+2126,31207,4643,levistolide A,PDGFB
+2127,31232,4643,Butylphthalide,PDGFB
+2128,31559,154,Chuanxingzine,PDGFRB
+2129,1392,5629,Bufotenin,PDYN
+2130,9210,4391,Acetic acid,PECAM1
+2131,8019,4294,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PEMT
+2132,117,4294,choline,PEMT
+2133,1102,5768,Nifedipine,PENK
+2134,8660,4430,DL-Proline,PEPD
+2135,8019,408,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PFAS
+2136,8660,3640,DL-Proline,PFN1
+2137,31559,3640,Chuanxingzine,PFN1
+2138,8660,2004,DL-Proline,PFN2
+2139,31559,2004,Chuanxingzine,PFN2
+2140,142,1582,CREATINE,PGAM2
+2141,142,2930,CREATINE,PGK1
+2142,3993,2930,4-Hydroxybenzoic acid,PGK1
+2143,194,2453,Caffeine,PGM1
+2144,3283,984,Naringenin,PGR
+2145,31126,984,Lutein,PGR
+2146,194,984,Caffeine,PGR
+2147,34333,984,29-Hydroxy-11,PGR
+2148,194,5691,Caffeine,PHEX
+2149,36970,577,3-Hydroxy-3,PHGDH
+2150,117,277,choline,PHOSPHO1
+2151,42389,50,2-Methylpentadecanoic acid,PHYH
+2152,142,3952,CREATINE,PIK3C2A
+2153,194,3952,Caffeine,PIK3C2A
+2154,194,845,Caffeine,PIK3CA
+2155,70575,846,Chromone,PIK3CB
+2156,194,846,Caffeine,PIK3CB
+2157,70575,844,Chromone,PIK3CD
+2158,194,844,Caffeine,PIK3CD
+2159,8660,1959,DL-Proline,PIK3CG
+2160,35400,1410,Ferulic acid,PIK3R1
+2161,9091,1410,Caffeic acid,PIK3R1
+2162,32446,343,beta-Ionone,PIM1
+2163,32446,4095,beta-Ionone,PIM2
+2164,8660,1679,DL-Proline,PIN1
+2165,8660,508,DL-Proline,PIPOX
+2166,117,508,choline,PIPOX
+2167,117,496,choline,PISD
+2168,1102,4999,Nifedipine,PKD1
+2169,194,4999,Caffeine,PKD1
+2170,1102,5003,Nifedipine,PKD1L3
+2171,194,5003,Caffeine,PKD1L3
+2172,34785,248,Pachypodol,PKLR
+2173,142,248,CREATINE,PKLR
+2174,34785,252,Pachypodol,PKM
+2175,142,252,CREATINE,PKM
+2176,194,5375,Caffeine,PKN3
+2177,897,5015,Cocaine,PLA2G10
+2178,117,1012,choline,PLA2G2A
+2179,117,5012,choline,PLA2G2F
+2180,1102,1173,Nifedipine,PLA2G4A
+2181,18491,1173,gentisic acid,PLA2G4A
+2182,117,1173,choline,PLA2G4A
+2183,117,5026,choline,PLA2G4B
+2184,117,4031,choline,PLA2G4C
+2185,117,5019,choline,PLA2G4D
+2186,117,1427,choline,PLA2G6
+2187,8019,30,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PLAT
+2188,142,30,CREATINE,PLAT
+2189,194,4502,Caffeine,PLCB1
+2190,194,5213,Caffeine,PLCB2
+2191,194,5216,Caffeine,PLCB3
+2192,897,5220,Cocaine,PLCB4
+2193,897,2741,Cocaine,PLCD1
+2194,117,5212,choline,PLCD4
+2195,194,5212,Caffeine,PLCD4
+2196,194,5214,Caffeine,PLCE1
+2197,194,5211,Caffeine,PLCG1
+2198,897,5222,Cocaine,PLCG2
+2199,897,5221,Cocaine,PLCH1
+2200,117,5221,choline,PLCH1
+2201,117,1428,choline,PLCL1
+2202,194,5218,Caffeine,PLCXD1
+2203,194,5217,Caffeine,PLCXD2
+2204,897,5219,Cocaine,PLCXD3
+2205,117,5215,choline,PLCZ1
+2206,194,5215,Caffeine,PLCZ1
+2207,117,276,choline,PLD1
+2208,117,274,choline,PLD2
+2209,34785,23,Pachypodol,PLG
+2210,8019,23,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PLG
+2211,194,4412,Caffeine,PLIN1
+2212,9091,3511,Caffeic acid,PLK1
+2213,142,4356,CREATINE,PLN
+2214,194,4356,Caffeine,PLN
+2215,8660,308,DL-Proline,PLOD1
+2216,8660,291,DL-Proline,PLOD2
+2217,8660,292,DL-Proline,PLOD3
+2218,117,4220,choline,PLTP
+2219,35694,2485,Myristicin,PMS2
+2220,117,1419,choline,PNLIP
+2221,8019,926,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PNP
+2222,35084,179,Calycosin,PNPO
+2223,3993,2156,4-Hydroxybenzoic acid,pobA
+2224,3993,1995,4-Hydroxybenzoic acid,pobA
+2225,194,4902,Caffeine,POLH
+2226,897,5464,Cocaine,POLR2M
+2227,2635,1318,Dodecane,POMC
+2228,117,1318,choline,POMC
+2229,194,1318,Caffeine,POMC
+2230,3283,1499,Naringenin,PON1
+2231,117,1499,choline,PON1
+2232,58492,1499,5-Hydroxy-2-coumaranone,PON1
+2233,58492,5145,5-Hydroxy-2-coumaranone,PON2
+2234,9210,2549,Acetic acid,POR
+2235,194,39115,Caffeine,PPAN-P2RY11
+2236,36999,1015,Osthole,PPARA
+2237,32326,1015,Oleanolic acid,PPARA
+2238,8019,1015,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PPARA
+2239,31126,1015,Lutein,PPARA
+2240,117,1015,choline,PPARA
+2241,32774,1015,Carvacrol,PPARA
+2242,4179,1015,Carboxy-N,PPARA
+2243,117,685,choline,PPARD
+2244,36999,684,Osthole,PPARG
+2245,34516,684,Neochanin,PPARG
+2246,31126,684,Lutein,PPARG
+2247,36039,684,glycycoumarin,PPARG
+2248,35400,684,Ferulic acid,PPARG
+2249,142,684,CREATINE,PPARG
+2250,31559,684,Chuanxingzine,PPARG
+2251,117,684,choline,PPARG
+2252,194,684,Caffeine,PPARG
+2253,9091,684,Caffeic acid,PPARG
+2254,142,4978,CREATINE,PPARGC1A
+2255,117,4978,choline,PPARGC1A
+2256,194,4978,Caffeine,PPARGC1A
+2257,8660,143,DL-Proline,PPIA
+2258,53911,143,Cymene,PPIA
+2259,53911,39069,Cymene,PPIAL4G
+2260,8660,754,DL-Proline,PPIB
+2261,8660,755,DL-Proline,PPIC
+2262,8660,4519,DL-Proline,PPID
+2263,194,4519,Caffeine,PPID
+2264,8660,144,DL-Proline,PPIF
+2265,53911,144,Cymene,PPIF
+2266,8660,756,DL-Proline,PPIG
+2267,194,756,Caffeine,PPIG
+2268,8660,753,DL-Proline,PPIH
+2269,194,5801,Caffeine,PPP1R1B
+2270,194,5702,Caffeine,PPP1R9B
+2271,32326,5183,Oleanolic acid,PRDX1
+2272,35084,5183,Calycosin,PRDX1
+2273,35084,2052,Calycosin,PRDX2
+2274,31126,5186,Lutein,PRDX4
+2275,31126,1372,Lutein,PRDX5
+2276,9091,1372,Caffeic acid,PRDX5
+2277,31126,2908,Lutein,PRDX6
+2278,8660,1584,DL-Proline,PREP
+2279,35332,1584,4-[7-(beta-D-Allopyranosyloxy)-4-oxo-3,PREP
+2280,8660,5154,DL-Proline,PREPL
+2281,32446,350,beta-Ionone,PRKAA1
+2282,194,5106,Caffeine,PRKAA2
+2283,32446,5106,beta-Ionone,PRKAA2
+2284,8660,1706,DL-Proline,PRKAR1A
+2285,8660,3461,DL-Proline,PRKAR2A
+2286,8660,2298,DL-Proline,PRKAR2B
+2287,8019,494,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCA
+2288,194,494,Caffeine,PRKCA
+2289,8019,706,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCB
+2290,194,706,Caffeine,PRKCB
+2291,8019,3177,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCD
+2292,194,3177,Caffeine,PRKCD
+2293,8019,3471,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCE
+2294,194,3471,Caffeine,PRKCE
+2295,8019,3866,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCG
+2296,194,3866,Caffeine,PRKCG
+2297,194,4664,Caffeine,PRKCH
+2298,194,2872,Caffeine,PRKCI
+2299,9912,1960,cis-caffeic acid,PRKCQ
+2300,194,1960,Caffeine,PRKCQ
+2301,8019,4313,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCZ
+2302,35694,843,Myristicin,PRKDC
+2303,70575,843,Chromone,PRKDC
+2304,194,843,Caffeine,PRKDC
+2305,8660,5771,DL-Proline,PRKG1
+2306,8660,5773,DL-Proline,PRKG2
+2307,1102,4250,Nifedipine,PRL
+2308,2616,1650,Glycocyamine,PRMT3
+2309,194,1255,Caffeine,PRNP
+2310,8660,752,DL-Proline,PRODH
+2311,8019,117,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PROS1
+2312,117,117,choline,PROS1
+2313,8660,201,DL-Proline,PROSC
+2314,4179,3129,Carboxy-N,proX
+2315,35613,723,Neodiosmin,PROZ
+2316,31781,1568,g-Guanidinobutyrate,PRSS1
+2317,117,1568,choline,PRSS1
+2318,31781,1714,g-Guanidinobutyrate,PRSS2
+2319,117,1714,choline,PRSS2
+2320,32774,2128,Carvacrol,PRSS3
+2321,4179,4260,Carboxy-N,PSEN1
+2322,3283,4261,Naringenin,PSEN2
+2323,8660,3565,DL-Proline,PSMA2
+2324,8660,3566,DL-Proline,PSMA3
+2325,8660,3567,DL-Proline,PSMA4
+2326,8660,3568,DL-Proline,PSMA5
+2327,8660,3569,DL-Proline,PSMA6
+2328,8660,3570,DL-Proline,PSMA7
+2329,8660,4957,DL-Proline,PSMA8
+2330,8660,810,DL-Proline,PSMB1
+2331,8660,3824,DL-Proline,PSMB10
+2332,8660,812,DL-Proline,PSMB2
+2333,8660,3572,DL-Proline,PSMB4
+2334,8660,811,DL-Proline,PSMB5
+2335,8660,3573,DL-Proline,PSMB6
+2336,8660,3574,DL-Proline,PSMB7
+2337,8660,4954,DL-Proline,PSMC2
+2338,8660,4956,DL-Proline,PSMC3
+2339,8660,4946,DL-Proline,PSMC4
+2340,8660,813,DL-Proline,PSMD1
+2341,8660,4624,DL-Proline,PSMD10
+2342,8660,4958,DL-Proline,PSMD13
+2343,8660,4951,DL-Proline,PSMD14
+2344,8660,809,DL-Proline,PSMD2
+2345,8660,4953,DL-Proline,PSMD4
+2346,8660,4948,DL-Proline,PSMD8
+2347,8660,4950,DL-Proline,PSMD9
+2348,8660,4955,DL-Proline,PSME3
+2349,194,4955,Caffeine,PSME3
+2350,8660,4947,DL-Proline,PSME4
+2351,117,495,choline,PTDSS1
+2352,117,490,choline,PTDSS2
+2353,32326,6497,Oleanolic acid,PTEN
+2354,34333,1269,29-Hydroxy-11,PTGER2
+2355,1102,1355,Nifedipine,PTGER4
+2356,897,1355,Cocaine,PTGER4
+2357,1102,979,Nifedipine,PTGFR
+2358,897,979,Cocaine,PTGFR
+2359,1102,1047,Nifedipine,PTGIR
+2360,1102,1305,Nifedipine,PTGIS
+2361,31559,1305,Chuanxingzine,PTGIS
+2362,194,1305,Caffeine,PTGIS
+2363,3993,1305,4-Hydroxybenzoic acid,PTGIS
+2364,38112,2779,dl-Perillaldehyde,PTGR1
+2365,7701,537,octene,PTGS1
+2366,31126,537,Lutein,PTGS1
+2367,35400,537,Ferulic acid,PTGS1
+2368,32774,537,Carvacrol,PTGS1
+2369,31243,537,1-Methylguanidine,PTGS1
+2370,36999,38935,Osthole,PTGS1 COX1
+2371,36879,538,Vanillin,PTGS2
+2372,35710,538,Tangeritin,PTGS2
+2373,32326,538,Oleanolic acid,PTGS2
+2374,7701,538,octene,PTGS2
+2375,35586,538,Nobiletin,PTGS2
+2376,1102,538,Nifedipine,PTGS2
+2377,8019,538,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PTGS2
+2378,31126,538,Lutein,PTGS2
+2379,4410,538,Hesperidin,PTGS2
+2380,35400,538,Ferulic acid,PTGS2
+2381,31559,538,Chuanxingzine,PTGS2
+2382,194,538,Caffeine,PTGS2
+2383,9091,538,Caffeic acid,PTGS2
+2384,32446,538,beta-Ionone,PTGS2
+2385,9210,538,Acetic acid,PTGS2
+2386,31243,538,1-Methylguanidine,PTGS2
+2387,8019,3206,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PTH
+2388,142,3206,CREATINE,PTH
+2389,194,3206,Caffeine,PTH
+2390,63707,3206,(.+/-.)-trans-Nerolidol,PTH
+2391,1102,1425,Nifedipine,PTK2B
+2392,34518,1442,Licochalcone A,PTPN1
+2393,142,1442,CREATINE,PTPN1
+2394,194,1442,Caffeine,PTPN1
+2395,42599,1442,4-[6-Hydroxy-4-methoxy-5-(3-methyl-but-2-enyl)-benzofuran-2-yl]-benzene-1,PTPN1
+2396,8660,2438,DL-Proline,PTPN11
+2397,2399,4629,Thymol,PTPRZ1
+2398,8660,2923,DL-Proline,PTS
+2399,9091,4766,Caffeic acid,PTX3
+2400,31243,39257,1-Methylguanidine,PXDNL
+2401,8660,616,DL-Proline,PYCR1
+2402,8660,615,DL-Proline,PYCR2
+2403,8660,759,DL-Proline,PYCRL
+2404,142,204,CREATINE,PYGB
+2405,194,204,Caffeine,PYGB
+2406,142,184,CREATINE,PYGL
+2407,194,184,Caffeine,PYGL
+2408,142,205,CREATINE,PYGM
+2409,194,205,Caffeine,PYGM
+2410,8019,632,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,QDPR
+2411,194,632,Caffeine,QDPR
+2412,194,5765,Caffeine,RAD17
+2413,35694,3194,Myristicin,RAD51
+2414,194,3194,Caffeine,RAD51
+2415,194,3147,Caffeine,RAN
+2416,8019,859,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,RARB
+2417,194,4945,Caffeine,RASD1
+2418,35400,66,Ferulic acid,RB1
+2419,194,66,Caffeine,RB1
+2420,31126,39234,Lutein,RBMY1B
+2421,31126,39226,Lutein,RBMY1E
+2422,32446,5901,beta-Ionone,RBP4
+2423,194,698,Caffeine,RDH14
+2424,32446,584,beta-Ionone,RDH5
+2425,36999,4192,Osthole,RELA
+2426,1102,4192,Nifedipine,RELA
+2427,3283,4192,Naringenin,RELA
+2428,31126,4192,Lutein,RELA
+2429,35400,4192,Ferulic acid,RELA
+2430,31559,4192,Chuanxingzine,RELA
+2431,194,4192,Caffeine,RELA
+2432,32303,4192,Betulinic acid,RELA
+2433,32701,4192,Betulin,RELA
+2434,32446,4192,beta-Ionone,RELA
+2435,9210,4192,Acetic acid,RELA
+2436,1102,866,Nifedipine,REN
+2437,142,866,CREATINE,REN
+2438,117,866,choline,REN
+2439,194,866,Caffeine,REN
+2440,31126,695,Lutein,RETSAT
+2441,194,4093,Caffeine,RGS2
+2442,8660,4938,DL-Proline,RHBDF1
+2443,194,5656,Caffeine,RHEBL1
+2444,9912,1454,cis-caffeic acid,RHO
+2445,32446,1454,beta-Ionone,RHO
+2446,7890,1454,(+/-)-Eucalyptol,RHO
+2447,32269,1454,(+/-)-alpha-Pinene,RHO
+2448,38112,3151,dl-Perillaldehyde,RHOA
+2449,194,3151,Caffeine,RHOA
+2450,38112,137,dl-Perillaldehyde,RHOB
+2451,194,137,Caffeine,RHOB
+2452,117,704,choline,RLBP1
+2453,526,314,Guanidine,RNASE1
+2454,526,1135,Guanidine,rocF
+2455,194,4900,Caffeine,RPA2
+2456,194,1674,Caffeine,RPIA
+2457,117,2269,choline,RPL10L
+2458,194,2269,Caffeine,RPL10L
+2459,8660,5548,DL-Proline,RPS6
+2460,70575,5548,Chromone,RPS6
+2461,194,5548,Caffeine,RPS6
+2462,194,1361,Caffeine,RPS6KA3
+2463,8660,3901,DL-Proline,RPS6KB1
+2464,70575,3901,Chromone,RPS6KB1
+2465,194,3901,Caffeine,RPS6KB1
+2466,2687,3357,Decane,RPSA
+2467,194,919,Caffeine,RRM2
+2468,31126,863,Lutein,RXRA
+2469,117,863,choline,RXRA
+2470,117,861,choline,RXRB
+2471,31126,860,Lutein,RXRG
+2472,2399,841,Thymol,RYR1
+2473,1102,841,Nifedipine,RYR1
+2474,2687,841,Decane,RYR1
+2475,142,841,CREATINE,RYR1
+2476,32774,841,Carvacrol,RYR1
+2477,194,841,Caffeine,RYR1
+2478,1102,4697,Nifedipine,RYR2
+2479,2687,4697,Decane,RYR2
+2480,194,4697,Caffeine,RYR2
+2481,194,4696,Caffeine,RYR3
+2482,194,1264,Caffeine,S100A1
+2483,117,1317,choline,S100A4
+2484,194,1317,Caffeine,S100A4
+2485,194,5899,Caffeine,S100A6
+2486,70543,4443,(S)-(+)-Linalool,S100A9
+2487,8019,125,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SAA1
+2488,34785,361,Pachypodol,SARS
+2489,117,497,choline,SCARB1
+2490,117,4979,choline,SCARB2
+2491,35694,4756,Myristicin,SCD
+2492,35400,4756,Ferulic acid,SCD
+2493,117,4756,choline,SCD
+2494,31126,4501,Lutein,Scd1
+2495,194,4501,Caffeine,Scd1
+2496,36547,209,Gastrodigenin,SCLY
+2497,897,973,Cocaine,SCN10A
+2498,897,1340,Cocaine,SCN11A
+2499,897,1342,Cocaine,SCN1B
+2500,36547,1145,Gastrodigenin,SCN2A
+2501,3993,1145,4-Hydroxybenzoic acid,SCN2A
+2502,897,1341,Cocaine,SCN3A
+2503,897,1344,Cocaine,SCN3B
+2504,526,1171,Guanidine,SCN4A
+2505,897,1171,Cocaine,SCN4A
+2506,897,1345,Cocaine,SCN4B
+2507,1102,815,Nifedipine,SCN5A
+2508,897,815,Cocaine,SCN5A
+2509,9535,927,(+)-Saxitoxin,SCN9A
+2510,897,1056,Cocaine,SCNN1B
+2511,897,1057,Cocaine,SCNN1D
+2512,897,1054,Cocaine,SCNN1G
+2513,117,3584,choline,SCPEP1
+2514,31962,377,Trigonelline,SDHA
+2515,117,712,choline,SEC14L3
+2516,117,711,choline,SEC14L4
+2517,117,39246,choline,SEC14L6
+2518,32326,1446,Oleanolic acid,SELE
+2519,194,1945,Caffeine,SERPINA1
+2520,194,4693,Caffeine,SERPINA6
+2521,1102,31,Nifedipine,SERPINB2
+2522,8019,1077,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SERPINC1
+2523,3283,26,Naringenin,SERPINE1
+2524,142,5461,CREATINE,SGCB
+2525,3283,1084,Naringenin,SHBG
+2526,194,1084,Caffeine,SHBG
+2527,8019,172,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SHMT1
+2528,8660,172,DL-Proline,SHMT1
+2529,117,172,choline,SHMT1
+2530,8019,207,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SHMT2
+2531,117,207,choline,SHMT2
+2532,3283,978,Naringenin,SI
+2533,7002,978,Homogentisic acid,SI
+2534,897,1009,Cocaine,SIGMAR1
+2535,194,1009,Caffeine,SIGMAR1
+2536,117,1641,choline,SKP1
+2537,35084,1641,Calycosin,SKP1
+2538,31232,1641,Butylphthalide,SKP1
+2539,31095,1641,3-Butyl-4,SKP1
+2540,35084,4459,Calycosin,SKP2
+2541,32326,5339,Oleanolic acid,SLC10A1
+2542,897,5806,Cocaine,SLC11A2
+2543,2687,868,Decane,SLC12A1
+2544,2687,1256,Decane,SLC12A2
+2545,2687,1091,Decane,SLC12A3
+2546,2687,1260,Decane,SLC12A4
+2547,2687,1257,Decane,SLC12A5
+2548,2687,1258,Decane,SLC12A6
+2549,2687,1259,Decane,SLC12A7
+2550,2687,5777,Decane,SLC12A8
+2551,2687,5778,Decane,SLC12A9
+2552,3283,255,Naringenin,SLC16A1
+2553,8019,255,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC16A1
+2554,194,255,Caffeine,SLC16A1
+2555,8660,5636,DL-Proline,SLC16A10
+2556,194,4342,Caffeine,SLC17A5
+2557,117,5129,choline,SLC18A3
+2558,8019,5632,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC19A1
+2559,8019,536,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC19A2
+2560,8019,532,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC19A3
+2561,194,326,Caffeine,SLC1A1
+2562,117,416,choline,SLC1A2
+2563,117,415,choline,SLC1A3
+2564,1102,1163,Nifedipine,SLC22A4
+2565,526,1163,Guanidine,SLC22A4
+2566,117,1163,choline,SLC22A4
+2567,1102,1164,Nifedipine,SLC22A5
+2568,526,1164,Guanidine,SLC22A5
+2569,142,1164,CREATINE,SLC22A5
+2570,117,1164,choline,SLC22A5
+2571,4179,1164,Carboxy-N,SLC22A5
+2572,8019,1387,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC22A6
+2573,526,1389,Guanidine,SLC22A8
+2574,1102,4755,Nifedipine,SLC23A2
+2575,194,26598,Caffeine,SLC24A6
+2576,31126,745,Lutein,SLC25A4
+2577,117,5131,choline,SLC26A3
+2578,117,4075,choline,SLC26A4
+2579,117,5122,choline,SLC26A7
+2580,117,5132,choline,SLC26A8
+2581,117,5128,choline,SLC26A9
+2582,36469,5776,dillapiole,SLC29A3
+2583,3283,4540,Naringenin,SLC2A1
+2584,8019,1086,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC2A2
+2585,35400,4436,Ferulic acid,SLC2A4
+2586,194,4436,Caffeine,SLC2A4
+2587,9091,4436,Caffeic acid,SLC2A4
+2588,8019,5927,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC35A2
+2589,117,5927,choline,SLC35A2
+2590,4179,5927,Carboxy-N,SLC35A2
+2591,8660,504,DL-Proline,SLC36A1
+2592,4179,504,Carboxy-N,SLC36A1
+2593,8660,5641,DL-Proline,SLC36A2
+2594,8660,5640,DL-Proline,SLC36A3
+2595,8660,5828,DL-Proline,SLC38A2
+2596,117,3943,choline,SLC44A4
+2597,54863,3943,(22E)-Ergosta-7,SLC44A4
+2598,8660,4562,DL-Proline,SLC5A5
+2599,117,4562,choline,SLC5A5
+2600,8660,265,DL-Proline,SLC5A6
+2601,117,265,choline,SLC5A6
+2602,8019,1339,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A1
+2603,117,1339,choline,SLC6A1
+2604,8019,3814,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A11
+2605,8019,3815,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A12
+2606,4179,3815,Carboxy-N,SLC6A12
+2607,8019,3813,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A13
+2608,142,3813,CREATINE,SLC6A13
+2609,8019,786,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A2
+2610,897,786,Cocaine,SLC6A2
+2611,117,786,choline,SLC6A2
+2612,8019,783,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A3
+2613,897,783,Cocaine,SLC6A3
+2614,194,783,Caffeine,SLC6A3
+2615,70543,783,(S)-(+)-Linalool,SLC6A3
+2616,8019,776,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A4
+2617,897,776,Cocaine,SLC6A4
+2618,117,776,choline,SLC6A4
+2619,1392,776,Bufotenin,SLC6A4
+2620,8019,509,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A5
+2621,8019,762,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A7
+2622,8660,762,DL-Proline,SLC6A7
+2623,8019,520,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A8
+2624,2616,520,Glycocyamine,SLC6A8
+2625,142,520,CREATINE,SLC6A8
+2626,35586,510,Nobiletin,SLC6A9
+2627,8019,510,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A9
+2628,8660,278,DL-Proline,SLC7A1
+2629,2687,278,Decane,SLC7A1
+2630,2687,5648,Decane,SLC7A10
+2631,36879,368,Vanillin,SLC7A11
+2632,2687,368,Decane,SLC7A11
+2633,8660,5633,DL-Proline,SLC7A13
+2634,2687,5633,Decane,SLC7A13
+2635,8660,281,DL-Proline,SLC7A2
+2636,2687,281,Decane,SLC7A2
+2637,8660,280,DL-Proline,SLC7A3
+2638,2687,280,Decane,SLC7A3
+2639,8660,279,DL-Proline,SLC7A4
+2640,2687,279,Decane,SLC7A4
+2641,2687,4355,Decane,SLC7A5
+2642,2687,5647,Decane,SLC7A6
+2643,2687,5637,Decane,SLC7A7
+2644,115,257,L-(-)-Phenylalanine,SLC7A8
+2645,2687,257,Decane,SLC7A8
+2646,2687,370,Decane,SLC7A9
+2647,526,358,Guanidine,SLC8A1
+2648,194,358,Caffeine,SLC8A1
+2649,526,5112,Guanidine,SLC8A2
+2650,526,5133,Guanidine,SLC8A3
+2651,117,1176,choline,SLC9A1
+2652,117,5111,choline,SLC9A2
+2653,117,4122,choline,SLC9A3
+2654,117,5120,choline,SLC9A5
+2655,117,5135,choline,SLC9A6
+2656,117,5108,choline,SLC9A7
+2657,117,5136,choline,SLC9A8
+2658,117,5124,choline,SLC9A9
+2659,8019,5335,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLCO1A2
+2660,33749,4890,Stigmasterol,SLCO1B1
+2661,8019,5340,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLCO1C1
+2662,38295,5346,N-Carbamimidoylaspartic acid,SLCO4C1
+2663,194,4676,Caffeine,SMAD1
+2664,194,6045,Caffeine,SMAD3
+2665,32303,6045,Betulinic acid,SMAD3
+2666,32701,6045,Betulin,SMAD3
+2667,194,313,Caffeine,SMOX
+2668,117,1053,choline,SMPD1
+2669,194,1053,Caffeine,SMPD1
+2670,117,4587,choline,SMPD2
+2671,194,492,Caffeine,SMPD3
+2672,194,5566,Caffeine,SMPDL3A
+2673,194,3260,Caffeine,SNX3
+2674,3283,4509,Naringenin,SOCS3
+2675,32326,2730,Oleanolic acid,SOD1
+2676,3283,2730,Naringenin,SOD1
+2677,31126,2730,Lutein,SOD1
+2678,35586,2687,Nobiletin,SOD2
+2679,1102,2687,Nifedipine,SOD2
+2680,3283,2687,Naringenin,SOD2
+2681,8019,2687,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SOD2
+2682,31126,2687,Lutein,SOD2
+2683,142,2687,CREATINE,SOD2
+2684,31559,2687,Chuanxingzine,SOD2
+2685,117,2687,choline,SOD2
+2686,194,2687,Caffeine,SOD2
+2687,31243,5701,1-Methylguanidine,SORT1
+2688,8019,4767,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SPINK1
+2689,1102,4279,Nifedipine,SPP1
+2690,3283,4279,Naringenin,SPP1
+2691,31126,1246,Lutein,SQLE
+2692,194,1246,Caffeine,SQLE
+2693,3993,1246,4-Hydroxybenzoic acid,SQLE
+2694,1102,1476,Nifedipine,SRC
+2695,70575,1476,Chromone,SRC
+2696,117,1476,choline,SRC
+2697,36999,1041,Osthole,SRD5A1
+2698,36039,1041,glycycoumarin,SRD5A1
+2699,117,1320,choline,SST
+2700,9210,1320,Acetic acid,SST
+2701,35274,1320,2-Methylphenol,SST
+2702,53911,3464,Cymene,ST3GAL5
+2703,32326,4667,Oleanolic acid,STAT3
+2704,3283,4667,Naringenin,STAT3
+2705,194,3960,Caffeine,STMN1
+2706,70575,4855,Chromone,SULF1
+2707,70575,4888,Chromone,SULF2
+2708,3283,1723,Naringenin,SULT1A1
+2709,18491,1723,gentisic acid,SULT1A1
+2710,35400,1723,Ferulic acid,SULT1A1
+2711,9091,1723,Caffeic acid,SULT1A1
+2712,3993,1723,4-Hydroxybenzoic acid,SULT1A1
+2713,9091,4884,Caffeic acid,SULT1A2
+2714,9091,4861,Caffeic acid,SULT1C2
+2715,194,1462,Caffeine,SULT1E1
+2716,18491,1611,gentisic acid,SULT2A1
+2717,35400,1611,Ferulic acid,SULT2A1
+2718,8660,4883,DL-Proline,SULT4A1
+2719,194,4883,Caffeine,SULT4A1
+2720,1392,4883,Bufotenin,SULT4A1
+2721,194,3971,Caffeine,TAF2
+2722,117,5494,choline,TAP1
+2723,526,547,Guanidine,TARS
+2724,526,548,Guanidine,TARS2
+2725,115,181,L-(-)-Phenylalanine,TAT
+2726,7002,181,Homogentisic acid,TAT
+2727,194,181,Caffeine,TAT
+2728,9210,181,Acetic acid,TAT
+2729,1102,1470,Nifedipine,TBXA2R
+2730,897,1470,Cocaine,TBXA2R
+2731,8019,835,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TCN1
+2732,8019,4889,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TCN2
+2733,9210,4632,Acetic acid,TDGF1
+2734,194,5507,Caffeine,TDO2
+2735,36999,39106,Osthole,TEN1-CDK3
+2736,35710,1119,Tangeritin,TERT
+2737,35586,1119,Nobiletin,TERT
+2738,9210,1119,Acetic acid,TERT
+2739,8019,4628,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TFRC
+2740,194,4628,Caffeine,TFRC
+2741,36999,127,Osthole,TGFB1
+2742,1102,127,Nifedipine,TGFB1
+2743,3283,127,Naringenin,TGFB1
+2744,194,127,Caffeine,TGFB1
+2745,32303,127,Betulinic acid,TGFB1
+2746,32701,127,Betulin,TGFB1
+2747,115,262,L-(-)-Phenylalanine,TH
+2748,8660,262,DL-Proline,TH
+2749,897,262,Cocaine,TH
+2750,117,262,choline,TH
+2751,194,262,Caffeine,TH
+2752,9210,262,Acetic acid,TH
+2753,70543,262,(S)-(+)-Linalool,TH
+2754,8019,116,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,THBD
+2755,3993,183,4-Hydroxybenzoic acid,THNSL1
+2756,32320,4144,TERPINOLENE,TKT
+2757,8019,4144,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TKT
+2758,31126,4144,Lutein,TKT
+2759,32574,4144,2-(4-Methyl-3-cyclohexen-1-yl)-2-propanol,TKT
+2760,63707,4144,(.+/-.)-trans-Nerolidol,TKT
+2761,32320,39009,TERPINOLENE,TKTL2
+2762,31126,39009,Lutein,TKTL2
+2763,32574,39009,2-(4-Methyl-3-cyclohexen-1-yl)-2-propanol,TKTL2
+2764,63707,39009,(.+/-.)-trans-Nerolidol,TKTL2
+2765,35400,104,Ferulic acid,TLR2
+2766,1102,1463,Nifedipine,TLR4
+2767,35400,1463,Ferulic acid,TLR4
+2768,32303,1463,Betulinic acid,TLR4
+2769,33749,17,Stigmasterol,TNF
+2770,32326,17,Oleanolic acid,TNF
+2771,1102,17,Nifedipine,TNF
+2772,3283,17,Naringenin,TNF
+2773,8019,17,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TNF
+2774,31126,17,Lutein,TNF
+2775,4410,17,Hesperidin,TNF
+2776,35400,17,Ferulic acid,TNF
+2777,2635,17,Dodecane,TNF
+2778,142,17,CREATINE,TNF
+2779,31559,17,Chuanxingzine,TNF
+2780,117,17,choline,TNF
+2781,194,17,Caffeine,TNF
+2782,9091,17,Caffeic acid,TNF
+2783,32303,17,Betulinic acid,TNF
+2784,32446,17,beta-Ionone,TNF
+2785,9210,17,Acetic acid,TNF
+2786,1102,4290,Nifedipine,TNFAIP3
+2787,35710,2794,Tangeritin,TNFRSF1A
+2788,34650,2794,Sinensetin,TNFRSF1A
+2789,35586,2794,Nobiletin,TNFRSF1A
+2790,34518,2794,Licochalcone A,TNFRSF1A
+2791,34602,2794,iso-Licoflavonol,TNFRSF1A
+2792,35360,2794,7-Hydroxy-2-(4-hydroxyphenyl)-6-(3-methyl-2-buten-1-yl)-4H-chromen-4-one,TNFRSF1A
+2793,32326,18,Oleanolic acid,TNFRSF1B
+2794,8019,18,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TNFRSF1B
+2795,32303,1112,Betulinic acid,TNFSF11
+2796,117,2693,choline,TNFSF13B
+2797,194,750,Caffeine,TNK2
+2798,142,5030,CREATINE,TNNI2
+2799,142,3247,CREATINE,TNNI3
+2800,32326,1261,Oleanolic acid,TOP1
+2801,897,1261,Cocaine,TOP1
+2802,194,1261,Caffeine,TOP1
+2803,32303,1261,Betulinic acid,TOP1
+2804,32326,881,Oleanolic acid,TOP2A
+2805,194,881,Caffeine,TOP2A
+2806,32303,881,Betulinic acid,TOP2A
+2807,194,1049,Caffeine,TOP2B
+2808,36879,1360,Vanillin,TP53
+2809,1102,1360,Nifedipine,TP53
+2810,3283,1360,Naringenin,TP53
+2811,8019,1360,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TP53
+2812,194,1360,Caffeine,TP53
+2813,9091,1360,Caffeic acid,TP53
+2814,70543,1360,(S)-(+)-Linalool,TP53
+2815,8660,1033,DL-Proline,TPH1
+2816,2616,1603,Glycocyamine,TPI1
+2817,142,1603,CREATINE,TPI1
+2818,8019,1474,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TPMT
+2819,31243,1058,1-Methylguanidine,TPO
+2820,8660,4575,DL-Proline,TPP2
+2821,194,4575,Caffeine,TPP2
+2822,32320,4169,TERPINOLENE,TPSD1
+2823,32574,4169,2-(4-Methyl-3-cyclohexen-1-yl)-2-propanol,TPSD1
+2824,31243,5198,1-Methylguanidine,TRHDE
+2825,32269,4640,(+/-)-alpha-Pinene,TRHR
+2826,142,5033,CREATINE,TRIM32
+2827,2399,1313,Thymol,TRPA1
+2828,1102,1313,Nifedipine,TRPA1
+2829,31126,1313,Lutein,TRPA1
+2830,38112,1313,dl-Perillaldehyde,TRPA1
+2831,32774,1313,Carvacrol,TRPA1
+2832,194,1313,Caffeine,TRPA1
+2833,7890,1313,(+/-)-Eucalyptol,TRPA1
+2834,194,4516,Caffeine,TRPC3
+2835,7890,4554,(+/-)-Eucalyptol,TRPM2
+2836,32774,3185,Carvacrol,TRPM7
+2837,32774,1312,Carvacrol,TRPM8
+2838,33025,1312,1-Isopropyl-4-methyl-7-oxabicyclo[2.2.1]heptane,TRPM8
+2839,7890,1312,(+/-)-Eucalyptol,TRPM8
+2840,142,5886,CREATINE,TRPV2
+2841,32774,5886,Carvacrol,TRPV2
+2842,36879,1314,Vanillin,TRPV3
+2843,2399,1314,Thymol,TRPV3
+2844,32774,1314,Carvacrol,TRPV3
+2845,32774,4634,Carvacrol,TRPV4
+2846,1102,4224,Nifedipine,TRPV6
+2847,194,4224,Caffeine,TRPV6
+2848,32269,46,(+/-)-alpha-Pinene,TSHR
+2849,31159,808,Trimethylamine,TSPO
+2850,8019,808,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TSPO
+2851,526,808,Guanidine,TSPO
+2852,18491,808,gentisic acid,TSPO
+2853,142,808,CREATINE,TSPO
+2854,117,808,choline,TSPO
+2855,194,808,Caffeine,TSPO
+2856,3283,2785,Naringenin,ttgR
+2857,117,5073,choline,TTPA
+2858,8019,3940,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TTR
+2859,8660,3940,DL-Proline,TTR
+2860,36079,1787,Apocynol,TUBB4A
+2861,2687,3141,Decane,TUFM
+2862,38112,3886,dl-Perillaldehyde,TXN
+2863,70543,3886,(S)-(+)-Linalool,TXN
+2864,35586,4448,Nobiletin,TXNIP
+2865,31126,1460,Lutein,TXNRD1
+2866,34518,1460,Licochalcone A,TXNRD1
+2867,194,1460,Caffeine,TXNRD1
+2868,34518,3318,Licochalcone A,TYK2
+2869,8019,2355,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TYMP
+2870,8019,983,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TYMS
+2871,8660,983,DL-Proline,TYMS
+2872,194,983,Caffeine,TYMS
+2873,31159,681,Trimethylamine,TYR
+2874,7002,681,Homogentisic acid,TYR
+2875,526,681,Guanidine,TYR
+2876,36547,681,Gastrodigenin,TYR
+2877,35400,681,Ferulic acid,TYR
+2878,8660,681,DL-Proline,TYR
+2879,117,681,choline,TYR
+2880,9091,681,Caffeic acid,TYR
+2881,3993,681,4-Hydroxybenzoic acid,TYR
+2882,8660,3005,DL-Proline,UBA1
+2883,8660,3927,DL-Proline,UBA3
+2884,8660,4972,DL-Proline,UBA52
+2885,8660,2304,DL-Proline,UBB
+2886,194,2304,Caffeine,UBB
+2887,8660,3235,DL-Proline,UBC
+2888,194,3235,Caffeine,UBC
+2889,142,2230,CREATINE,UBE2D2
+2890,194,2230,Caffeine,UBE2D2
+2891,35084,4517,Calycosin,UBE3A
+2892,3993,2032,4-Hydroxybenzoic acid,ubiC
+2893,194,4626,Caffeine,UCHL1
+2894,31126,4139,Lutein,UCP1
+2895,117,4140,choline,UCP2
+2896,31126,4141,Lutein,UCP3
+2897,142,4141,CREATINE,UCP3
+2898,4179,5923,Carboxy-N,UGT1A5
+2899,2399,3265,Thymol,UGT1A9
+2900,34516,3265,Neochanin,UGT1A9
+2901,3283,3265,Naringenin,UGT1A9
+2902,3283,5920,Naringenin,UGT2B15
+2903,32774,5920,Carvacrol,UGT2B15
+2904,32574,5920,2-(4-Methyl-3-cyclohexen-1-yl)-2-propanol,UGT2B15
+2905,70543,5920,(S)-(+)-Linalool,UGT2B15
+2906,8660,2467,DL-Proline,UMPS
+2907,117,2467,choline,UMPS
+2908,8019,3522,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,UNG
+2909,194,3020,Caffeine,UQCRC1
+2910,194,3021,Caffeine,UQCRC2
+2911,31159,2851,Trimethylamine,UROD
+2912,8019,2851,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,UROD
+2913,117,99,choline,VAMP2
+2914,8019,4322,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,VANGL1
+2915,8660,5623,DL-Proline,VASP
+2916,32326,1445,Oleanolic acid,VCAM1
+2917,4410,1445,Hesperidin,VCAM1
+2918,8019,367,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,VDR
+2919,194,367,Caffeine,VDR
+2920,1102,166,Nifedipine,VEGFA
+2921,31126,166,Lutein,VEGFA
+2922,32304,166,Friedelin,VEGFA
+2923,8660,166,DL-Proline,VEGFA
+2924,35084,166,Calycosin,VEGFA
+2925,194,166,Caffeine,VEGFA
+2926,32303,166,Betulinic acid,VEGFA
+2927,1102,5812,Nifedipine,VIM
+2928,31126,5812,Lutein,VIM
+2929,53410,5812,2-Propylpiperidine,VIM
+2930,32656,39273,Citronellal,VN1R1
+2931,35586,49,Nobiletin,VWF
+2932,8019,49,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,VWF
+2933,3993,528,4-Hydroxybenzoic acid,WARS
+2934,3993,526,4-Hydroxybenzoic acid,WARS2
+2935,194,3278,Caffeine,WEE1
+2936,9210,4385,Acetic acid,WT1
+2937,32325,4385,1-Isopropyl-4,WT1
+2938,35710,1092,Tangeritin,XDH
+2939,34650,1092,Sinensetin,XDH
+2940,34785,1092,Pachypodol,XDH
+2941,35586,1092,Nobiletin,XDH
+2942,34678,1092,Licochalcone B,XDH
+2943,34518,1092,Licochalcone A,XDH
+2944,34602,1092,iso-Licoflavonol,XDH
+2945,18491,1092,gentisic acid,XDH
+2946,194,1092,Caffeine,XDH
+2947,9091,1092,Caffeic acid,XDH
+2948,9210,1092,Acetic acid,XDH
+2949,142,5634,CREATINE,XK
+2950,8660,5196,DL-Proline,XPNPEP2
+2951,1392,5196,Bufotenin,XPNPEP2
+2952,35694,5224,Myristicin,XRCC2
+2953,53911,5559,Cymene,XRCC6
+2954,66824,5559,(+/-)-Sabinene,XRCC6
+2955,8660,366,DL-Proline,YARS
+4553,194,5178,Caffeine,ZFYVE16

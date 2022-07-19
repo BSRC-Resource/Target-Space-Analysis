@@ -1,0 +1,494 @@
+FD7: TOM formula 7 known to treat Diabetes mellitus,,,,
+Idx,compID,geneID,CompName_afterADMET,GeneSymbol
+709,5525,177,Benzyl alcohol,AADAT
+40,3032,730,Stearic acid,ABCA1
+2,3032,728,Stearic acid,ABCG1
+287,35694,751,Myristicin,ABL1
+753,36250,751,Benzaldehyde,ABL1
+94,3032,267,Stearic acid,ACACB
+178,4006,267,Palmitelaidic acid,ACACB
+282,34249,353,Octadecane,ACSL1
+3,3032,4451,Stearic acid,ADIPOQ
+521,3876,4451,Berberine,ADIPOQ
+60,3032,840,Stearic acid,ADORA2A
+612,3876,939,Berberine,ADRA2C
+616,3876,788,Berberine,ADRB1
+647,3876,824,Berberine,ADRB2
+625,3876,1043,Berberine,ADRB3
+651,3876,559,Berberine,AKR1B1
+676,5525,559,Benzyl alcohol,AKR1B1
+456,8786,592,Gamma-Linolenic acid,AKR1C1
+4,3032,738,Stearic acid,AKT1
+523,3876,738,Berberine,AKT1
+97,3032,4730,Stearic acid,ALB
+228,4006,4730,Palmitelaidic acid,ALB
+713,5525,4730,Benzyl alcohol,ALB
+879,31875,446,2-Azetidinecarboxylic acid,ALDH18A1
+716,36250,605,Benzaldehyde,ALDH1A1
+744,36250,609,Benzaldehyde,ALDH1B1
+718,36250,598,Benzaldehyde,ALDH2
+719,36250,604,Benzaldehyde,ALDH3A1
+720,36250,610,Benzaldehyde,ALDH3B1
+922,31875,628,2-Azetidinecarboxylic acid,ALDH4A1
+438,42119,4778,hexanol,ALOX12B
+453,8786,4778,Gamma-Linolenic acid,ALOX12B
+429,42119,4188,hexanol,ALOX15B
+436,42119,4777,hexanol,ALOXE3
+39,3032,4715,Stearic acid,ALPL
+687,5525,4715,Benzyl alcohol,ALPL
+35,3032,3751,Stearic acid,ALPP
+686,5525,3751,Benzyl alcohol,ALPP
+95,3032,1322,Stearic acid,ALPPL2
+711,5525,1322,Benzyl alcohol,ALPPL2
+888,31875,39184,2-Azetidinecarboxylic acid,ANKRD45
+761,36250,740,Benzaldehyde,APAF1
+126,3032,4661,Stearic acid,APOA1
+115,3032,124,Stearic acid,APOE
+458,8786,3449,Gamma-Linolenic acid,APOH
+459,8786,1042,Gamma-Linolenic acid,AR
+721,36250,1042,Benzaldehyde,AR
+435,42119,39173,hexanol,ARSH
+289,35694,848,Myristicin,ATM
+890,31875,848,2-Azetidinecarboxylic acid,ATM
+141,55716,2403,siphonochalyne,B2M
+525,3876,4943,Berberine,BAX
+654,3876,275,Berberine,BCHE
+527,3876,3530,Berberine,BCL2L1
+528,3876,3391,Berberine,BIRC5
+802,36250,3391,Benzaldehyde,BIRC5
+290,35694,5225,Myristicin,BRCA1
+849,36250,39231,Benzaldehyde,C19orf26
+774,36250,39285,Benzaldehyde,C5orf38
+5,3032,1382,Stearic acid,CASP3
+292,35694,1382,Myristicin,CASP3
+461,8786,1382,Gamma-Linolenic acid,CASP3
+529,3876,1382,Berberine,CASP3
+6,3032,2731,Stearic acid,CASP7
+530,3876,4256,Berberine,CASP8
+531,3876,4565,Berberine,CASP9
+8,3032,1408,Stearic acid,CCL2
+532,3876,1408,Berberine,CCL2
+9,3032,3438,Stearic acid,CCL3
+462,8786,2014,Gamma-Linolenic acid,CCNA2
+533,3876,1461,Berberine,CCND1
+534,3876,4963,Berberine,CCND2
+463,8786,4441,Gamma-Linolenic acid,CCNE1
+535,3876,4441,Berberine,CCNE1
+31,3032,4968,Stearic acid,CCNF
+837,36250,4962,Benzaldehyde,CCNH
+172,4006,4179,Palmitelaidic acid,CDC25A
+536,3876,1680,Berberine,CDK2
+537,3876,2400,Berberine,CDK4
+293,35694,2262,Myristicin,CDK7
+540,3876,5462,Berberine,CDKN1B
+608,3876,4275,Berberine,CDKN1C
+129,3032,3891,Stearic acid,CETP
+542,3876,3398,Berberine,CHEK1
+294,35694,3397,Myristicin,CHEK2
+543,3876,3397,Berberine,CHEK2
+638,3876,806,Berberine,CHRM1
+465,8786,5620,Gamma-Linolenic acid,CLDN5
+645,3876,5168,Berberine,CLPX
+48,3032,5048,Stearic acid,COG2
+275,4006,244,Palmitelaidic acid,COMT
+766,36250,4515,Benzaldehyde,COPS5
+239,4006,5159,Palmitelaidic acid,CORIN
+606,3876,3500,Berberine,CPS1
+28,3032,342,Stearic acid,CREB1
+824,36250,186,Benzaldehyde,CSAD
+339,35694,1678,Myristicin,CSNK2A1
+336,35694,3587,Myristicin,CSNK2A2
+96,3032,1836,Stearic acid,CTBP1
+699,5525,1836,Benzyl alcohol,CTBP1
+629,3876,2019,Berberine,CTSB
+843,36250,67,Benzaldehyde,CTSD
+10,3032,3447,Stearic acid,CXCL8
+544,3876,3447,Berberine,CXCL8
+355,41570,2968,Kaur-16-ene,CYB5A
+451,8786,2968,Gamma-Linolenic acid,CYB5A
+545,3876,1383,Berberine,CYCS
+432,42119,3019,hexanol,CYTB
+767,36250,206,Benzaldehyde,DDC
+130,3032,2771,Stearic acid,DECR1
+667,3876,2771,Berberine,DECR1
+846,36250,2771,Benzaldehyde,DECR1
+208,4006,4660,Palmitelaidic acid,DGAT1
+125,3032,4760,Stearic acid,DGAT2
+261,4006,4760,Palmitelaidic acid,DGAT2
+353,41570,4115,Kaur-16-ene,DHCR24
+361,41570,623,Kaur-16-ene,DHCR7
+760,36250,1359,Benzaldehyde,DNMT1
+620,3876,1418,Berberine,DPP4
+639,3876,933,Berberine,DRD5
+874,31875,2746,2-Azetidinecarboxylic acid,DUT
+11,3032,3443,Stearic acid,EDN1
+396,41570,3150,Kaur-16-ene,EEF1A1
+925,31875,309,2-Azetidinecarboxylic acid,EGLN3
+636,3876,5538,Berberine,EIF3F
+555,3876,4039,Berberine,EIF4EBP1
+109,3032,5827,Stearic acid,EP300
+499,8786,88,Gamma-Linolenic acid,F3
+51,3032,87,Stearic acid,F7
+43,3032,5085,Stearic acid,FABP3
+26,3032,4276,Stearic acid,FABP4
+70,3032,356,Stearic acid,FADS1
+169,4006,356,Palmitelaidic acid,FADS1
+103,3032,357,Stearic acid,FADS2
+170,4006,357,Palmitelaidic acid,FADS2
+974,31875,260,2-Azetidinecarboxylic acid,FARS2
+962,31875,258,2-Azetidinecarboxylic acid,FARSA
+556,3876,4665,Berberine,FAS
+557,3876,4268,Berberine,FASLG
+787,36250,4268,Benzaldehyde,FASLG
+90,3032,1394,Stearic acid,FASN
+161,37681,1394,Pentadecyl ketone,FASN
+221,4006,1394,Palmitelaidic acid,FASN
+378,41570,3431,Kaur-16-ene,FDFT1
+278,4006,688,Palmitelaidic acid,FFAR1
+884,31875,5326,2-Azetidinecarboxylic acid,FKBP10
+904,31875,5323,2-Azetidinecarboxylic acid,FKBP11
+899,31875,5317,2-Azetidinecarboxylic acid,FKBP14
+895,31875,5318,2-Azetidinecarboxylic acid,FKBP15
+876,31875,1025,2-Azetidinecarboxylic acid,FKBP1A
+875,31875,5320,2-Azetidinecarboxylic acid,FKBP1B
+887,31875,5328,2-Azetidinecarboxylic acid,FKBP2
+903,31875,5315,2-Azetidinecarboxylic acid,FKBP3
+901,31875,4577,2-Azetidinecarboxylic acid,FKBP4
+900,31875,5324,2-Azetidinecarboxylic acid,FKBP6
+871,31875,5319,2-Azetidinecarboxylic acid,FKBP7
+897,31875,5316,2-Azetidinecarboxylic acid,FKBP8
+12,3032,4126,Stearic acid,FOXO1
+611,3876,4126,Berberine,FOXO1
+257,4006,4274,Palmitelaidic acid,G6PC
+763,36250,169,Benzaldehyde,GAD1
+842,36250,214,Benzaldehyde,GADL1
+384,41570,4423,Kaur-16-ene,GATA3
+356,41570,4283,Kaur-16-ene,GATA4
+73,3032,2534,Stearic acid,GBA
+468,8786,417,Gamma-Linolenic acid,GCLC
+286,8828,442,Nerylacetone,GCLM
+367,41570,1072,Kaur-16-ene,GGPS1
+818,36250,439,Benzaldehyde,GLUD1
+781,36250,419,Benzaldehyde,GLUD2
+659,3876,1890,Berberine,GMPR
+605,3876,5911,Berberine,GMPR2
+613,3876,420,Berberine,GMPS
+698,5525,420,Benzyl alcohol,GMPS
+786,36250,3145,Benzaldehyde,GNAI1
+800,36250,5879,Benzaldehyde,GNAI2
+756,36250,5868,Benzaldehyde,GNAI3
+839,36250,5871,Benzaldehyde,GNAT2
+708,5525,5824,Benzyl alcohol,GNPNAT1
+134,3032,203,Stearic acid,GOT2
+284,34249,203,Octadecane,GOT2
+104,3032,5826,Stearic acid,GPAM
+273,4006,5826,Palmitelaidic acid,GPAM
+138,3032,556,Stearic acid,GPD1
+13,3032,482,Stearic acid,GPX1
+421,42119,444,hexanol,GRIA3
+692,5525,424,Benzyl alcohol,GRIN2A
+703,5525,426,Benzyl alcohol,GRIN2C
+558,3876,1502,Berberine,GSK3B
+559,3876,5764,Berberine,H2AFX
+988,37200,5098,1-Pentadecene,HADHB
+701,5525,239,Benzyl alcohol,HAL
+834,36250,239,Benzaldehyde,HAL
+825,36250,187,Benzaldehyde,HDC
+119,3032,4089,Stearic acid,HHAT
+430,42119,3275,hexanol,HMGCL
+863,42389,3275,2-Methylpentadecanoic acid,HMGCL
+472,8786,678,Gamma-Linolenic acid,HMOX1
+560,3876,678,Berberine,HMOX1
+690,5525,38988,Benzyl alcohol,HMSD
+741,36250,38988,Benzaldehyde,HMSD
+561,3876,3450,Berberine,HNF4A
+868,38194,582,2-Hydroxy-6-[(8E)-8-pentadecen-1-yl]benzoic acid,HSD17B1
+967,31875,5047,2-Azetidinecarboxylic acid,HSPA4
+883,31875,52,2-Azetidinecarboxylic acid,HSPA5
+675,5525,873,Benzyl alcohol,HTR1A
+661,3876,875,Berberine,HTR2B
+619,3876,1178,Berberine,HTR4
+821,36250,22,Benzaldehyde,IFNAR1
+562,3876,65,Berberine,IGF1R
+829,36250,4918,Benzaldehyde,IGSF6
+563,3876,3376,Berberine,IL10
+665,3876,2421,Berberine,IL12B
+14,3032,1380,Stearic acid,IL1B
+564,3876,1380,Berberine,IL1B
+473,8786,1330,Gamma-Linolenic acid,IL2
+565,3876,1330,Berberine,IL2
+566,3876,4143,Berberine,IL4
+15,3032,1514,Stearic acid,IL6
+624,3876,596,Berberine,IMPDH1
+641,3876,588,Berberine,IMPDH2
+52,3032,39277,Stearic acid,INS-IGF2
+191,4006,39277,Palmitelaidic acid,INS-IGF2
+635,3876,39277,Berberine,INS-IGF2
+644,3876,64,Berberine,INSR
+107,3032,4198,Stearic acid,ITGA2
+567,3876,1161,Berberine,JUN
+604,3876,3487,Berberine,KCNA5
+775,36250,1301,Benzaldehyde,KCNE1
+769,36250,883,Benzaldehyde,KCNJ11
+673,3876,1300,Berberine,KCNQ1
+33,3032,4063,Stearic acid,KDM5A
+66,3032,305,Stearic acid,KDM5D
+828,36250,4247,Benzaldehyde,KNG1
+707,5525,2220,Benzyl alcohol,LAP3
+258,4006,5560,Palmitelaidic acid,LCAT
+568,3876,1235,Berberine,LDLR
+75,3032,4271,Stearic acid,LEP
+213,4006,4271,Palmitelaidic acid,LEP
+46,3032,5660,Stearic acid,LMNA
+693,5525,39199,Benzyl alcohol,LOC100652930
+192,4006,38975,Palmitelaidic acid,LOC101929829
+622,3876,38975,Berberine,LOC101929829
+801,36250,212,Benzaldehyde,LOC102724985
+88,3032,3424,Stearic acid,LPL
+219,4006,3424,Palmitelaidic acid,LPL
+640,3876,3424,Berberine,LPL
+165,4006,1911,Palmitelaidic acid,lpxC
+374,41570,1964,Kaur-16-ene,LSS
+227,4006,470,Palmitelaidic acid,LTC4S
+569,3876,1409,Berberine,MAPK1
+634,3876,3400,Berberine,MAPK11
+307,35694,2265,Myristicin,MAPK12
+668,3876,3401,Berberine,MAPK13
+664,3876,1677,Berberine,MAPK14
+476,8786,1179,Gamma-Linolenic acid,MAPK3
+570,3876,1179,Berberine,MAPK3
+62,3032,4403,Stearic acid,MBTPS1
+99,3032,3547,Stearic acid,MCAT
+237,4006,3547,Palmitelaidic acid,MCAT
+697,5525,5351,Benzyl alcohol,MGEA5
+648,3876,1272,Berberine,MMP1
+793,36250,1272,Benzaldehyde,MMP1
+477,8786,1279,Gamma-Linolenic acid,MMP11
+572,3876,1281,Berberine,MMP14
+798,36250,1281,Benzaldehyde,MMP14
+573,3876,1273,Berberine,MMP2
+844,36250,1273,Benzaldehyde,MMP2
+617,3876,1277,Berberine,MMP9
+734,36250,4372,Benzaldehyde,MOG
+574,3876,929,Berberine,MPO
+406,41570,227,Kaur-16-ene,MTRR
+480,8786,3797,Gamma-Linolenic acid,MYC
+575,3876,3797,Berberine,MYC
+340,35694,5251,Myristicin,MYO1A
+341,35694,5273,Myristicin,MYO1B
+343,35694,5275,Myristicin,MYO1D
+338,35694,5269,Myristicin,MYO1E
+368,41570,5836,Kaur-16-ene,NAA15
+784,36250,429,Benzaldehyde,NADSYN1
+454,8786,4776,Gamma-Linolenic acid,NAT2
+135,3032,645,Stearic acid,NDUFAB1
+267,4006,645,Palmitelaidic acid,NDUFAB1
+576,3876,4068,Berberine,NFE2L2
+577,3876,1362,Berberine,NFKBIA
+672,3876,2068,Berberine,NME1
+69,3032,541,Stearic acid,NOS1
+579,3876,285,Berberine,NOS2
+706,5525,5578,Benzyl alcohol,NT5C
+705,5525,5574,Benzyl alcohol,NT5C1A
+691,5525,735,Benzyl alcohol,NT5C2
+704,5525,5576,Benzyl alcohol,NT5C3A
+710,5525,1299,Benzyl alcohol,NT5E
+685,5525,2087,Benzyl alcohol,NT5M
+772,36250,726,Benzaldehyde,NULL
+127,3032,620,Stearic acid,NULL
+642,3876,272,Berberine,NULL
+285,34249,3732,Octadecane,NULL
+522,3876,1048,Berberine,NULL
+813,36250,2563,Benzaldehyde,NULL
+457,8786,587,Gamma-Linolenic acid,NULL
+524,3876,3628,Berberine,NULL
+751,36250,2795,Benzaldehyde,NULL
+124,3032,3941,Stearic acid,NULL
+662,3876,235,Berberine,NULL
+791,36250,3311,Benzaldehyde,NULL
+789,36250,2165,Benzaldehyde,NULL
+526,3876,1404,Berberine,NULL
+653,3876,324,Berberine,NULL
+7,3032,1471,Stearic acid,NULL
+464,8786,1987,Gamma-Linolenic acid,NULL
+538,3876,2791,Berberine,NULL
+539,3876,4376,Berberine,NULL
+929,31875,3552,2-Azetidinecarboxylic acid,NULL
+182,4006,3448,Palmitelaidic acid,NULL
+630,3876,3820,Berberine,NULL
+467,8786,1335,Gamma-Linolenic acid,NULL
+688,5525,431,Benzyl alcohol,NULL
+470,8786,2448,Gamma-Linolenic acid,NULL
+914,31875,1447,2-Azetidinecarboxylic acid,NULL
+452,8786,928,Gamma-Linolenic acid,NULL
+274,4006,4980,Palmitelaidic acid,NULL
+475,8786,171,Gamma-Linolenic acid,NULL
+68,3032,4895,Stearic acid,NULL
+151,37681,268,Pentadecyl ketone,NULL
+578,3876,1515,Berberine,NULL
+748,36250,1443,Benzaldehyde,NULL
+797,36250,4774,Benzaldehyde,NULL
+34,3032,1979,Stearic acid,NULL
+779,36250,3539,Benzaldehyde,NULL
+915,31875,5641,2-Azetidinecarboxylic acid,NULL
+941,31875,1468,2-Azetidinecarboxylic acid,NULL
+815,36250,175,Benzaldehyde,OAT
+580,3876,176,Berberine,ODC1
+350,41570,5353,Kaur-16-ene,OGT
+581,3876,3914,Berberine,P2RX7
+102,3032,2223,Stearic acid,PAEP
+315,35694,2285,Myristicin,PARP1
+482,8786,2285,Gamma-Linolenic acid,PARP1
+582,3876,2285,Berberine,PARP1
+150,37681,269,Pentadecyl ketone,PCCA
+211,4006,1739,Palmitelaidic acid,PCK1
+388,41570,1645,Kaur-16-ene,PCMT1
+483,8786,4184,Gamma-Linolenic acid,PCNA
+218,4006,71,Palmitelaidic acid,PCSK1
+643,3876,4635,Berberine,PCSK9
+862,42389,50,2-Methylpentadecanoic acid,PHYH
+896,31875,1679,2-Azetidinecarboxylic acid,PIN1
+78,3032,508,Stearic acid,PIPOX
+1,3032,2618,Stearic acid,PLA2G2D
+623,3876,29,Berberine,PLAU
+869,38194,5211,2-Hydroxy-6-[(8E)-8-pentadecen-1-yl]benzoic acid,PLCG1
+870,38194,5222,2-Hydroxy-6-[(8E)-8-pentadecen-1-yl]benzoic acid,PLCG2
+316,35694,2485,Myristicin,PMS2
+893,31875,2485,2-Azetidinecarboxylic acid,PMS2
+45,3032,1419,Stearic acid,PNLIP
+344,42390,1419,Methyl pentadecanoate,PNLIP
+671,3876,1499,Berberine,PON1
+733,36250,39093,Benzaldehyde,POTEI
+16,3032,1015,Stearic acid,PPARA
+486,8786,1015,Gamma-Linolenic acid,PPARA
+83,3032,685,Stearic acid,PPARD
+995,64849,685,15-(4-Iodophenyl)pentadecanoic acid,PPARD
+17,3032,684,Stearic acid,PPARG
+231,4006,684,Palmitelaidic acid,PPARG
+450,8786,684,Gamma-Linolenic acid,PPARG
+583,3876,684,Berberine,PPARG
+18,3032,4978,Stearic acid,PPARGC1A
+584,3876,494,Berberine,PRKCA
+585,3876,3471,Berberine,PRKCE
+319,35694,843,Myristicin,PRKDC
+758,36250,5771,Benzaldehyde,PRKG1
+841,36250,5773,Benzaldehyde,PRKG2
+905,31875,752,2-Azetidinecarboxylic acid,PRODH
+866,47334,1568,2-Hydroxymethylserine,PRSS1
+867,47334,1714,2-Hydroxymethylserine,PRSS2
+850,36250,3566,Benzaldehyde,PSMA3
+757,36250,3570,Benzaldehyde,PSMA7
+990,64849,1338,15-(4-Iodophenyl)pentadecanoic acid,PTGER3
+646,3876,1355,Berberine,PTGER4
+256,4006,1305,Palmitelaidic acid,PTGIS
+487,8786,2779,Gamma-Linolenic acid,PTGR1
+19,3032,538,Stearic acid,PTGS2
+488,8786,538,Gamma-Linolenic acid,PTGS2
+586,3876,538,Berberine,PTGS2
+777,36250,1425,Benzaldehyde,PTK2B
+615,3876,1442,Berberine,PTPN1
+956,31875,616,2-Azetidinecarboxylic acid,PYCR1
+519,3876,2892,Berberine,qacR
+321,35694,3194,Myristicin,RAD51
+657,3876,3194,Berberine,RAD51
+587,3876,5901,Berberine,RBP4
+20,3032,4192,Stearic acid,RELA
+588,3876,4192,Berberine,RELA
+817,36250,866,Benzaldehyde,REN
+111,3032,1910,Stearic acid,RORA
+64,3032,5298,Stearic acid,RORB
+590,3876,5548,Berberine,RPS6
+489,8786,1373,Gamma-Linolenic acid,S100P
+689,5525,3287,Benzyl alcohol,SAT1
+702,5525,5830,Benzyl alcohol,SAT2
+110,3032,497,Stearic acid,SCARB1
+42,3032,4756,Stearic acid,SCD
+186,4006,4756,Palmitelaidic acid,SCD
+333,35694,4756,Myristicin,SCD
+21,3032,4501,Stearic acid,Scd1
+22,3032,26,Stearic acid,SERPINE1
+754,36250,180,Benzaldehyde,SGPL1
+788,36250,172,Benzaldehyde,SHMT1
+778,36250,207,Benzaldehyde,SHMT2
+591,3876,978,Berberine,SI
+650,3876,1009,Berberine,SIGMAR1
+490,8786,4459,Gamma-Linolenic acid,SKP2
+945,31875,5636,2-Azetidinecarboxylic acid,SLC16A10
+970,31875,5344,2-Azetidinecarboxylic acid,SLC16A14
+977,31875,250,2-Azetidinecarboxylic acid,SLC16A7
+949,31875,4342,2-Azetidinecarboxylic acid,SLC17A5
+976,31875,5115,2-Azetidinecarboxylic acid,SLC17A6
+984,31875,5110,2-Azetidinecarboxylic acid,SLC17A7
+963,31875,5123,2-Azetidinecarboxylic acid,SLC17A8
+983,31875,1388,2-Azetidinecarboxylic acid,SLC22A11
+986,31875,1163,2-Azetidinecarboxylic acid,SLC22A4
+981,31875,1164,2-Azetidinecarboxylic acid,SLC22A5
+936,31875,1387,2-Azetidinecarboxylic acid,SLC22A6
+937,31875,5349,2-Azetidinecarboxylic acid,SLC22A7
+954,31875,1389,2-Azetidinecarboxylic acid,SLC22A8
+349,41570,826,Kaur-16-ene,SLC29A1
+352,41570,5774,Kaur-16-ene,SLC29A2
+348,41570,5776,Kaur-16-ene,SLC29A3
+727,36250,4540,Benzaldehyde,SLC2A1
+927,31875,4540,2-Azetidinecarboxylic acid,SLC2A1
+969,31875,1086,2-Azetidinecarboxylic acid,SLC2A2
+592,3876,4436,Berberine,SLC2A4
+964,31875,4436,2-Azetidinecarboxylic acid,SLC2A4
+491,8786,5643,Gamma-Linolenic acid,SLC3A2
+898,31875,4562,2-Azetidinecarboxylic acid,SLC5A5
+886,31875,265,2-Azetidinecarboxylic acid,SLC5A6
+660,3876,776,Berberine,SLC6A4
+913,31875,278,2-Azetidinecarboxylic acid,SLC7A1
+909,31875,281,2-Azetidinecarboxylic acid,SLC7A2
+920,31875,280,2-Azetidinecarboxylic acid,SLC7A3
+919,31875,279,2-Azetidinecarboxylic acid,SLC7A4
+826,36250,4122,Benzaldehyde,SLC9A3
+881,31875,39044,2-Azetidinecarboxylic acid,SLC9C2
+112,3032,3254,Stearic acid,SMAD2
+812,36250,2181,Benzaldehyde,SMARCA5
+252,4006,1402,Palmitelaidic acid,SMO
+23,3032,2730,Stearic acid,SOD1
+594,3876,2730,Berberine,SOD1
+24,3032,2687,Stearic acid,SOD2
+199,4006,2687,Palmitelaidic acid,SOD2
+700,5525,551,Benzyl alcohol,SORD
+764,36250,1476,Benzaldehyde,SRC
+53,3032,4480,Stearic acid,SREBF1
+193,4006,4480,Palmitelaidic acid,SREBF1
+595,3876,4480,Berberine,SREBF1
+54,3032,5781,Stearic acid,SREBF2
+805,36250,39269,Benzaldehyde,SSX7
+618,3876,3889,Berberine,STAT1
+810,36250,1480,Benzaldehyde,STAT5B
+444,42119,2401,hexanol,STS
+251,4006,1297,Palmitelaidic acid,TBXAS1
+404,41570,1297,Kaur-16-ene,TBXAS1
+596,3876,1119,Berberine,TERT
+799,36250,1119,Benzaldehyde,TERT
+597,3876,127,Berberine,TGFB1
+598,3876,1463,Berberine,TLR4
+877,31875,4523,2-Azetidinecarboxylic acid,TMBIM6
+25,3032,17,Stearic acid,TNF
+495,8786,17,Gamma-Linolenic acid,TNF
+599,3876,17,Berberine,TNF
+669,3876,2794,Berberine,TNFRSF1A
+600,3876,1261,Berberine,TOP1
+601,3876,881,Berberine,TOP2A
+602,3876,1360,Berberine,TP53
+820,36250,1360,Benzaldehyde,TP53
+379,41570,4169,Kaur-16-ene,TPSD1
+496,8786,359,Gamma-Linolenic acid,TRPV1
+93,3032,808,Stearic acid,TSPO
+696,5525,808,Benzyl alcohol,TSPO
+455,8786,3940,Gamma-Linolenic acid,TTR
+497,8786,3886,Gamma-Linolenic acid,TXN
+498,8786,1460,Gamma-Linolenic acid,TXNRD1
+248,4006,681,Palmitelaidic acid,TYR
+85,3032,4140,Stearic acid,UCP2
+637,3876,4140,Berberine,UCP2
+446,42119,39166,hexanol,VCY1B
+768,36250,2354,Benzaldehyde,XIAP
+329,35694,5224,Myristicin,XRCC2
+621,3876,5224,Berberine,XRCC2
+912,31875,366,2-Azetidinecarboxylic acid,YARS
+738,36250,5786,Benzaldehyde,ZNF384

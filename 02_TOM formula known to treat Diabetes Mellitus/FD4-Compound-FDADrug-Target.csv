@@ -1,0 +1,272 @@
+FD4: TOM formula 4 known to treat Diabetes mellitus,,,,
+Idx,compID,geneID,CompName_afterADMET,GeneSymbol
+19,3373,1922,spermidine,aacC1
+60,3373,434,spermidine,AASS
+245,1840,434,putrescine,AASS
+443,3993,3338,4-Hydroxybenzoic acid,ABCG2
+435,3993,4893,4-Hydroxybenzoic acid,ABCG5
+425,3993,2573,4-Hydroxybenzoic acid,ACOX1
+132,3373,39070,spermidine,ACTL10
+22,3373,788,spermidine,ADRB1
+226,1840,788,putrescine,ADRB1
+23,3373,824,spermidine,ADRB2
+227,1840,824,putrescine,ADRB2
+448,3993,5107,4-Hydroxybenzoic acid,ADSL
+356,38225,4145,Octadecan-1-ol,AGRP
+167,3373,4730,spermidine,ALB
+309,1840,4730,putrescine,ALB
+424,3993,4730,4-Hydroxybenzoic acid,ALB
+293,1840,386,putrescine,ALDH5A1
+74,3373,4715,spermidine,ALPL
+257,1840,4715,putrescine,ALPL
+61,3373,3751,spermidine,ALPP
+246,1840,3751,putrescine,ALPP
+170,3373,1322,spermidine,ALPPL2
+310,1840,1322,putrescine,ALPPL2
+88,3373,241,spermidine,AMD1
+223,1840,241,putrescine,AMD1
+24,3373,1174,spermidine,AOC1
+228,1840,1174,putrescine,AOC1
+330,1840,5144,putrescine,AOC2
+172,3373,188,spermidine,AZIN2
+311,1840,188,putrescine,AZIN2
+225,1840,1404,putrescine,BCL2
+380,3993,61,4-Hydroxybenzoic acid,C4A
+379,3993,62,4-Hydroxybenzoic acid,C4B_2
+40,3373,909,spermidine,CA1
+47,3373,1156,spermidine,CA12
+451,3993,1156,4-Hydroxybenzoic acid,CA12
+142,3373,1352,spermidine,CA13
+412,3993,1352,4-Hydroxybenzoic acid,CA13
+86,3373,1308,spermidine,CA14
+393,3993,1308,4-Hydroxybenzoic acid,CA14
+41,3373,910,spermidine,CA2
+427,3993,910,4-Hydroxybenzoic acid,CA2
+42,3373,1309,spermidine,CA3
+426,3993,1309,4-Hydroxybenzoic acid,CA3
+43,3373,911,spermidine,CA4
+421,3993,911,4-Hydroxybenzoic acid,CA4
+151,3373,1346,spermidine,CA5A
+418,3993,1346,4-Hydroxybenzoic acid,CA5A
+44,3373,1347,spermidine,CA5B
+416,3993,1347,4-Hydroxybenzoic acid,CA5B
+45,3373,1348,spermidine,CA6
+386,3993,1348,4-Hydroxybenzoic acid,CA6
+46,3373,999,spermidine,CA7
+404,3993,999,4-Hydroxybenzoic acid,CA7
+67,3373,1155,spermidine,CA9
+384,3993,1155,4-Hydroxybenzoic acid,CA9
+362,38225,784,Octadecan-1-ol,CARTPT
+25,3373,1382,spermidine,CASP3
+229,1840,1382,putrescine,CASP3
+230,1840,4565,putrescine,CASP9
+208,3373,1471,spermidine,CAT
+335,1840,1471,putrescine,CAT
+442,3993,1471,4-Hydroxybenzoic acid,CAT
+271,1840,4121,putrescine,CNTF
+103,3373,244,spermidine,COMT
+79,3373,1670,spermidine,COMTD1
+410,3993,4841,4-Hydroxybenzoic acid,COQ6
+357,38225,1495,Octadecan-1-ol,CRH
+174,3373,1836,spermidine,CTBP1
+312,1840,1836,putrescine,CTBP1
+381,3993,4497,4-Hydroxybenzoic acid,DCT
+447,3993,2771,4-Hydroxybenzoic acid,DECR1
+370,32315,623,7-Dehydrocholesterol,DHCR7
+217,3373,2821,spermidine,DHPS
+339,1840,2821,putrescine,DHPS
+449,3993,2821,4-Hydroxybenzoic acid,DHPS
+458,58367,2821,2-(Hexopyranosyloxy)-3-methylbutanenitrile,DHPS
+406,3993,4682,4-Hydroxybenzoic acid,DICER1
+101,3373,306,spermidine,EGLN1
+26,3373,5540,spermidine,EIF3B
+231,1840,5540,putrescine,EIF3B
+194,3373,5525,spermidine,EIF4B
+125,3373,5550,spermidine,EIF5A
+279,1840,5550,putrescine,EIF5A
+104,3373,1304,spermidine,ENPP1
+272,1840,1304,putrescine,ENPP1
+398,3993,1304,4-Hydroxybenzoic acid,ENPP1
+198,3373,5575,spermidine,ENPP2
+329,1840,5575,putrescine,ENPP2
+437,3993,5575,4-Hydroxybenzoic acid,ENPP2
+108,3373,5568,spermidine,ENPP3
+274,1840,5568,putrescine,ENPP3
+399,3993,5568,4-Hydroxybenzoic acid,ENPP3
+166,3373,5573,spermidine,ENPP6
+308,1840,5573,putrescine,ENPP6
+423,3993,5573,4-Hydroxybenzoic acid,ENPP6
+129,3373,5567,spermidine,ENPP7
+281,1840,5567,putrescine,ENPP7
+411,3993,5567,4-Hydroxybenzoic acid,ENPP7
+10,68430,1394,tenellin,FASN
+371,3993,1942,4-Hydroxybenzoic acid,fcbC
+277,1840,3820,putrescine,FN1
+361,38225,4493,Octadecan-1-ol,GAL
+210,3373,611,spermidine,GAPDH
+29,3373,442,spermidine,GCLM
+290,1840,3378,putrescine,GDNF
+331,1840,5887,putrescine,GFAP
+350,38225,4324,Octadecan-1-ol,GHRL
+16,67832,503,Stearamide,GLYAT
+161,3373,506,spermidine,GLYATL1
+306,1840,506,putrescine,GLYATL1
+213,3373,471,spermidine,GSR
+30,3373,452,spermidine,GSTA1
+31,3373,473,spermidine,GSTM1
+58,3373,462,spermidine,HAGH
+434,3993,239,4-Hydroxybenzoic acid,HAL
+358,38225,2529,Octadecan-1-ol,HCRT
+322,1840,187,putrescine,HDC
+123,3373,1447,spermidine,HIF1A
+150,3373,2082,spermidine,HRAS
+390,3993,718,4-Hydroxybenzoic acid,IARS
+336,1840,5352,putrescine,IGFBP2
+118,3373,2552,spermidine,IL4I1
+407,3993,2552,4-Hydroxybenzoic acid,IL4I1
+113,3373,39277,spermidine,INS-IGF2
+276,1840,39277,putrescine,INS-IGF2
+348,38225,39277,Octadecan-1-ol,INS-IGF2
+352,38225,64,Octadecan-1-ol,INSR
+80,3373,1161,spermidine,JUN
+207,3373,5599,spermidine,KCNJ2
+334,1840,5599,putrescine,KCNJ2
+354,38225,4271,Octadecan-1-ol,LEP
+375,3993,4271,4-Hydroxybenzoic acid,LEP
+351,38225,3385,Octadecan-1-ol,LEPR
+196,3373,315,spermidine,LYZ
+120,3373,814,spermidine,MAOA
+408,3993,814,4-Hydroxybenzoic acid,MAOA
+68,3373,790,spermidine,MAOB
+251,1840,790,putrescine,MAOB
+385,3993,790,4-Hydroxybenzoic acid,MAOB
+259,1840,243,putrescine,MAT1A
+302,1840,242,putrescine,MAT2A
+364,38225,3882,Octadecan-1-ol,MC4R
+214,3373,1273,spermidine,MMP2
+456,9955,3217,2-Amino-4-(methylsulfinyl)butanoic acid,MSRA
+62,3373,771,spermidine,MTAP
+248,1840,771,putrescine,MTAP
+136,3373,429,spermidine,NADSYN1
+284,1840,429,putrescine,NADSYN1
+32,3373,4068,spermidine,NFE2L2
+242,1840,4068,putrescine,NFE2L2
+260,1840,1515,putrescine,NGF
+140,3373,541,spermidine,NOS1
+287,1840,541,putrescine,NOS1
+135,3373,285,spermidine,NOS2
+232,1840,285,putrescine,NOS2
+307,1840,283,putrescine,NOS3
+313,1840,1365,putrescine,NPC1L1
+360,38225,2494,Octadecan-1-ol,NPY
+33,3373,724,spermidine,NQO1
+64,3373,1249,spermidine,NR0B1
+250,1840,1249,putrescine,NR0B1
+238,1840,3377,putrescine,NTF3
+321,1840,178,putrescine,NULL
+397,3993,728,4-Hydroxybenzoic acid,NULL
+430,3993,5486,4-Hydroxybenzoic acid,NULL
+345,38225,267,Octadecan-1-ol,NULL
+446,3993,3784,4-Hydroxybenzoic acid,NULL
+100,3373,2350,spermidine,NULL
+314,1840,2093,putrescine,NULL
+266,1840,332,putrescine,NULL
+326,1840,286,putrescine,NULL
+237,1840,3373,putrescine,NULL
+405,3993,4301,4-Hydroxybenzoic acid,NULL
+367,39412,182,L-lanthionine,NULL
+455,9955,1680,2-Amino-4-(methylsulfinyl)butanoic acid,NULL
+163,3373,518,spermidine,NULL
+323,1840,1037,putrescine,NULL
+156,3373,3796,spermidine,NULL
+27,3373,1180,spermidine,NULL
+191,3373,981,spermidine,NULL
+65,3373,982,spermidine,NULL
+294,1840,338,putrescine,NULL
+457,58367,1584,2-(Hexopyranosyloxy)-3-methylbutanenitrile,NULL
+89,3373,175,spermidine,OAT
+264,1840,175,putrescine,OAT
+34,3373,176,spermidine,ODC1
+222,1840,176,putrescine,ODC1
+343,1840,331,putrescine,OTC
+450,3993,388,4-Hydroxybenzoic acid,OXCT1
+391,3993,374,4-Hydroxybenzoic acid,OXCT2
+21,3373,4719,spermidine,PFI1170c
+453,3993,2930,4-Hydroxybenzoic acid,PGK1
+289,1840,508,putrescine,PIPOX
+122,3373,248,spermidine,PKLR
+141,3373,252,spermidine,PKM
+92,3373,5093,spermidine,PMF1
+372,3993,2156,4-Hydroxybenzoic acid,pobA
+374,3993,1995,4-Hydroxybenzoic acid,pobA
+359,38225,1318,Octadecan-1-ol,POMC
+17,3373,2806,spermidine,potD
+162,3373,5134,spermidine,POTED
+109,3373,38969,spermidine,POTEF
+54,3373,39093,spermidine,POTEI
+55,3373,38986,spermidine,POTEJ
+224,1840,1817,putrescine,potF
+193,3373,5183,spermidine,PRDX1
+160,3373,2052,spermidine,PRDX2
+164,3373,5185,spermidine,PRDX3
+63,3373,5186,spermidine,PRDX4
+353,38225,1239,Octadecan-1-ol,PTGDR
+441,3993,1305,4-Hydroxybenzoic acid,PTGIS
+215,3373,204,spermidine,PYGB
+216,3373,184,spermidine,PYGL
+221,3373,205,spermidine,PYGM
+189,3373,3194,spermidine,RAD51
+273,1840,4905,putrescine,REV3L
+117,3373,314,spermidine,RNASE1
+303,1840,919,putrescine,RRM2
+35,3373,3287,spermidine,SAT1
+249,1840,3287,putrescine,SAT1
+187,3373,5830,spermidine,SAT2
+319,1840,5830,putrescine,SAT2
+428,3993,1145,4-Hydroxybenzoic acid,SCN2A
+349,38225,385,Octadecan-1-ol,SDHB
+157,3373,1388,spermidine,SLC22A11
+304,1840,1388,putrescine,SLC22A11
+70,3373,3926,spermidine,SLC22A12
+253,1840,3926,putrescine,SLC22A12
+220,3373,1163,spermidine,SLC22A4
+342,1840,1163,putrescine,SLC22A4
+206,3373,1164,spermidine,SLC22A5
+333,1840,1164,putrescine,SLC22A5
+69,3373,1387,spermidine,SLC22A6
+252,1840,1387,putrescine,SLC22A6
+78,3373,5349,spermidine,SLC22A7
+258,1840,5349,putrescine,SLC22A7
+124,3373,1389,spermidine,SLC22A8
+278,1840,1389,putrescine,SLC22A8
+181,3373,5341,spermidine,SLC22A9
+315,1840,5341,putrescine,SLC22A9
+338,1840,4562,putrescine,SLC5A5
+297,1840,265,putrescine,SLC5A6
+36,3373,313,spermidine,SMOX
+299,1840,313,putrescine,SMOX
+56,3373,312,spermidine,SMS
+240,1840,312,putrescine,SMS
+431,3993,1246,4-Hydroxybenzoic acid,SQLE
+376,3993,1723,4-Hydroxybenzoic acid,SULT1A1
+85,3373,1468,spermidine,SV2A
+262,1840,1468,putrescine,SV2A
+152,3373,1119,spermidine,TERT
+340,1840,5823,putrescine,TGM1
+234,1840,3153,putrescine,TGM2
+388,3993,183,4-Hydroxybenzoic acid,THNSL1
+114,3373,970,spermidine,THRB
+102,3373,1261,spermidine,TOP1
+50,3373,881,spermidine,TOP2A
+52,3373,1049,spermidine,TOP2B
+20,3373,4718,spermidine,trxB
+133,3373,808,spermidine,TSPO
+282,1840,808,putrescine,TSPO
+18,3373,1460,spermidine,TXNRD1
+190,3373,681,spermidine,TYR
+325,1840,681,putrescine,TYR
+377,3993,681,4-Hydroxybenzoic acid,TYR
+373,3993,2032,4-Hydroxybenzoic acid,ubiC
+401,3993,528,4-Hydroxybenzoic acid,WARS
+444,3993,526,4-Hydroxybenzoic acid,WARS2
+39,3373,2354,spermidine,XIAP

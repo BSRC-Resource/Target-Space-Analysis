@@ -1,0 +1,1802 @@
+FS4: TOM formula 4 known to treat Schizophrenia,,,,
+Idx,compid,geneid,CompName_afterADMET,GeneSymbol
+2033,3967,4915,Quercetin,A1BG
+3456,2414,4915,gamma-Aminobutyric acid,A1BG
+2420,3967,177,Quercetin,AADAT
+3506,2414,177,gamma-Aminobutyric acid,AADAT
+227,3967,434,Quercetin,AASS
+3135,2414,434,gamma-Aminobutyric acid,AASS
+3433,2414,178,gamma-Aminobutyric acid,ABAT
+420,3967,730,Quercetin,ABCA1
+3834,36175,5489,Arbutin,ABCA10
+1847,3967,5488,Quercetin,ABCA12
+3835,36175,5499,Arbutin,ABCA13
+2960,42444,5506,Melanin,ABCA4
+2034,3967,5484,Quercetin,ABCA7
+1933,3967,727,Quercetin,ABCB1
+2624,34516,727,Neochanin,ABCB1
+2855,8019,727,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCB1
+1934,3967,3869,Quercetin,ABCB4
+3030,42444,3337,Melanin,ABCB5
+2232,3967,5482,Quercetin,ABCB7
+164,3967,1448,Quercetin,ABCC1
+2625,34516,1448,Neochanin,ABCC1
+2674,8019,1448,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC1
+2754,8019,5900,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC11
+3836,36175,5498,Arbutin,ABCC13
+544,3967,729,Quercetin,ABCC2
+2626,34516,729,Neochanin,ABCC2
+2957,42444,729,Melanin,ABCC2
+2838,8019,5296,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC3
+383,3967,5332,Quercetin,ABCC4
+2704,8019,5332,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCC4
+2974,42444,5332,Melanin,ABCC4
+1064,3967,5337,Quercetin,ABCC5
+2539,3967,5334,Quercetin,ABCC6
+553,3967,5485,Quercetin,ABCD3
+2354,3967,3338,Quercetin,ABCG2
+2900,8019,3338,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ABCG2
+2132,3967,4893,Quercetin,ABCG5
+1853,3967,5486,Quercetin,ABCG8
+626,3967,726,Quercetin,ABL2
+4236,62860,726,4-Methylpentan-2-one,ABL2
+1733,3967,5097,Quercetin,ACAA2
+3801,32446,267,beta-Ionone,ACACB
+596,3967,717,Quercetin,ACADSB
+3595,2687,1296,Decane,ACAT1
+3566,2687,1814,Decane,ACAT2
+2832,8019,778,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ACE
+1487,3967,272,Quercetin,ACHE
+3352,2414,272,gamma-Aminobutyric acid,ACHE
+3837,36175,5354,Arbutin,ACMSD
+2395,3967,3784,Quercetin,ACOT13
+2846,8019,765,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ACP1
+1192,3967,2737,Quercetin,ACPP
+661,3967,2350,Quercetin,ACTA1
+3838,36175,734,Arbutin,ACVRL1
+477,3967,1144,Quercetin,ADA
+3839,36175,5671,Arbutin,ADAM19
+3842,36175,5689,Arbutin,ADAMTS3
+3843,36175,5692,Arbutin,ADAMTS9
+3370,2414,352,gamma-Aminobutyric acid,ADCY1
+3246,2414,2333,gamma-Aminobutyric acid,ADCY2
+3464,2414,4803,gamma-Aminobutyric acid,ADCY3
+3319,2414,4807,gamma-Aminobutyric acid,ADCY4
+3090,2414,2335,gamma-Aminobutyric acid,ADCY5
+3321,2414,4806,gamma-Aminobutyric acid,ADCY6
+3479,2414,4802,gamma-Aminobutyric acid,ADCY7
+3409,2414,4804,gamma-Aminobutyric acid,ADCY8
+3392,2414,4805,gamma-Aminobutyric acid,ADCY9
+1804,3967,4471,Quercetin,ADM
+1395,3967,839,Quercetin,ADORA1
+3327,2414,839,gamma-Aminobutyric acid,ADORA1
+1032,3967,840,Quercetin,ADORA2A
+1464,3967,967,Quercetin,ADORA2B
+572,3967,3863,Quercetin,ADORA3
+3186,2414,3863,gamma-Aminobutyric acid,ADORA3
+3619,2687,787,Decane,ADRA1A
+3587,2687,864,Decane,ADRA1B
+3618,2687,865,Decane,ADRA1D
+3417,2414,877,gamma-Aminobutyric acid,ADRA2A
+3116,2414,939,gamma-Aminobutyric acid,ADRA2C
+3844,36175,1043,Arbutin,ADRB3
+2739,8019,325,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ADSS
+1073,3967,329,Quercetin,ADSSL1
+2775,8019,329,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ADSSL1
+2913,8019,4381,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AFP
+4120,9210,4381,Acetic acid,AFP
+1651,3967,4873,Quercetin,AGL
+2480,3967,5514,Quercetin,AGO2
+3107,2414,3974,gamma-Aminobutyric acid,AGPAT1
+3848,36175,5844,Arbutin,AGPAT3
+3400,2414,4145,gamma-Aminobutyric acid,AGRP
+3196,2414,3411,gamma-Aminobutyric acid,AGT
+1842,3967,777,Quercetin,AGTR1
+3174,2414,1501,gamma-Aminobutyric acid,AGTR2
+3502,2414,168,gamma-Aminobutyric acid,AGXT2
+2922,8019,2629,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AHCY
+2332,3967,1048,Quercetin,AHR
+100,3967,4273,Quercetin,AHSG
+1712,3967,2563,Quercetin,AIFM1
+1329,3967,2217,Quercetin,AKR1A1
+3087,37864,2217,Glucuronic acid,AKR1A1
+1726,3967,559,Quercetin,AKR1B1
+736,3967,2218,Quercetin,AKR1B10
+287,3967,592,Quercetin,AKR1C1
+290,3967,600,Quercetin,AKR1C2
+298,3967,589,Quercetin,AKR1C3
+2031,3967,587,Quercetin,AKR1C4
+2330,3967,1139,Quercetin,AKR1D1
+1871,3967,738,Quercetin,AKT1
+2848,8019,738,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AKT1
+3431,2414,738,gamma-Aminobutyric acid,AKT1
+3850,36175,738,Arbutin,AKT1
+1386,3967,194,Quercetin,ALAS1
+1622,3967,4730,Quercetin,ALB
+2627,34516,4730,Neochanin,ALB
+2827,8019,4730,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALB
+3010,42444,4730,Melanin,ALB
+3385,2414,4730,gamma-Aminobutyric acid,ALB
+3584,2687,4730,Decane,ALB
+3643,35084,4730,Calycosin,ALB
+2953,42444,446,Melanin,ALDH18A1
+3175,2414,446,gamma-Aminobutyric acid,ALDH18A1
+1573,3967,605,Quercetin,ALDH1A1
+3368,2414,605,gamma-Aminobutyric acid,ALDH1A1
+369,3967,609,Quercetin,ALDH1B1
+2933,53449,609,N-(1-Hydroxycyclopropyl)glutamine,ALDH1B1
+3158,2414,609,gamma-Aminobutyric acid,ALDH1B1
+2684,8019,234,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALDH1L1
+2082,3967,598,Quercetin,ALDH2
+2934,53449,598,N-(1-Hydroxycyclopropyl)glutamine,ALDH2
+3461,2414,598,gamma-Aminobutyric acid,ALDH2
+878,3967,613,Quercetin,ALDH3A2
+3241,2414,613,gamma-Aminobutyric acid,ALDH3A2
+1683,3967,628,Quercetin,ALDH4A1
+3402,2414,628,gamma-Aminobutyric acid,ALDH4A1
+1312,3967,386,Quercetin,ALDH5A1
+2935,53449,386,N-(1-Hydroxycyclopropyl)glutamine,ALDH5A1
+3314,2414,386,gamma-Aminobutyric acid,ALDH5A1
+930,3967,603,Quercetin,ALDH6A1
+3113,2414,614,gamma-Aminobutyric acid,ALDH7A1
+3236,2414,607,gamma-Aminobutyric acid,ALDH9A1
+1026,3967,2293,Quercetin,ALDOA
+2263,3967,4191,Quercetin,ALOX12
+1306,3967,4778,Quercetin,ALOX12B
+1659,3967,3756,Quercetin,ALOX15
+3683,9091,3756,Caffeic acid,ALOX15
+309,3967,4188,Quercetin,ALOX15B
+430,3967,707,Quercetin,ALOX5
+3684,9091,707,Caffeic acid,ALOX5
+300,3967,3348,Quercetin,ALOX5AP
+1309,3967,4777,Quercetin,ALOXE3
+2706,8019,4715,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALPL
+2955,42444,4715,Melanin,ALPL
+3589,2687,4715,Decane,ALPL
+2687,8019,3751,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALPP
+2940,42444,3751,Melanin,ALPP
+3559,2687,3751,Decane,ALPP
+2828,8019,1322,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ALPPL2
+3009,42444,1322,Melanin,ALPPL2
+3585,2687,1322,Decane,ALPPL2
+3062,37864,126,Glucuronic acid,AMBP
+2189,3967,5585,Quercetin,AMPD2
+1841,3967,233,Quercetin,AMT
+557,3967,2184,Quercetin,AMY1A
+1030,3967,2531,Quercetin,ANG
+3084,37864,3846,Glucuronic acid,ANGPT1
+1514,3967,4447,Quercetin,ANGPTL4
+2178,3967,980,Quercetin,ANXA1
+3469,2414,980,gamma-Aminobutyric acid,ANXA1
+873,3967,77,Quercetin,ANXA2
+867,3967,5247,Quercetin,ANXA6
+2231,3967,5144,Quercetin,AOC2
+1332,3967,1271,Quercetin,AOC3
+422,3967,2795,Quercetin,AOX1
+2707,8019,2795,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,AOX1
+723,3967,740,Quercetin,APAF1
+3476,2414,1557,gamma-Aminobutyric acid,APCS
+2903,8019,4661,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,APOA1
+2415,3967,4809,Quercetin,APOA5
+2372,3967,3941,Quercetin,APOB
+2906,8019,3941,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,APOB
+2253,3967,124,Quercetin,APOE
+2886,8019,124,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,APOE
+179,3967,4815,Quercetin,APOF
+2538,3967,3449,Quercetin,APOH
+3855,36175,4810,Arbutin,APOM
+3413,2414,2093,gamma-Aminobutyric acid,APP
+3686,9091,2093,Caffeic acid,APP
+423,3967,1042,Quercetin,AR
+3529,35949,1042,Dioctyl phthalate,AR
+2079,3967,286,Quercetin,ARG2
+2511,3967,1712,Quercetin,ARSA
+280,3967,5146,Quercetin,ARSE
+281,3967,39173,Quercetin,ARSH
+3863,36175,736,Arbutin,ASNA1
+332,3967,322,Quercetin,ASPH
+1509,3967,328,Quercetin,ASRGL1
+2242,3967,287,Quercetin,ASS1
+903,3967,4298,Quercetin,ATF3
+3865,36175,5867,Arbutin,ATF6B
+2902,8019,235,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ATIC
+795,3967,2929,Quercetin,ATP2A1
+4122,9210,867,Acetic acid,ATP4A
+9,3967,3072,Quercetin,ATP5A1
+10,3967,3073,Quercetin,ATP5B
+11,3967,3074,Quercetin,ATP5C1
+202,3967,1598,Quercetin,ATP6V1C1
+2502,3967,2266,Quercetin,AURKA
+3147,2414,4196,gamma-Aminobutyric acid,AVP
+1518,3967,4109,Quercetin,AXL
+5,55716,2403,siphonochalyne,B2M
+2394,3967,5915,Quercetin,B3GAT2
+1941,3967,2514,Quercetin,B3GAT3
+750,3967,393,Quercetin,B4GALT4
+2150,3967,501,Quercetin,BAAT
+1270,3967,2165,Quercetin,BACE1
+1389,3967,3458,Quercetin,BAD
+1662,3967,4943,Quercetin,BAX
+2628,34516,4943,Neochanin,BAX
+3824,32446,4943,beta-Ionone,BAX
+2115,3967,199,Quercetin,BCAT1
+2870,8019,199,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BCAT1
+2788,8019,200,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BCAT2
+1,39210,275,Thioxocopper,BCHE
+3448,2414,275,gamma-Aminobutyric acid,BCHE
+2483,3967,1565,Quercetin,BCKDK
+3869,36175,1565,Arbutin,BCKDK
+1115,3967,1404,Quercetin,BCL2
+2629,34516,1404,Neochanin,BCL2
+3786,32446,1404,beta-Ionone,BCL2
+1499,3967,3530,Quercetin,BCL2L1
+2275,3967,3457,Quercetin,BCL2L2
+1484,3967,3481,Quercetin,BCR
+2812,8019,3481,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BCR
+774,3967,571,Quercetin,BDH1
+3520,2414,5884,gamma-Aminobutyric acid,BDKRB1
+43,3967,3373,Quercetin,BDNF
+3092,2414,3373,gamma-Aminobutyric acid,BDNF
+611,3967,725,Quercetin,BGLAP
+1833,3967,363,Quercetin,BHMT
+2844,8019,363,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BHMT
+2207,3967,364,Quercetin,BHMT2
+2878,8019,364,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BHMT2
+2861,8019,4674,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BIRC3
+1511,3967,3391,Quercetin,BIRC5
+3644,35084,391,Calycosin,BLVRB
+1440,3967,4576,Quercetin,BMP1
+3870,36175,5301,Arbutin,BMPR1B
+1418,3967,5554,Quercetin,BPTF
+788,3967,5225,Quercetin,BRCA1
+2752,8019,5225,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,BRCA1
+310,3967,4602,Quercetin,BRCA2
+705,3967,5881,Quercetin,BSCL2
+1066,3967,4018,Quercetin,BSG
+4283,62860,39231,4-Methylpentan-2-one,C19orf26
+3881,36175,6,Arbutin,C1QB
+3492,2414,60,gamma-Aminobutyric acid,C3
+647,3967,5709,Quercetin,C4BPA
+2438,3967,63,Quercetin,C5
+3509,2414,63,gamma-Aminobutyric acid,C5
+855,3967,3989,Quercetin,C5AR1
+3233,2414,3989,gamma-Aminobutyric acid,C5AR1
+4254,62860,39285,4-Methylpentan-2-one,C5orf38
+2437,3967,3115,Quercetin,C8G
+3778,9091,909,Caffeic acid,CA1
+2557,3967,1156,Quercetin,CA12
+3771,9091,1156,Caffeic acid,CA12
+1259,3967,1352,Quercetin,CA13
+3627,53911,1352,Cymene,CA13
+589,3967,1308,Quercetin,CA14
+1731,3967,910,Quercetin,CA2
+3412,2414,910,gamma-Aminobutyric acid,CA2
+3635,53911,910,Cymene,CA2
+3777,9091,910,Caffeic acid,CA2
+1730,3967,1309,Quercetin,CA3
+3776,9091,1309,Caffeic acid,CA3
+1524,3967,911,Quercetin,CA4
+3775,9091,911,Caffeic acid,CA4
+1377,3967,1346,Quercetin,CA5A
+1314,3967,1347,Quercetin,CA5B
+3774,9091,1347,Caffeic acid,CA5B
+374,3967,1348,Quercetin,CA6
+3773,9091,1348,Caffeic acid,CA6
+881,3967,999,Quercetin,CA7
+3772,9091,999,Caffeic acid,CA7
+357,3967,1155,Quercetin,CA9
+3199,2414,960,gamma-Aminobutyric acid,CACNA1S
+3565,2687,960,Decane,CACNA1S
+3882,36175,4997,Arbutin,CACNG7
+3594,2687,324,Decane,CAD
+1112,3967,4926,Quercetin,CADM1
+2780,8019,4926,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CADM1
+3278,2414,3340,gamma-Aminobutyric acid,CALCA
+799,3967,1108,Quercetin,CALM1
+3225,2414,1108,gamma-Aminobutyric acid,CALM1
+3399,2414,8890,gamma-Aminobutyric acid,CALM3
+2159,3967,3533,Quercetin,CAMK2B
+3302,2414,3484,gamma-Aminobutyric acid,CAMK2G
+3629,53911,3126,Cymene,CAPN1
+3330,2414,39119,gamma-Aminobutyric acid,CARNS1
+3374,2414,784,gamma-Aminobutyric acid,CARTPT
+56,3967,1381,Quercetin,CASP1
+1355,3967,1382,Quercetin,CASP3
+2630,34516,1382,Neochanin,CASP3
+3527,32304,1382,Friedelin,CASP3
+3688,9091,1382,Caffeic acid,CASP3
+3787,32446,1382,beta-Ionone,CASP3
+1954,3967,4671,Quercetin,CASP6
+2631,34516,4256,Neochanin,CASP8
+3884,36175,4256,Arbutin,CASP8
+1105,3967,4565,Quercetin,CASP9
+2632,34516,4565,Neochanin,CASP9
+4117,9210,1377,Acetic acid,CASR
+3130,2414,1509,gamma-Aminobutyric acid,CAST
+2334,3967,1471,Quercetin,CAT
+2897,8019,1471,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CAT
+3040,42444,1471,Melanin,CAT
+3689,9091,1471,Caffeic acid,CAT
+4124,9210,1471,Acetic acid,CAT
+4299,9140,1471,(+)-Costunolide,CAT
+2859,8019,4421,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CBL
+900,3967,4301,Quercetin,CBS
+2764,8019,4301,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CBS
+3261,2414,4235,gamma-Aminobutyric acid,CCK
+3326,2414,5754,gamma-Aminobutyric acid,CCL19
+2428,3967,1408,Quercetin,CCL2
+2914,8019,1408,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CCL2
+3690,9091,1408,Caffeic acid,CCL2
+3216,2414,5756,gamma-Aminobutyric acid,CCL20
+3467,2414,4024,gamma-Aminobutyric acid,CCL21
+3137,2414,5731,gamma-Aminobutyric acid,CCL25
+3466,2414,5738,gamma-Aminobutyric acid,CCL27
+3691,9091,3438,Caffeic acid,CCL3
+3692,9091,5758,Caffeic acid,CCL4
+1838,3967,2014,Quercetin,CCNA2
+2193,3967,4161,Quercetin,CCNB1
+3645,35084,4161,Calycosin,CCNB1
+1702,3967,4967,Quercetin,CCNB2
+2416,3967,1461,Quercetin,CCND1
+2112,3967,4963,Quercetin,CCND2
+474,3967,4959,Quercetin,CCND3
+2709,8019,4959,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CCND3
+3646,35084,4959,Calycosin,CCND3
+2049,3967,4441,Quercetin,CCNE1
+1387,3967,4969,Quercetin,CCNE2
+186,3967,4968,Quercetin,CCNF
+3647,35084,4973,Calycosin,CCNG1
+1297,3967,4970,Quercetin,CCNG2
+3380,2414,3913,gamma-Aminobutyric acid,CCR1
+3693,9091,3913,Caffeic acid,CCR1
+1671,3967,3389,Quercetin,CCR2
+3694,9091,3389,Caffeic acid,CCR2
+3222,2414,3909,gamma-Aminobutyric acid,CCR3
+3272,2414,3919,gamma-Aminobutyric acid,CCR4
+3695,9091,3919,Caffeic acid,CCR4
+3397,2414,3336,gamma-Aminobutyric acid,CCR5
+2300,3967,4023,Quercetin,CCR7
+3490,2414,4023,gamma-Aminobutyric acid,CCR7
+3287,2414,4432,gamma-Aminobutyric acid,CCR8
+267,3967,3981,Quercetin,CD274
+1526,3967,132,Quercetin,CD3D
+3895,36175,134,Arbutin,CD3G
+2927,8019,150,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CD4
+3050,42444,150,Melanin,CD4
+3696,9091,150,Caffeic acid,CD4
+3681,35084,3905,Calycosin,CD40
+1295,3967,1099,Quercetin,CD55
+2583,3967,3460,Quercetin,CD74
+2917,8019,4935,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CD79A
+343,3967,4914,Quercetin,CD83
+3150,2414,4914,gamma-Aminobutyric acid,CD83
+2584,3967,3442,Quercetin,CD9
+4126,9210,3442,Acetic acid,CD9
+413,3967,2616,Quercetin,CDA
+1215,3967,4181,Quercetin,CDC25C
+2851,8019,5556,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CDH13
+1886,3967,3898,Quercetin,CDH2
+4127,9210,1113,Acetic acid,CDH5
+3896,36175,3622,Arbutin,CDK16
+1914,3967,1680,Quercetin,CDK2
+3699,9091,1680,Caffeic acid,CDK2
+2169,3967,2400,Quercetin,CDK4
+1272,3967,1988,Quercetin,CDK5R1
+3648,35084,2262,Calycosin,CDK7
+270,3967,2792,Quercetin,CDK8
+463,3967,2790,Quercetin,CDK9
+3649,35084,4376,Calycosin,CDKN1A
+2409,3967,5462,Quercetin,CDKN1B
+44,3967,4275,Quercetin,CDKN1C
+3650,35084,4275,Calycosin,CDKN1C
+2741,8019,4341,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CDKN2A
+2967,42444,4341,Melanin,CDKN2A
+2048,3967,4465,Quercetin,CDKN2C
+2272,3967,534,Quercetin,CDO1
+3054,42444,167,Melanin,CEACAM1
+3897,36175,167,Arbutin,CEACAM1
+2463,3967,3696,Quercetin,CEACAM5
+497,3967,5023,Quercetin,CEL
+1955,3967,3473,Quercetin,CENPE
+2647,34516,830,Neochanin,CES1
+1331,3967,4504,Quercetin,CFLAR
+2594,3967,1332,Quercetin,CFTR
+3258,2414,804,gamma-Aminobutyric acid,CHAT
+3700,9091,804,Caffeic acid,CHAT
+2791,8019,5929,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CHDH
+253,3967,3397,Quercetin,CHEK2
+1935,3967,4454,Quercetin,CHKA
+3300,2414,849,gamma-Aminobutyric acid,CHRM2
+3095,2414,940,gamma-Aminobutyric acid,CHRM4
+2271,3967,800,Quercetin,CHRNA10
+3495,2414,795,gamma-Aminobutyric acid,CHRNA2
+3313,2414,796,gamma-Aminobutyric acid,CHRNA3
+3181,2414,792,gamma-Aminobutyric acid,CHRNA4
+3363,2414,797,gamma-Aminobutyric acid,CHRNA5
+3460,2414,802,gamma-Aminobutyric acid,CHRNB4
+1286,3967,4877,Quercetin,CHST13
+468,3967,4850,Quercetin,CHST3
+546,3967,912,Quercetin,CHUK
+1552,3967,518,Quercetin,CKB
+2608,3510,2243,Pentadecane,clcA
+2617,3510,5724,Pentadecane,CLCN1
+2610,3510,1401,Pentadecane,CLCN2
+2095,3967,5730,Quercetin,CLCN3
+2611,3510,5730,Pentadecane,CLCN3
+2622,3510,5711,Pentadecane,CLCN4
+397,3967,5719,Quercetin,CLCN5
+2621,3510,5719,Pentadecane,CLCN5
+2614,3510,5707,Pentadecane,CLCN6
+2612,3510,3264,Pentadecane,CLCNKA
+2618,3510,5729,Pentadecane,CLCNKB
+935,3967,4616,Quercetin,CLDN4
+1535,3967,5168,Quercetin,CLPX
+2785,8019,5208,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CNDP2
+3188,2414,1105,gamma-Aminobutyric acid,CNR1
+3163,2414,1106,gamma-Aminobutyric acid,CNR2
+3067,37864,5048,Glucuronic acid,COG2
+1571,3967,5431,Quercetin,COL14A1
+4257,62860,5431,4-Methylpentan-2-one,COL14A1
+3901,36175,5445,Arbutin,COL17A1
+729,3967,5457,Quercetin,COL18A1
+4129,9210,105,Acetic acid,COL1A1
+299,3967,106,Quercetin,COL2A1
+4130,9210,106,Acetic acid,COL2A1
+1466,3967,107,Quercetin,COL3A1
+1081,3967,5439,Quercetin,COL7A1
+2457,3967,1510,Quercetin,COMP
+694,3967,244,Quercetin,COMT
+2743,8019,244,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,COMT
+3205,2414,244,gamma-Aminobutyric acid,COMT
+3701,9091,244,Caffeic acid,COMT
+782,3967,4515,Quercetin,COPS5
+1978,3967,118,Quercetin,CP
+2858,8019,118,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CP
+3544,49506,3105,DIISOOCTYL PHTHALATE,CPB1
+3902,36175,3105,Arbutin,CPB1
+2556,3967,3454,Quercetin,CPB2
+3547,49506,3454,DIISOOCTYL PHTHALATE,CPB2
+3903,36175,70,Arbutin,CPE
+1937,3967,1170,Quercetin,CPT1A
+1335,3967,4741,Quercetin,CPT1B
+511,3967,1169,Quercetin,CPT2
+1944,3967,5199,Quercetin,CPVL
+4131,9210,5035,Acetic acid,CRABP2
+3110,2414,342,gamma-Aminobutyric acid,CREB1
+2865,8019,3781,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CREBBP
+3422,2414,1495,gamma-Aminobutyric acid,CRH
+3124,2414,3883,gamma-Aminobutyric acid,CRHR1
+2880,8019,2945,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CRP
+2484,3967,3417,Quercetin,CRYM
+990,3967,952,Quercetin,CRYZ
+3078,37864,952,Glucuronic acid,CRYZ
+4264,62860,1194,4-Methylpentan-2-one,CSF1R
+1593,3967,3408,Quercetin,CSF2
+3373,2414,3408,gamma-Aminobutyric acid,CSF2
+4258,62860,3408,4-Methylpentan-2-one,CSF2
+2931,8019,4647,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CSF3
+2496,3967,1678,Quercetin,CSNK2A1
+2052,3967,3587,Quercetin,CSNK2A2
+2831,8019,1836,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CTBP1
+3401,2414,1836,gamma-Aminobutyric acid,CTBP1
+3702,9091,4022,Caffeic acid,CTF1
+616,3967,3911,Quercetin,CTGF
+2717,8019,198,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CTH
+1100,3967,5441,Quercetin,CTHRC1
+901,3967,2927,Quercetin,CTNNB1
+486,3967,339,Quercetin,CTPS1
+944,3967,2019,Quercetin,CTSB
+3703,9091,2019,Caffeic acid,CTSB
+2418,3967,4318,Quercetin,CTSC
+2357,3967,67,Quercetin,CTSD
+3704,9091,67,Caffeic acid,CTSD
+2699,8019,837,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CUBN
+2589,3967,4300,Quercetin,CX3CL1
+3131,2414,4422,gamma-Aminobutyric acid,CXCL1
+1445,3967,3243,Quercetin,CXCL10
+3341,2414,3243,gamma-Aminobutyric acid,CXCL10
+3335,2414,5752,gamma-Aminobutyric acid,CXCL11
+3408,2414,5740,gamma-Aminobutyric acid,CXCL13
+1658,3967,5744,Quercetin,CXCL16
+3394,2414,5744,gamma-Aminobutyric acid,CXCL16
+3705,9091,3918,Caffeic acid,CXCL2
+3383,2414,5748,gamma-Aminobutyric acid,CXCL3
+3382,2414,5749,gamma-Aminobutyric acid,CXCL5
+3507,2414,5732,gamma-Aminobutyric acid,CXCL6
+1430,3967,3447,Quercetin,CXCL8
+2805,8019,3447,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CXCL8
+3552,2687,3447,Decane,CXCL8
+3706,9091,3447,Caffeic acid,CXCL8
+3201,2414,5759,gamma-Aminobutyric acid,CXCL9
+3386,2414,1375,gamma-Aminobutyric acid,CXCR1
+3301,2414,3887,gamma-Aminobutyric acid,CXCR2
+121,3967,1101,Quercetin,CXCR4
+3398,2414,4202,gamma-Aminobutyric acid,CXCR5
+3347,2414,4304,gamma-Aminobutyric acid,CXCR6
+952,3967,2968,Quercetin,CYB5A
+2088,3967,5736,Quercetin,CYBA
+1408,3967,1383,Quercetin,CYCS
+1663,3967,5184,Quercetin,CYGB
+84,3967,4084,Quercetin,CYR61
+2742,8019,3019,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,CYTB
+775,3967,2978,Quercetin,DAPK1
+1992,3967,320,Quercetin,DARS
+2932,53449,294,N-(1-Hydroxycyclopropyl)glutamine,DBH
+3323,2414,1913,gamma-Aminobutyric acid,DBI
+1716,3967,1417,Quercetin,DCK
+2015,3967,1555,Quercetin,DCPS
+2948,42444,4497,Melanin,DCT
+780,3967,206,Quercetin,DDC
+2969,42444,206,Melanin,DDC
+3219,2414,206,gamma-Aminobutyric acid,DDC
+1416,3967,3925,Quercetin,DDIT4
+2478,3967,2771,Quercetin,DECR1
+2920,8019,2771,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DECR1
+3514,2414,2771,gamma-Aminobutyric acid,DECR1
+1780,3967,5532,Quercetin,DENR
+382,3967,4538,Quercetin,DFFA
+359,3967,4393,Quercetin,DFFB
+987,3967,5068,Quercetin,DFNA5
+2414,3967,4760,Quercetin,DGAT2
+1123,3967,708,Quercetin,DGKA
+3069,37864,5907,Glucuronic acid,DGUOK
+514,3967,4115,Quercetin,DHCR24
+846,3967,623,Quercetin,DHCR7
+3232,2414,623,gamma-Aminobutyric acid,DHCR7
+2654,8019,621,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DHFR
+1253,3967,1823,Quercetin,DHFRL1
+2921,8019,1424,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DHODH
+1149,3967,697,Quercetin,DHRS4
+1052,3967,39138,Quercetin,DHRS4L2
+1909,3967,4607,Quercetin,DIABLO
+2708,8019,3947,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DKK1
+875,3967,1872,Quercetin,DMPK
+3239,2414,1872,gamma-Aminobutyric acid,DMPK
+738,3967,1359,Quercetin,DNMT1
+2747,8019,1359,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DNMT1
+4135,9210,1359,Acetic acid,DNMT1
+2783,8019,4597,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DNMT3B
+4136,9210,4597,Acetic acid,DNMT3B
+708,3967,1418,Quercetin,DPP4
+3914,36175,5205,Arbutin,DPP7
+555,3967,2125,Quercetin,DPYD
+2721,8019,2125,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,DPYD
+3182,2414,2125,gamma-Aminobutyric acid,DPYD
+3421,2414,5089,gamma-Aminobutyric acid,DPYS
+3202,2414,789,gamma-Aminobutyric acid,DRD2
+3140,2414,934,gamma-Aminobutyric acid,DRD3
+2558,3967,935,Quercetin,DRD4
+3523,2414,935,gamma-Aminobutyric acid,DRD4
+2303,3967,3039,Quercetin,DSTN
+577,3967,4677,Quercetin,DUSP5
+882,3967,3962,Quercetin,E2F1
+672,3967,4503,Quercetin,E2F2
+2040,3967,4655,Quercetin,E2F3
+3916,36175,3534,Arbutin,ECE1
+683,3967,3703,Quercetin,ECI2
+337,3967,3443,Quercetin,EDN1
+3711,9091,3443,Caffeic acid,EDN1
+2978,42444,5761,Melanin,EDN3
+2990,42444,1148,Melanin,EDNRA
+1045,3967,1149,Quercetin,EDNRB
+2984,42444,1149,Melanin,EDNRB
+1108,3967,3150,Quercetin,EEF1A1
+4137,9210,3150,Acetic acid,EEF1A1
+849,3967,5452,Quercetin,EFEMP1
+3921,36175,2411,Arbutin,EFTUD1
+1952,3967,1038,Quercetin,EGF
+1825,3967,2,Quercetin,EGFR
+2842,8019,2,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,EGFR
+662,3967,306,Quercetin,EGLN1
+2341,3967,5813,Quercetin,EGR1
+2383,3967,568,Quercetin,EHHADH
+2377,3967,4056,Quercetin,EIF2AK2
+1926,3967,5529,Quercetin,EIF2B2
+2194,3967,5521,Quercetin,EIF2S1
+414,3967,5519,Quercetin,EIF2S2
+1656,3967,5536,Quercetin,EIF4A1
+3253,2414,5546,gamma-Aminobutyric acid,EIF4G2
+3923,36175,39,Arbutin,ELANE
+3679,35084,4473,Calycosin,ELAVL1
+3056,42444,1130,Melanin,ELN
+465,3967,3996,Quercetin,ENG
+4248,62860,3996,4-Methylpentan-2-one,ENG
+3044,42444,2396,Melanin,ENO2
+1178,3967,1737,Quercetin,ENO3
+701,3967,1304,Quercetin,ENPP1
+3925,36175,1304,Arbutin,ENPP1
+2149,3967,5575,Quercetin,ENPP2
+789,3967,5568,Quercetin,ENPP3
+2863,8019,5827,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,EP300
+2010,3967,4679,Quercetin,EPAS1
+767,3967,1477,Quercetin,EPHA2
+4296,76698,5562,.beta.-Methylstyrene,EPHX1
+2459,3967,28,Quercetin,EPOR
+3927,36175,1415,Arbutin,EPX
+1876,3967,130,Quercetin,ERBB2
+2849,8019,130,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ERBB2
+1911,3967,4653,Quercetin,ERBB3
+3713,9091,4289,Caffeic acid,ERF
+78,3967,3552,Quercetin,ERN1
+4234,62860,455,4-Methylpentan-2-one,ESD
+2537,3967,947,Quercetin,ESR1
+2636,34516,947,Neochanin,ESR1
+2925,8019,947,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ESR1
+3522,2414,947,gamma-Aminobutyric acid,ESR1
+3531,35949,947,Dioctyl phthalate,ESR1
+3654,35084,947,Calycosin,ESR1
+909,3967,948,Quercetin,ESR2
+2637,34516,948,Neochanin,ESR2
+3532,35949,948,Dioctyl phthalate,ESR2
+3655,35084,948,Calycosin,ESR2
+2648,34516,828,Neochanin,ESRRA
+556,3967,2073,Quercetin,EXTL2
+3932,36175,5074,Arbutin,F13B
+2803,8019,1,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,F2
+3328,2414,1,gamma-Aminobutyric acid,F2
+1221,3967,138,Quercetin,F2R
+1602,3967,4149,Quercetin,F2RL1
+1058,3967,88,Quercetin,F3
+2773,8019,88,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,F3
+2728,8019,115,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,F5
+404,3967,87,Quercetin,F7
+3072,37864,87,Glucuronic acid,F7
+1623,3967,4361,Quercetin,FABP1
+15,3967,3076,Quercetin,fabZ
+3936,36175,4268,Arbutin,FASLG
+1463,3967,1394,Quercetin,FASN
+3001,42444,1394,Melanin,FASN
+3582,2687,1394,Decane,FASN
+3714,9091,1394,Caffeic acid,FASN
+409,3967,354,Quercetin,FBP1
+1689,3967,1337,Quercetin,FCER1G
+764,3967,12,Quercetin,FCGR2B
+3429,2414,13,gamma-Aminobutyric acid,FCGR2C
+2481,3967,3431,Quercetin,FDFT1
+2603,71802,3431,Phoenicoxanthin,FDFT1
+809,3967,974,Quercetin,FDPS
+1664,3967,2572,Quercetin,FDXR
+1432,3967,24,Quercetin,FGA
+2806,8019,24,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FGA
+1438,3967,1039,Quercetin,FGB
+3020,42444,1037,Melanin,FGF2
+4140,9210,1228,Acetic acid,FGF4
+2127,3967,94,Quercetin,FGFR3
+3940,36175,94,Arbutin,FGFR3
+1668,3967,93,Quercetin,FGFR4
+1029,3967,1040,Quercetin,FGG
+2285,3967,4621,Quercetin,FGL2
+3073,37864,5910,Glucuronic acid,FH
+943,3967,2162,Quercetin,FHIT
+1570,3967,4650,Quercetin,FIGF
+1287,3967,5326,Quercetin,FKBP10
+2455,3967,5316,Quercetin,FKBP8
+565,3967,4237,Quercetin,FLNA
+1619,3967,5763,Quercetin,FLNB
+3656,35084,1071,Calycosin,FLT1
+2074,3967,1066,Quercetin,FLT4
+3716,9091,1066,Caffeic acid,FLT4
+2225,3967,5142,Quercetin,FMO5
+859,3967,3820,Quercetin,FN1
+2658,8019,140,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FOLH1
+2657,8019,3405,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FOLR1
+2821,8019,682,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FOLR2
+1434,3967,3796,Quercetin,FOS
+3338,2414,3796,gamma-Aminobutyric acid,FOS
+3071,37864,5909,Glucuronic acid,FOSB
+1369,3967,4472,Quercetin,FOSL1
+938,3967,4620,Quercetin,FOXM1
+2650,8019,422,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FPGS
+3943,36175,5416,Arbutin,FRAS1
+2566,3967,4483,Quercetin,FSTL3
+1675,3967,202,Quercetin,FTCD
+2830,8019,202,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FTCD
+2845,8019,1335,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FTH1
+3630,53911,1335,Cymene,FTH1
+2700,8019,1336,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,FTL
+3624,53911,1336,Cymene,FTL
+3638,53911,4771,Cymene,FTMT
+3191,2414,1481,gamma-Aminobutyric acid,FYN
+2230,3967,4274,Quercetin,G6PC
+2683,8019,2524,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,G6PD
+1442,3967,977,Quercetin,GAA
+3091,2414,780,gamma-Aminobutyric acid,GABBR1
+3468,2414,781,gamma-Aminobutyric acid,GABBR2
+3525,2414,807,gamma-Aminobutyric acid,GABRA1
+3228,2414,891,gamma-Aminobutyric acid,GABRA2
+3449,2414,893,gamma-Aminobutyric acid,GABRA4
+3262,2414,894,gamma-Aminobutyric acid,GABRA5
+3425,2414,895,gamma-Aminobutyric acid,GABRA6
+3388,2414,896,gamma-Aminobutyric acid,GABRB1
+3424,2414,897,gamma-Aminobutyric acid,GABRB2
+3364,2414,898,gamma-Aminobutyric acid,GABRB3
+4143,9210,898,Acetic acid,GABRB3
+3154,2414,902,gamma-Aminobutyric acid,GABRD
+550,3967,903,Quercetin,GABRE
+3180,2414,903,gamma-Aminobutyric acid,GABRE
+3389,2414,899,gamma-Aminobutyric acid,GABRG1
+3094,2414,900,gamma-Aminobutyric acid,GABRG2
+3277,2414,901,gamma-Aminobutyric acid,GABRG3
+3439,2414,904,gamma-Aminobutyric acid,GABRP
+3093,2414,905,gamma-Aminobutyric acid,GABRR1
+3117,2414,906,gamma-Aminobutyric acid,GABRR2
+773,3967,169,Quercetin,GAD1
+3217,2414,169,gamma-Aminobutyric acid,GAD1
+4144,9210,169,Acetic acid,GAD1
+2524,3967,4444,Quercetin,GADD45B
+3436,2414,4493,gamma-Aminobutyric acid,GAL
+921,3967,4886,Quercetin,GAL3ST1
+3362,2414,4172,gamma-Aminobutyric acid,GALR1
+1113,3967,4578,Quercetin,GALR2
+3281,2414,4578,gamma-Aminobutyric acid,GALR2
+3486,2414,4579,gamma-Aminobutyric acid,GALR3
+4145,9210,611,Acetic acid,GAPDH
+3139,2414,500,gamma-Aminobutyric acid,GARS
+2689,8019,1212,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GART
+3149,2414,4423,gamma-Aminobutyric acid,GATA3
+3265,2414,4283,gamma-Aminobutyric acid,GATA4
+4146,9210,4283,Acetic acid,GATA4
+3088,2414,337,gamma-Aminobutyric acid,GATM
+2678,8019,2164,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GCH1
+2400,3967,417,Quercetin,GCLC
+552,3967,442,Quercetin,GCLM
+2623,8828,442,Nerylacetone,GCLM
+3070,37864,5908,Glucuronic acid,GCNT3
+2249,3967,4460,Quercetin,GDF15
+99,3967,2515,Quercetin,GDI1
+3309,2414,3378,gamma-Aminobutyric acid,GDNF
+3482,2414,5887,gamma-Aminobutyric acid,GFAP
+4151,9210,5887,Acetic acid,GFAP
+2655,8019,4319,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GGH
+3264,2414,4324,gamma-Aminobutyric acid,GHRL
+2875,8019,5766,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GIF
+275,3967,191,Quercetin,GLDC
+1920,3967,3435,Quercetin,GLIPR1
+459,3967,469,Quercetin,GLO1
+1829,3967,511,Quercetin,GLRA1
+3423,2414,511,gamma-Aminobutyric acid,GLRA1
+3516,2414,514,gamma-Aminobutyric acid,GLRA2
+3446,2414,512,gamma-Aminobutyric acid,GLRB
+639,3967,468,Quercetin,GLRX2
+3308,2414,413,gamma-Aminobutyric acid,GLS
+1363,3967,435,Quercetin,GLS2
+3324,2414,435,gamma-Aminobutyric acid,GLS2
+3578,2687,2244,Decane,GLTP
+1806,3967,439,Quercetin,GLUD1
+4221,62860,439,4-Methylpentan-2-one,GLUD1
+1131,3967,419,Quercetin,GLUD2
+289,3967,2311,Quercetin,GMDS
+2241,3967,5467,Quercetin,GMFG
+3076,37864,1890,Glucuronic acid,GMPR
+3949,36175,1890,Arbutin,GMPR
+3079,37864,5911,Glucuronic acid,GMPR2
+3053,42444,4666,Melanin,GNA11
+2039,3967,5880,Quercetin,GNA15
+3004,42444,3145,Melanin,GNAI1
+3245,2414,3145,gamma-Aminobutyric acid,GNAI1
+2994,42444,5879,Melanin,GNAI2
+3317,2414,5879,gamma-Aminobutyric acid,GNAI2
+2959,42444,5868,Melanin,GNAI3
+3184,2414,5868,gamma-Aminobutyric acid,GNAI3
+3014,42444,4552,Melanin,GNAQ
+3049,42444,5871,Melanin,GNAT2
+3153,2414,3618,gamma-Aminobutyric acid,GNB1
+3503,2414,5883,gamma-Aminobutyric acid,GNB3
+3266,2414,1457,gamma-Aminobutyric acid,GNG2
+3391,2414,5878,gamma-Aminobutyric acid,GNG3
+3142,2414,4270,gamma-Aminobutyric acid,GNG7
+3488,2414,3617,gamma-Aminobutyric acid,GNGT1
+479,3967,240,Quercetin,GNMT
+2710,8019,240,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GNMT
+2718,8019,174,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GOT1
+3718,9091,174,Caffeic acid,GOT1
+2893,8019,203,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GOT2
+1951,3967,5826,Quercetin,GPAM
+3952,36175,5838,Arbutin,GPD2
+1582,3967,4046,Quercetin,GPER1
+3369,2414,4046,gamma-Aminobutyric acid,GPER1
+262,3967,4000,Quercetin,GPNMB
+2945,42444,4000,Melanin,GPNMB
+3243,2414,502,gamma-Aminobutyric acid,GPR18
+3136,2414,4047,gamma-Aminobutyric acid,GPR55
+3956,36175,4047,Arbutin,GPR55
+2580,3967,1248,Quercetin,GPRC5A
+3719,9091,192,Caffeic acid,GPT
+887,3967,217,Quercetin,GPT2
+64,3967,482,Quercetin,GPX1
+2663,8019,482,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GPX1
+242,3967,483,Quercetin,GPX2
+872,3967,459,Quercetin,GPX4
+2760,8019,459,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GPX4
+103,3967,486,Quercetin,GPX5
+2671,8019,486,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GPX5
+1599,3967,464,Quercetin,GPX8
+994,3967,123,Quercetin,GRB2
+3410,2414,441,gamma-Aminobutyric acid,GRIA1
+3447,2414,443,gamma-Aminobutyric acid,GRIA2
+3415,2414,445,gamma-Aminobutyric acid,GRIA4
+3122,2414,440,gamma-Aminobutyric acid,GRIK1
+3171,2414,448,gamma-Aminobutyric acid,GRIK3
+3274,2414,424,gamma-Aminobutyric acid,GRIN2A
+3396,2414,426,gamma-Aminobutyric acid,GRIN2C
+3200,2414,431,gamma-Aminobutyric acid,GRIN3A
+3414,2414,400,gamma-Aminobutyric acid,GRM1
+3133,2414,3383,gamma-Aminobutyric acid,GRM2
+3167,2414,401,gamma-Aminobutyric acid,GRM4
+3339,2414,1219,gamma-Aminobutyric acid,GRM5
+3048,42444,5465,Melanin,GRM6
+3220,2414,404,gamma-Aminobutyric acid,GRM7
+2454,3967,4670,Quercetin,GSK3A
+1169,3967,1502,Quercetin,GSK3B
+441,3967,2351,Quercetin,GSN
+2474,3967,471,Quercetin,GSR
+2918,8019,471,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GSR
+3720,9091,471,Caffeic acid,GSR
+1039,3967,452,Quercetin,GSTA1
+19,3967,453,Quercetin,GSTA2
+2530,3967,475,Quercetin,GSTA3
+530,3967,477,Quercetin,GSTA4
+2798,8019,473,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GSTM1
+3721,9091,473,Caffeic acid,GSTM1
+3722,9091,457,Caffeic acid,GSTM2
+568,3967,478,Quercetin,GSTM4
+175,3967,480,Quercetin,GSTP1
+2675,8019,480,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,GSTP1
+3723,9091,480,Caffeic acid,GSTP1
+3959,36175,1090,Arbutin,GUCY1A2
+3082,37864,5913,Glucuronic acid,GUSB
+3724,9091,5913,Caffeic acid,GUSB
+1280,3967,5542,Quercetin,GYS1
+3725,9091,585,Caffeic acid,H6PD
+2113,3967,239,Quercetin,HAL
+3682,35084,239,Calycosin,HAL
+3,39210,2058,Thioxocopper,HAO1
+2,39210,2642,Thioxocopper,HAO2
+3268,2414,5095,gamma-Aminobutyric acid,HAP1
+3080,37864,5912,Glucuronic acid,HAS3
+3726,9091,4050,Caffeic acid,HAVCR2
+2389,3967,3967,Quercetin,HBEGF
+4153,9210,5083,Acetic acid,HBZ
+3138,2414,1198,gamma-Aminobutyric acid,HCAR2
+6,3967,1718,Quercetin,HCK
+3395,2414,2529,gamma-Aminobutyric acid,HCRT
+2102,3967,2448,Quercetin,HEXB
+4154,9210,2111,Acetic acid,HGF
+1095,3967,3099,Quercetin,HGS
+531,3967,4931,Quercetin,HHLA3
+14,3967,3075,Quercetin,HIBCH
+1009,3967,1447,Quercetin,HIF1A
+2638,34516,1447,Neochanin,HIF1A
+3657,35084,1447,Calycosin,HIF1A
+1554,3967,1595,Quercetin,HIF1AN
+2669,8019,13179,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,HLA-B
+1401,3967,4051,Quercetin,HMGA1
+924,3967,3465,Quercetin,HMGB1
+3658,35084,3465,Calycosin,HMGB1
+427,3967,3275,Quercetin,HMGCL
+2834,8019,575,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,HMGCR
+3081,37864,575,Glucuronic acid,HMGCR
+3727,9091,575,Caffeic acid,HMGCR
+222,3967,3799,Quercetin,HMMR
+2512,3967,678,Quercetin,HMOX1
+194,3967,2883,Quercetin,HNF4G
+1783,3967,1185,Quercetin,HNMT
+1632,3967,450,Quercetin,HPGDS
+2050,3967,84,Quercetin,HPN
+1374,3967,2082,Quercetin,HRAS
+2800,8019,2082,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,HRAS
+3247,2414,1045,gamma-Aminobutyric acid,HRH3
+3472,2414,1008,gamma-Aminobutyric acid,HRH4
+541,3967,4863,Quercetin,HS2ST1
+2545,3967,583,Quercetin,HSD17B2
+2196,3967,564,Quercetin,HSD17B4
+1269,3967,378,Quercetin,HSD17B6
+3829,32446,378,beta-Ionone,HSD17B6
+583,3967,595,Quercetin,HSD3B1
+3966,36175,595,Arbutin,HSD3B1
+582,3967,594,Quercetin,HSD3B2
+1540,3967,1190,Quercetin,HSP90B1
+3728,9091,1190,Caffeic acid,HSP90B1
+1491,3967,5047,Quercetin,HSPA4
+3353,2414,5047,gamma-Aminobutyric acid,HSPA4
+1176,3967,52,Quercetin,HSPA5
+3291,2414,52,gamma-Aminobutyric acid,HSPA5
+2417,3967,3527,Quercetin,HSPA8
+3505,2414,3527,gamma-Aminobutyric acid,HSPA8
+3537,35949,3472,Dioctyl phthalate,HSPB1
+3311,2414,873,gamma-Aminobutyric acid,HTR1A
+3580,2687,873,Decane,HTR1A
+3183,2414,871,gamma-Aminobutyric acid,HTR1B
+3331,2414,874,gamma-Aminobutyric acid,HTR1E
+3292,2414,872,gamma-Aminobutyric acid,HTR1F
+3231,2414,936,gamma-Aminobutyric acid,HTR3A
+3465,2414,3865,gamma-Aminobutyric acid,HTR3B
+3405,2414,1019,gamma-Aminobutyric acid,HTR5A
+4155,9210,3973,Acetic acid,IAPP
+403,3967,718,Quercetin,IARS
+1973,3967,163,Quercetin,ICAM1
+144,3967,3979,Quercetin,ICOSLG
+2123,3967,1634,Quercetin,IDH1
+273,3967,1702,Quercetin,IDI1
+2233,3967,4747,Quercetin,IDO1
+3968,36175,5088,Arbutin,IFIT3
+1873,3967,22,Quercetin,IFNAR1
+2404,3967,1475,Quercetin,IFNG
+1686,3967,80,Quercetin,IFNGR2
+2814,8019,1800,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IGF1
+2853,8019,65,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IGF1R
+1823,3967,4218,Quercetin,IGFBP1
+2369,3967,5352,Quercetin,IGFBP2
+284,3967,1488,Quercetin,IGFBP3
+2691,8019,1488,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IGFBP3
+1875,3967,5630,Quercetin,IGFBP4
+4158,9210,7271,Acetic acid,IGHG1
+677,3967,4924,Quercetin,IGSF1
+3074,37864,3376,Glucuronic acid,IL10
+1980,3967,4299,Quercetin,IL11
+3346,2414,3429,gamma-Aminobutyric acid,IL13
+2021,3967,1380,Quercetin,IL1B
+4159,9210,1380,Acetic acid,IL1B
+1099,3967,3923,Quercetin,IL1R2
+2421,3967,1330,Quercetin,IL2
+3970,36175,3451,Arbutin,IL23A
+4233,62860,14,4-Methylpentan-2-one,IL2RA
+4280,62860,15,4-Methylpentan-2-one,IL2RB
+1170,3967,4789,Quercetin,IL32
+3971,36175,41,Arbutin,IL3RA
+2386,3967,4143,Quercetin,IL4
+2639,34516,4143,Neochanin,IL4
+2563,3967,3381,Quercetin,IL4R
+4160,9210,1516,Acetic acid,IL5
+2157,3967,1514,Quercetin,IL6
+2871,8019,1514,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IL6
+3553,2687,1514,Decane,IL6
+3731,9091,1514,Caffeic acid,IL6
+4161,9210,1514,Acetic acid,IL6
+997,3967,4758,Quercetin,IL6ST
+3972,36175,4758,Arbutin,IL6ST
+4162,9210,4758,Acetic acid,IL6ST
+2008,3967,3997,Quercetin,IL7
+1885,3967,1504,Quercetin,IMPA2
+2971,42444,596,Melanin,IMPDH1
+2789,8019,588,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,IMPDH2
+2991,42444,588,Melanin,IMPDH2
+810,3967,39277,Quercetin,INS-IGF2
+2755,8019,39277,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,INS-IGF2
+3227,2414,39277,gamma-Aminobutyric acid,INS-IGF2
+4242,62860,39277,4-Methylpentan-2-one,INS-IGF2
+1371,3967,4623,Quercetin,IRF3
+1453,3967,3758,Quercetin,IRS1
+1605,3967,4198,Quercetin,ITGA2
+2826,8019,4198,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,ITGA2
+3007,42444,4198,Melanin,ITGA2
+3376,2414,4198,gamma-Aminobutyric acid,ITGA2
+4288,62860,4198,4-Methylpentan-2-one,ITGA2
+3128,2414,162,gamma-Aminobutyric acid,ITGA4
+120,3967,4368,Quercetin,ITGA6
+2121,3967,152,Quercetin,ITGAV
+1843,3967,5903,Quercetin,ITIH1
+3064,37864,5903,Glucuronic acid,ITIH1
+3068,37864,5906,Glucuronic acid,ITIH2
+3066,37864,5905,Glucuronic acid,ITIH3
+2137,3967,1776,Quercetin,ITPKA
+274,3967,4750,Quercetin,ITPR2
+432,3967,4751,Quercetin,ITPR3
+922,3967,3316,Quercetin,JAK1
+266,3967,3314,Quercetin,JAK2
+517,3967,1161,Quercetin,JUN
+2716,8019,1161,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,JUN
+3176,2414,1161,gamma-Aminobutyric acid,JUN
+3975,36175,1161,Arbutin,JUN
+2009,3967,1934,Quercetin,KAT2B
+3632,53911,853,Cymene,KCNH2
+613,3967,4737,Quercetin,KCNJ10
+3390,2414,1456,gamma-Aminobutyric acid,KCNJ3
+1717,3967,1030,Quercetin,KCNMA1
+3616,2687,1030,Decane,KCNMA1
+3732,9091,885,Caffeic acid,KCNN4
+2006,3967,1067,Quercetin,KDR
+2562,3967,3831,Quercetin,KEAP1
+2130,3967,2965,Quercetin,KIF11
+3293,2414,2932,gamma-Aminobutyric acid,KIF1A
+3735,9091,3197,Caffeic acid,KIF2C
+3499,2414,3921,gamma-Aminobutyric acid,KISS1R
+4166,9210,1069,Acetic acid,KIT
+1321,3967,3868,Quercetin,KLK2
+2997,42444,3656,Melanin,KLK7
+1963,3967,4247,Quercetin,KNG1
+3442,2414,4247,gamma-Aminobutyric acid,KNG1
+2876,8019,3620,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,KRAS
+3057,42444,3620,Melanin,KRAS
+674,3967,4542,Quercetin,KRT19
+4168,9210,5397,Acetic acid,LAMA1
+4169,9210,5395,Acetic acid,LAMB1
+1991,3967,288,Quercetin,LCT
+3982,36175,2071,Arbutin,LCTL
+3736,9091,562,Caffeic acid,LDHA
+3737,9091,567,Caffeic acid,LDHB
+2254,3967,1235,Quercetin,LDLR
+3085,37864,1235,Glucuronic acid,LDLR
+3621,53911,1235,Cymene,LDLR
+2795,8019,4271,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LEP
+3318,2414,4271,gamma-Aminobutyric acid,LEP
+2518,3967,2715,Quercetin,LGALS1
+2222,3967,1743,Quercetin,LGALS3
+1917,3967,4249,Quercetin,LGR5
+539,3967,428,Quercetin,LGSN
+629,3967,39183,Quercetin,LHX4-AS1
+2101,3967,715,Quercetin,LIAS
+4287,62860,715,4-Methylpentan-2-one,LIAS
+2281,3967,4252,Quercetin,LIF
+2018,3967,5305,Quercetin,LIFR
+4172,9210,5305,Acetic acid,LIFR
+2696,8019,982,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LIG3
+1556,3967,5021,Quercetin,LIPC
+2110,3967,5014,Quercetin,LIPG
+2268,3967,55,Quercetin,LMAN1
+610,3967,5660,Quercetin,LMNA
+2105,3967,5650,Quercetin,LMNB1
+3788,32446,5650,beta-Ionone,LMNB1
+2387,3967,5195,Quercetin,LNPEP
+2292,3967,39163,Quercetin,LOC101927057
+1773,3967,39023,Quercetin,LOC101927178
+2447,3967,39092,Quercetin,LOC101928168
+2323,3967,38956,Quercetin,LOC101928189
+3047,42444,39152,Melanin,LOC101929777
+2388,3967,4296,Quercetin,LOX
+3214,2414,4323,gamma-Aminobutyric acid,LPAR1
+650,3967,5845,Quercetin,LPGAT1
+3985,36175,5236,Arbutin,LRP5
+2869,8019,4062,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LRP6
+3986,36175,4062,Arbutin,LRP6
+818,3967,1964,Quercetin,LSS
+1414,3967,3893,Quercetin,LTB4R
+2908,8019,1720,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,LTF
+3500,2414,1720,gamma-Aminobutyric acid,LTF
+1737,3967,2424,Quercetin,LY96
+2111,3967,315,Quercetin,LYZ
+965,3967,814,Quercetin,MAOA
+3252,2414,814,gamma-Aminobutyric acid,MAOA
+364,3967,790,Quercetin,MAOB
+3209,2414,1464,gamma-Aminobutyric acid,MAP2
+1502,3967,2046,Quercetin,MAP2K1
+889,3967,5379,Quercetin,MAP2K3
+2054,3967,5355,Quercetin,MAP2K4
+3738,9091,4160,Caffeic acid,MAP2K5
+753,3967,5383,Quercetin,MAP2K6
+234,3967,4158,Quercetin,MAP3K4
+2685,8019,4158,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MAP3K4
+2036,3967,4668,Quercetin,MAP3K8
+188,3967,4065,Quercetin,MAP4K1
+2520,3967,1409,Quercetin,MAPK1
+3661,35084,1409,Calycosin,MAPK1
+3789,32446,1409,beta-Ionone,MAPK1
+4174,9210,1409,Acetic acid,MAPK1
+4286,62860,1409,4-Methylpentan-2-one,MAPK1
+4251,62860,3400,4-Methylpentan-2-one,MAPK11
+4285,62860,2265,4-Methylpentan-2-one,MAPK12
+2529,3967,3401,Quercetin,MAPK13
+4284,62860,3401,4-Methylpentan-2-one,MAPK13
+2397,3967,1677,Quercetin,MAPK14
+4279,62860,1677,4-Methylpentan-2-one,MAPK14
+2038,3967,1179,Quercetin,MAPK3
+3662,35084,1179,Calycosin,MAPK3
+3790,32446,1179,beta-Ionone,MAPK3
+4175,9210,1179,Acetic acid,MAPK3
+4270,62860,1179,4-Methylpentan-2-one,MAPK3
+4227,62860,4941,4-Methylpentan-2-one,MAPK4
+4271,62860,4940,4-Methylpentan-2-one,MAPK6
+4259,62860,4942,4-Methylpentan-2-one,MAPK7
+713,3967,1699,Quercetin,MAPK8
+3991,36175,1699,Arbutin,MAPK8
+3251,2414,1473,gamma-Aminobutyric acid,MAPT
+3796,32446,3937,beta-Ionone,MARK3
+4269,62860,4584,4-Methylpentan-2-one,MARS
+494,3967,243,Quercetin,MAT1A
+2813,8019,242,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MAT2A
+3361,2414,3882,gamma-Aminobutyric acid,MC4R
+3038,42444,3895,Melanin,MCHR1
+3487,2414,3895,gamma-Aminobutyric acid,MCHR1
+3015,42444,4348,Melanin,MCHR2
+3416,2414,4348,gamma-Aminobutyric acid,MCHR2
+594,3967,3874,Quercetin,MCL1
+3664,35084,4285,Calycosin,MCM6
+3993,36175,5860,Arbutin,MDFI
+2174,3967,5861,Quercetin,MDFIC
+727,3967,4245,Quercetin,MDK
+34,3967,2464,Quercetin,MDM2
+3296,2414,563,gamma-Aminobutyric acid,ME2
+4246,62860,5862,4-Methylpentan-2-one,MEF2A
+4224,62860,5863,4-Methylpentan-2-one,MEF2C
+4265,62860,5859,4-Methylpentan-2-one,MEF2D
+4176,9210,2045,Acetic acid,MET
+4293,68516,2740,1-Tetradecanol,MGAT1
+1940,3967,466,Quercetin,MGST2
+3996,36175,5557,Arbutin,MKI67
+2907,8019,5297,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MLH1
+1196,3967,1272,Quercetin,MMP1
+1787,3967,1278,Quercetin,MMP10
+2521,3967,1279,Quercetin,MMP11
+2142,3967,1280,Quercetin,MMP13
+2489,3967,1273,Quercetin,MMP2
+3780,32701,1273,Betulin,MMP2
+1539,3967,1274,Quercetin,MMP3
+2143,3967,1275,Quercetin,MMP7
+493,3967,1277,Quercetin,MMP9
+4177,9210,1277,Acetic acid,MMP9
+2106,3967,218,Quercetin,MOCOS
+4226,62860,4372,4-Methylpentan-2-one,MOG
+2740,8019,5889,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MOK
+2433,3967,929,Quercetin,MPO
+3740,9091,929,Caffeic acid,MPO
+4179,9210,929,Acetic acid,MPO
+2375,3967,4456,Quercetin,MSH2
+2097,3967,677,Quercetin,MSMO1
+1067,3967,5799,Quercetin,MTA1
+2946,42444,771,Melanin,MTAP
+2923,8019,231,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFD1
+2680,8019,232,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFD2
+2649,8019,230,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFR
+2656,8019,5930,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTHFS
+3354,2414,1368,gamma-Aminobutyric acid,MTNR1A
+3471,2414,1369,gamma-Aminobutyric acid,MTNR1B
+693,3967,1024,Quercetin,MTOR
+665,3967,225,Quercetin,MTR
+2653,8019,225,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTR
+2857,8019,227,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MTRR
+1939,3967,1423,Quercetin,MTTP
+2843,8019,226,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MUT
+1522,3967,4248,Quercetin,MVD
+4000,36175,4248,Arbutin,MVD
+977,3967,3867,Quercetin,MYB
+2697,8019,3797,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,MYC
+196,3967,4604,Quercetin,MYD88
+4180,9210,5858,Acetic acid,MYF5
+2493,3967,3748,Quercetin,MYL12A
+1792,3967,5285,Quercetin,MYL9
+716,3967,4446,Quercetin,MYLK
+1431,3967,5273,Quercetin,MYO1B
+4001,36175,5262,Arbutin,MYO3B
+166,3967,5283,Quercetin,MYO5A
+2939,42444,5283,Melanin,MYO5A
+4181,9210,5855,Acetic acid,MYOD1
+1606,3967,5836,Quercetin,NAA15
+1239,3967,4585,Quercetin,NAALAD2
+2790,8019,4585,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAALAD2
+2750,8019,5209,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAALADL1
+2427,3967,397,Quercetin,NAGLU
+1661,3967,430,Quercetin,NAGS
+2451,3967,3413,Quercetin,NAMPT
+4182,9210,3413,Acetic acid,NAMPT
+2804,8019,5850,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAT1
+2837,8019,4776,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NAT2
+1850,3967,5831,Quercetin,NAT8
+1225,3967,1552,Quercetin,NCOA1
+83,3967,1553,Quercetin,NCOA2
+2092,3967,5793,Quercetin,NDC80
+3086,37864,4866,Glucuronic acid,NDST2
+86,3967,648,Quercetin,NDUFA3
+986,3967,643,Quercetin,NDUFA4
+1293,3967,39112,Quercetin,NDUFC2-KCTD14
+2373,3967,652,Quercetin,NDUFS1
+333,3967,4036,Quercetin,NEDD9
+649,3967,3535,Quercetin,NEK2
+4004,36175,4879,Arbutin,NEU4
+187,3967,4068,Quercetin,NFE2L2
+2423,3967,1396,Quercetin,NFKB1
+3791,32446,1396,beta-Ionone,NFKB1
+2553,3967,1363,Quercetin,NFKB2
+2504,3967,1362,Quercetin,NFKBIA
+3187,2414,1515,gamma-Aminobutyric acid,NGF
+3665,35084,2068,Calycosin,NME1
+2701,8019,2630,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NMNAT1
+2767,8019,2342,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NMNAT3
+3535,35949,5854,Dioctyl phthalate,NMRK2
+362,3967,2067,Quercetin,NMT2
+3123,2414,4669,gamma-Aminobutyric acid,NOP2
+1229,3967,541,Quercetin,NOS1
+3298,2414,541,gamma-Aminobutyric acid,NOS1
+1134,3967,285,Quercetin,NOS2
+3792,32446,285,beta-Ionone,NOS2
+4188,9210,285,Acetic acid,NOS2
+4253,62860,285,4-Methylpentan-2-one,NOS2
+1581,3967,283,Quercetin,NOS3
+2640,34516,283,Neochanin,NOS3
+2824,8019,283,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NOS3
+3744,9091,283,Caffeic acid,NOS3
+3494,2414,2494,gamma-Aminobutyric acid,NPY
+687,3967,3360,Quercetin,NPY1R
+3204,2414,3360,gamma-Aminobutyric acid,NPY1R
+3273,2414,1321,gamma-Aminobutyric acid,NPY2R
+3165,2414,3873,gamma-Aminobutyric acid,NPY4R
+3256,2414,3361,gamma-Aminobutyric acid,NPY5R
+1246,3967,724,Quercetin,NQO1
+1014,3967,624,Quercetin,NQO2
+3075,37864,624,Glucuronic acid,NQO2
+2223,3967,4462,Quercetin,NR0B2
+1302,3967,2305,Quercetin,NR1H4
+1035,3967,705,Quercetin,NR1I2
+615,3967,1614,Quercetin,NR1I3
+4008,36175,5065,Arbutin,NR2F1
+2385,3967,779,Quercetin,NR3C1
+2909,8019,779,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NR3C1
+2324,3967,4069,Quercetin,NR4A1
+551,3967,601,Quercetin,NSDHL
+2173,3967,1299,Quercetin,NT5E
+3101,2414,3377,gamma-Aminobutyric acid,NTF3
+4010,36175,3379,Arbutin,NTF4
+3419,2414,1006,gamma-Aminobutyric acid,NTRK2
+3207,2414,5313,gamma-Aminobutyric acid,NTRK3
+2872,8019,5571,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,NUDT15
+1479,3967,2180,Quercetin,NUDT9
+3349,2414,2180,gamma-Aminobutyric acid,NUDT9
+2407,3967,5588,Quercetin,OAS3
+516,3967,5687,Quercetin,OMA1
+3498,2414,819,gamma-Aminobutyric acid,OPRD1
+3437,2414,818,gamma-Aminobutyric acid,OPRK1
+3259,2414,1522,gamma-Aminobutyric acid,OPRL1
+3105,2414,816,gamma-Aminobutyric acid,OPRM1
+3811,32446,4469,beta-Ionone,OR51E2
+2151,3967,1109,Quercetin,ORM1
+1613,3967,5061,Quercetin,OSBPL11
+4013,36175,5061,Arbutin,OSBPL11
+2117,3967,5054,Quercetin,OSBPL8
+3518,2414,161,gamma-Aminobutyric acid,OXT
+1175,3967,160,Quercetin,OXTR
+3244,2414,5727,gamma-Aminobutyric acid,P2RX2
+3334,2414,857,gamma-Aminobutyric acid,P2RY12
+3329,2414,5722,gamma-Aminobutyric acid,P2RY14
+1365,3967,3331,Quercetin,P2RY2
+3162,2414,5723,gamma-Aminobutyric acid,P2RY4
+2016,3967,296,Quercetin,P4HA1
+1129,3967,2818,Quercetin,P4HB
+1809,3967,2223,Quercetin,PAEP
+3348,2414,5022,gamma-Aminobutyric acid,PAFAH1B2
+3457,2414,3635,gamma-Aminobutyric acid,PAFAH1B3
+1485,3967,259,Quercetin,PAH
+2999,42444,259,Melanin,PAH
+911,3967,4995,Quercetin,PAQR5
+657,3967,2285,Quercetin,PARP1
+2736,8019,2285,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PARP1
+395,3967,269,Quercetin,PCCA
+1245,3967,1739,Quercetin,PCK1
+344,3967,4184,Quercetin,PCNA
+4194,9210,4184,Acetic acid,PCNA
+389,3967,5157,Quercetin,PCSK5
+1488,3967,4635,Quercetin,PCSK9
+4260,62860,3468,4-Methylpentan-2-one,PDCD1
+848,3967,1216,Quercetin,PDE4C
+3823,32446,5580,beta-Ionone,PDE6A
+3807,32446,5565,beta-Ionone,PDE6C
+2180,3967,155,Quercetin,PDGFRA
+2585,3967,3767,Quercetin,PDK2
+114,3967,2865,Quercetin,PDK3
+2592,3967,3741,Quercetin,PDK4
+3519,2414,5629,gamma-Aminobutyric acid,PDYN
+4195,9210,4391,Acetic acid,PECAM1
+1948,3967,766,Quercetin,PECR
+2877,8019,4294,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PEMT
+3290,2414,5768,gamma-Aminobutyric acid,PENK
+3036,42444,4430,Melanin,PEPD
+630,3967,4891,Quercetin,PEX3
+4022,36175,119,Arbutin,PF4
+2794,8019,408,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PFAS
+324,3967,5289,Quercetin,PFKFB3
+2382,3967,3198,Quercetin,PFKFB4
+4256,62860,4774,4-Methylpentan-2-one,PGA5
+461,3967,2930,Quercetin,PGK1
+524,3967,2453,Quercetin,PGM1
+3539,49506,5794,DIISOOCTYL PHTHALATE,PHF21A
+584,3967,577,Quercetin,PHGDH
+2004,3967,845,Quercetin,PIK3CA
+1698,3967,846,Quercetin,PIK3CB
+375,3967,844,Quercetin,PIK3CD
+7,3967,1959,Quercetin,PIK3CG
+3746,9091,1410,Caffeic acid,PIK3R1
+12,3967,343,Quercetin,PIM1
+3804,32446,343,beta-Ionone,PIM1
+3799,32446,4095,beta-Ionone,PIM2
+4025,36175,1679,Arbutin,PIN1
+1283,3967,508,Quercetin,PIPOX
+3307,2414,508,gamma-Aminobutyric acid,PIPOX
+1238,3967,252,Quercetin,PKM
+2061,3967,5362,Quercetin,PKMYT1
+3018,42444,5375,Melanin,PKN3
+1333,3967,1298,Quercetin,PLA2G1B
+412,3967,1012,Quercetin,PLA2G2A
+2476,3967,30,Quercetin,PLAT
+2919,8019,30,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PLAT
+480,3967,29,Quercetin,PLAU
+1007,3967,4502,Quercetin,PLCB1
+2318,3967,5211,Quercetin,PLCG1
+2801,8019,23,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PLG
+1536,3967,3511,Quercetin,PLK1
+3747,9091,3511,Caffeic acid,PLK1
+1748,3967,291,Quercetin,PLOD2
+492,3967,4220,Quercetin,PLTP
+2651,8019,926,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PNP
+3668,35084,179,Calycosin,PNPO
+345,3967,921,Quercetin,POLA1
+1943,3967,1370,Quercetin,POLB
+1200,3967,922,Quercetin,POLE
+2507,3967,923,Quercetin,POLE2
+4028,36175,923,Arbutin,POLE2
+3536,35949,3560,Dioctyl phthalate,POLK
+3021,42444,1318,Melanin,POMC
+3444,2414,1318,gamma-Aminobutyric acid,POMC
+2453,3967,1499,Quercetin,PON1
+3045,42444,1499,Melanin,PON1
+2450,3967,5145,Quercetin,PON2
+4197,9210,2549,Acetic acid,POR
+2864,8019,1015,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PPARA
+3533,35949,1015,Dioctyl phthalate,PPARA
+1707,3967,684,Quercetin,PPARG
+2641,34516,684,Neochanin,PPARG
+3749,9091,684,Caffeic acid,PPARG
+1971,3967,4978,Quercetin,PPARGC1A
+3381,2414,2820,gamma-Aminobutyric acid,PPBP
+923,3967,2649,Quercetin,PPCDC
+24,3967,143,Quercetin,PPIA
+3622,53911,143,Cymene,PPIA
+3623,53911,39069,Cymene,PPIAL4G
+1475,3967,4519,Quercetin,PPID
+3636,53911,144,Cymene,PPIF
+1426,3967,4369,Quercetin,PPM1D
+3263,2414,2059,gamma-Aminobutyric acid,PPP1CC
+3480,2414,5801,gamma-Aminobutyric acid,PPP1R1B
+212,3967,3707,Quercetin,PPP3CA
+3508,2414,5553,gamma-Aminobutyric acid,PPY
+3669,35084,5183,Calycosin,PRDX1
+1512,3967,2052,Quercetin,PRDX2
+3670,35084,2052,Calycosin,PRDX2
+338,3967,5186,Quercetin,PRDX4
+3061,37864,5186,Glucuronic acid,PRDX4
+1942,3967,1372,Quercetin,PRDX5
+3750,9091,1372,Caffeic acid,PRDX5
+590,3967,1584,Quercetin,PREP
+4030,36175,44,Arbutin,PRG2
+3832,32446,350,beta-Ionone,PRKAA1
+3805,32446,5106,beta-Ionone,PRKAA2
+2401,3967,345,Quercetin,PRKAB1
+2224,3967,351,Quercetin,PRKAB2
+2992,42444,1819,Melanin,PRKACA
+2958,42444,2261,Melanin,PRKACB
+2947,42444,5772,Melanin,PRKACG
+2839,8019,494,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCA
+3013,42444,494,Melanin,PRKCA
+2810,8019,706,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCB
+2996,42444,706,Melanin,PRKCB
+2778,8019,3177,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCD
+2982,42444,3177,Melanin,PRKCD
+2807,8019,3471,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCE
+2998,42444,3471,Melanin,PRKCE
+2862,8019,3866,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCG
+3022,42444,3866,Melanin,PRKCG
+2983,42444,4664,Melanin,PRKCH
+1625,3967,2872,Quercetin,PRKCI
+2032,3967,1960,Quercetin,PRKCQ
+3032,42444,1960,Melanin,PRKCQ
+2695,8019,4313,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PRKCZ
+3155,2414,4313,gamma-Aminobutyric acid,PRKCZ
+3024,42444,5773,Melanin,PRKG2
+3355,2414,4250,gamma-Aminobutyric acid,PRL
+2366,3967,722,Quercetin,PROC
+2500,3967,121,Quercetin,PROCR
+3224,2414,752,gamma-Aminobutyric acid,PRODH
+217,3967,117,Quercetin,PROS1
+2679,8019,117,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PROS1
+1069,3967,201,Quercetin,PROSC
+1394,3967,1568,Quercetin,PRSS1
+4035,36175,1714,Arbutin,PRSS2
+391,3967,193,Quercetin,PSAT1
+4036,36175,4958,Arbutin,PSMD13
+1370,3967,809,Quercetin,PSMD2
+148,3967,4947,Quercetin,PSME4
+1822,3967,2685,Quercetin,PSPH
+501,3967,6497,Quercetin,PTEN
+2952,42444,6497,Melanin,PTEN
+3270,2414,1014,gamma-Aminobutyric acid,PTGDR2
+3226,2414,1338,gamma-Aminobutyric acid,PTGER3
+2069,3967,3370,Quercetin,PTGES3
+1345,3967,2779,Quercetin,PTGR1
+1902,3967,1013,Quercetin,PTGR2
+689,3967,537,Quercetin,PTGS1
+636,3967,538,Quercetin,PTGS2
+2731,8019,538,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PTGS2
+3751,9091,538,Caffeic acid,PTGS2
+3793,32446,538,beta-Ionone,PTGS2
+4199,9210,538,Acetic acid,PTGS2
+2840,8019,3206,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,PTH
+959,3967,3539,Quercetin,PTK2
+3250,2414,3539,gamma-Aminobutyric acid,PTK2
+1782,3967,2923,Quercetin,PTS
+3752,9091,4766,Caffeic acid,PTX3
+3521,2414,1843,gamma-Aminobutyric acid,PVALB
+614,3967,3945,Quercetin,PVRL4
+933,3967,615,Quercetin,PYCR2
+2501,3967,204,Quercetin,PYGB
+3210,2414,4536,gamma-Aminobutyric acid,PYY
+1769,3967,632,Quercetin,QDPR
+2841,8019,632,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,QDPR
+892,3967,3273,Quercetin,QPCT
+1328,3967,2011,Quercetin,RAB8B
+2591,3967,3154,Quercetin,RALA
+2213,3967,1490,Quercetin,RAMP1
+2226,3967,862,Quercetin,RARA
+1083,3967,859,Quercetin,RARB
+2777,8019,859,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,RARB
+2440,3967,5299,Quercetin,RARRES2
+2431,3967,4945,Quercetin,RASD1
+1910,3967,66,Quercetin,RB1
+3065,37864,5904,Glucuronic acid,RBP2
+3810,32446,5901,beta-Ionone,RBP4
+3063,37864,5902,Glucuronic acid,RBP7
+1903,3967,693,Quercetin,RDH12
+3822,32446,584,beta-Ionone,RDH5
+1644,3967,4618,Quercetin,REL
+146,3967,4192,Quercetin,RELA
+3781,32701,4192,Betulin,RELA
+3794,32446,4192,beta-Ionone,RELA
+4200,9210,4192,Acetic acid,RELA
+1624,3967,695,Quercetin,RETSAT
+2597,71802,695,Phoenicoxanthin,RETSAT
+758,3967,4905,Quercetin,REV3L
+2360,3967,4093,Quercetin,RGS2
+3121,2414,4094,gamma-Aminobutyric acid,RGS6
+3005,42444,1454,Melanin,RHO
+3379,2414,1454,gamma-Aminobutyric acid,RHO
+3816,32446,1454,beta-Ionone,RHO
+2479,3967,4657,Quercetin,RIPK2
+3025,42444,704,Melanin,RLBP1
+1279,3967,3666,Quercetin,ROCK2
+1385,3967,2272,Quercetin,RPL15
+329,3967,1361,Quercetin,RPS6KA3
+4044,36175,1361,Arbutin,RPS6KA3
+2072,3967,5509,Quercetin,RPS6KA5
+3572,2687,3357,Decane,RPSA
+1541,3967,5658,Quercetin,RRAD
+2299,3967,5653,Quercetin,RRAS
+1525,3967,918,Quercetin,RRM1
+1492,3967,919,Quercetin,RRM2
+4255,62860,919,4-Methylpentan-2-one,RRM2
+2258,3967,920,Quercetin,RRM2B
+4277,62860,920,4-Methylpentan-2-one,RRM2B
+726,3967,860,Quercetin,RXRG
+3573,2687,841,Decane,RYR1
+3564,2687,4697,Decane,RYR2
+1673,3967,1264,Quercetin,S100A1
+1858,3967,2264,Quercetin,S100A11
+893,3967,1267,Quercetin,S100A13
+603,3967,1268,Quercetin,S100A2
+602,3967,5896,Quercetin,S100A3
+601,3967,5899,Quercetin,S100A6
+1611,3967,1373,Quercetin,S100P
+3343,2414,3932,gamma-Aminobutyric acid,S1PR1
+3286,2414,3426,gamma-Aminobutyric acid,S1PR5
+2756,8019,125,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SAA1
+1674,3967,5060,Quercetin,SAFB
+2251,3967,5053,Quercetin,SAFB2
+1276,3967,2717,Quercetin,SCMH1
+408,3967,944,Quercetin,SCN1A
+3161,2414,944,gamma-Aminobutyric acid,SCN1A
+3103,2414,1342,gamma-Aminobutyric acid,SCN1B
+4048,36175,1342,Arbutin,SCN1B
+3237,2414,3416,gamma-Aminobutyric acid,SCN8A
+129,3967,927,Quercetin,SCN9A
+4298,9535,927,(+)-Saxitoxin,SCN9A
+2408,3967,1055,Quercetin,SCNN1A
+1419,3967,43,Quercetin,SDC2
+617,3967,372,Quercetin,SDHC
+4051,36175,32,Arbutin,SERPINA5
+928,3967,4693,Quercetin,SERPINA6
+1118,3967,5780,Quercetin,SERPINA7
+1545,3967,31,Quercetin,SERPINB2
+1744,3967,2937,Quercetin,SERPINB3
+623,3967,1077,Quercetin,SERPINC1
+2729,8019,1077,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SERPINC1
+2523,3967,1078,Quercetin,SERPIND1
+3060,37864,1078,Glucuronic acid,SERPIND1
+4052,36175,1078,Arbutin,SERPIND1
+2444,3967,26,Quercetin,SERPINE1
+2212,3967,3930,Quercetin,SERPINF1
+1210,3967,3821,Quercetin,SERPINF2
+620,3967,2668,Quercetin,SGK1
+3170,2414,180,gamma-Aminobutyric acid,SGPL1
+885,3967,3480,Quercetin,SH2B3
+304,3967,1084,Quercetin,SHBG
+2792,8019,172,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SHMT1
+2774,8019,207,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SHMT2
+2526,3967,3380,Quercetin,SIRT1
+3673,35084,1641,Calycosin,SKP1
+1836,3967,4459,Quercetin,SKP2
+3674,35084,4459,Calycosin,SKP2
+2068,3967,5806,Quercetin,SLC11A2
+3558,2687,868,Decane,SLC12A1
+2053,3967,1256,Quercetin,SLC12A2
+3599,2687,1256,Decane,SLC12A2
+3602,2687,1091,Decane,SLC12A3
+1271,3967,1260,Quercetin,SLC12A4
+3305,2414,1260,gamma-Aminobutyric acid,SLC12A4
+3576,2687,1260,Decane,SLC12A4
+3111,2414,1257,gamma-Aminobutyric acid,SLC12A5
+3560,2687,1257,Decane,SLC12A5
+3569,2687,1258,Decane,SLC12A6
+3593,2687,1259,Decane,SLC12A7
+3556,2687,5777,Decane,SLC12A8
+3590,2687,5778,Decane,SLC12A9
+4058,36175,380,Arbutin,SLC13A2
+1657,3967,4513,Quercetin,SLC13A5
+575,3967,255,Quercetin,SLC16A1
+2723,8019,255,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC16A1
+233,3967,245,Quercetin,SLC16A3
+569,3967,253,Quercetin,SLC16A4
+1241,3967,249,Quercetin,SLC16A6
+2116,3967,250,Quercetin,SLC16A7
+3454,2414,5115,gamma-Aminobutyric acid,SLC17A6
+3513,2414,5110,gamma-Aminobutyric acid,SLC17A7
+3310,2414,5123,gamma-Aminobutyric acid,SLC17A8
+3365,2414,782,gamma-Aminobutyric acid,SLC18A2
+4060,36175,782,Arbutin,SLC18A2
+3168,2414,5129,gamma-Aminobutyric acid,SLC18A3
+2802,8019,5632,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC19A1
+2905,8019,536,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC19A2
+2165,3967,532,Quercetin,SLC19A3
+2873,8019,532,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC19A3
+3458,2414,326,gamma-Aminobutyric acid,SLC1A1
+1801,3967,416,Quercetin,SLC1A2
+3418,2414,416,gamma-Aminobutyric acid,SLC1A2
+3441,2414,415,gamma-Aminobutyric acid,SLC1A3
+3512,2414,418,gamma-Aminobutyric acid,SLC1A6
+2311,3967,1164,Quercetin,SLC22A5
+2698,8019,1387,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC22A6
+1790,3967,5341,Quercetin,SLC22A9
+2609,3510,5113,Pentadecane,SLC24A1
+3029,42444,5113,Melanin,SLC24A1
+2620,3510,5130,Pentadecane,SLC24A2
+2616,3510,5126,Pentadecane,SLC24A3
+2619,3510,5127,Pentadecane,SLC24A5
+2981,42444,5127,Melanin,SLC24A5
+2598,71802,376,Phoenicoxanthin,SLC25A10
+110,3967,321,Quercetin,SLC25A12
+4062,36175,334,Arbutin,SLC25A2
+1147,3967,1167,Quercetin,SLC25A20
+877,3967,5131,Quercetin,SLC26A3
+507,3967,826,Quercetin,SLC29A1
+466,3967,5776,Quercetin,SLC29A3
+37,3967,4540,Quercetin,SLC2A1
+1184,3967,1086,Quercetin,SLC2A2
+2786,8019,1086,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC2A2
+3754,9091,4436,Caffeic acid,SLC2A4
+3517,2414,507,gamma-Aminobutyric acid,SLC32A1
+2295,3967,5927,Quercetin,SLC35A2
+2888,8019,5927,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC35A2
+3493,2414,504,gamma-Aminobutyric acid,SLC36A1
+3267,2414,5641,gamma-Aminobutyric acid,SLC36A2
+3157,2414,5640,gamma-Aminobutyric acid,SLC36A3
+174,3967,5639,Quercetin,SLC38A1
+2187,3967,5828,Quercetin,SLC38A2
+1922,3967,5649,Quercetin,SLC38A4
+2120,3967,3994,Quercetin,SLC40A1
+314,3967,5118,Quercetin,SLC4A11
+3534,35949,4562,Dioctyl phthalate,SLC5A5
+2835,8019,1339,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A1
+3406,2414,1339,gamma-Aminobutyric acid,SLC6A1
+2218,3967,3814,Quercetin,SLC6A11
+2881,8019,3814,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A11
+3478,2414,3814,gamma-Aminobutyric acid,SLC6A11
+731,3967,3815,Quercetin,SLC6A12
+2746,8019,3815,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A12
+3212,2414,3815,gamma-Aminobutyric acid,SLC6A12
+2769,8019,3813,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A13
+3257,2414,3813,gamma-Aminobutyric acid,SLC6A13
+2693,8019,786,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A2
+3148,2414,786,gamma-Aminobutyric acid,SLC6A2
+2847,8019,783,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A3
+3430,2414,783,gamma-Aminobutyric acid,SLC6A3
+2083,3967,776,Quercetin,SLC6A4
+2867,8019,776,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A4
+3462,2414,776,gamma-Aminobutyric acid,SLC6A4
+2819,8019,509,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A5
+2910,8019,762,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A7
+2238,3967,520,Quercetin,SLC6A8
+2600,71802,520,Phoenicoxanthin,SLC6A8
+2883,8019,520,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A8
+2711,8019,510,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLC6A9
+3173,2414,510,gamma-Aminobutyric acid,SLC6A9
+3146,2414,278,gamma-Aminobutyric acid,SLC7A1
+3620,2687,278,Decane,SLC7A1
+3615,2687,5648,Decane,SLC7A10
+1778,3967,368,Quercetin,SLC7A11
+3592,2687,368,Decane,SLC7A11
+3586,2687,5633,Decane,SLC7A13
+3125,2414,281,gamma-Aminobutyric acid,SLC7A2
+3555,2687,281,Decane,SLC7A2
+3367,2414,280,gamma-Aminobutyric acid,SLC7A3
+3583,2687,280,Decane,SLC7A3
+4064,36175,280,Arbutin,SLC7A3
+3141,2414,279,gamma-Aminobutyric acid,SLC7A4
+3557,2687,279,Decane,SLC7A4
+2089,3967,4355,Quercetin,SLC7A5
+3598,2687,4355,Decane,SLC7A5
+3614,2687,5647,Decane,SLC7A6
+3596,2687,5637,Decane,SLC7A7
+3575,2687,257,Decane,SLC7A8
+2578,3967,370,Quercetin,SLC7A9
+3613,2687,370,Decane,SLC7A9
+2615,3510,358,Pentadecane,SLC8A1
+2613,3510,5109,Pentadecane,SLC8B1
+679,3967,5136,Quercetin,SLC9A8
+2808,8019,5335,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLCO1A2
+2930,8019,5340,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SLCO1C1
+1691,3967,1403,Quercetin,SLCO2B1
+2497,3967,5229,Quercetin,SLCO4A1
+1375,3967,5346,Quercetin,SLCO4C1
+3782,32701,6045,Betulin,SMAD3
+2063,3967,4656,Quercetin,SMAD7
+1718,3967,4103,Quercetin,SMC2
+1417,3967,313,Quercetin,SMOX
+606,3967,5566,Quercetin,SMPDL3A
+627,3967,1364,Quercetin,SOAT1
+1513,3967,1422,Quercetin,SOAT2
+1872,3967,2730,Quercetin,SOD1
+1024,3967,2687,Quercetin,SOD2
+2771,8019,2687,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SOD2
+2979,42444,2687,Melanin,SOD2
+1600,3967,4767,Quercetin,SPINK1
+2825,8019,4767,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,SPINK1
+805,3967,1508,Quercetin,SPTBN1
+4070,36175,197,Arbutin,SPTLC1
+170,3967,222,Quercetin,SPTLC3
+1929,3967,1246,Quercetin,SQLE
+772,3967,1476,Quercetin,SRC
+835,3967,4480,Quercetin,SREBF1
+3407,2414,1320,gamma-Aminobutyric acid,SST
+4204,9210,1320,Acetic acid,SST
+3434,2414,157,gamma-Aminobutyric acid,SSTR1
+3221,2414,159,gamma-Aminobutyric acid,SSTR2
+3477,2414,3872,gamma-Aminobutyric acid,SSTR4
+3393,2414,158,gamma-Aminobutyric acid,SSTR5
+3625,53911,3464,Cymene,ST3GAL5
+697,3967,3889,Quercetin,STAT1
+1685,3967,4608,Quercetin,STC1
+1958,3967,4102,Quercetin,STC2
+1586,3967,3988,Quercetin,STEAP1
+1706,3967,4262,Quercetin,STEAP2
+16,3967,3077,Quercetin,STK17B
+55,3967,3960,Quercetin,STMN1
+1415,3967,382,Quercetin,SUCLG2
+724,3967,4888,Quercetin,SULF2
+1208,3967,1723,Quercetin,SULT1A1
+3757,9091,1723,Caffeic acid,SULT1A1
+999,3967,4884,Quercetin,SULT1A2
+3758,9091,4884,Caffeic acid,SULT1A2
+3760,9091,4861,Caffeic acid,SULT1C2
+2424,3967,1462,Quercetin,SULT1E1
+2462,3967,1611,Quercetin,SULT2A1
+3511,2414,1611,gamma-Aminobutyric acid,SULT2A1
+1078,3967,4883,Quercetin,SULT4A1
+1913,3967,2958,Quercetin,SUOX
+3189,2414,1468,gamma-Aminobutyric acid,SV2A
+3384,2414,1564,gamma-Aminobutyric acid,SYN1
+2037,3967,74,Quercetin,SYTL4
+3350,2414,1220,gamma-Aminobutyric acid,TACR1
+3100,2414,5494,gamma-Aminobutyric acid,TAP1
+4208,9210,181,Acetic acid,TAT
+2874,8019,835,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TCN1
+4077,36175,835,Arbutin,TCN1
+2924,8019,4889,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TCN2
+4209,9210,4632,Acetic acid,TDGF1
+360,3967,4110,Quercetin,TDP2
+1379,3967,1119,Quercetin,TERT
+4210,9210,1119,Acetic acid,TERT
+2374,3967,85,Quercetin,TFPI
+720,3967,4628,Quercetin,TFRC
+2745,8019,4628,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TFRC
+2465,3967,127,Quercetin,TGFB1
+3783,32701,127,Betulin,TGFB1
+4080,36175,2696,Arbutin,TGFB3
+755,3967,2988,Quercetin,TGFBR2
+2944,42444,262,Melanin,TH
+3145,2414,262,gamma-Aminobutyric acid,TH
+4212,9210,262,Acetic acid,TH
+2702,8019,116,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,THBD
+392,3967,183,Quercetin,THNSL1
+2607,71802,4144,Phoenicoxanthin,TKT
+2665,8019,4144,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TKT
+2601,71802,39009,Phoenicoxanthin,TKTL2
+4081,36175,5665,Arbutin,TLL1
+437,3967,1463,Quercetin,TLR4
+85,3967,17,Quercetin,TNF
+2670,8019,17,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TNF
+2936,42444,17,Melanin,TNF
+3761,9091,17,Caffeic acid,TNF
+3795,32446,17,beta-Ionone,TNF
+4213,9210,17,Acetic acid,TNF
+2473,3967,3934,Quercetin,TNFRSF10A
+1815,3967,3466,Quercetin,TNFRSF10B
+1878,3967,4685,Quercetin,TNFRSF11A
+2567,3967,2794,Quercetin,TNFRSF1A
+396,3967,18,Quercetin,TNFRSF1B
+2705,8019,18,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TNFRSF1B
+2246,3967,5030,Quercetin,TNNI2
+50,3967,881,Quercetin,TOP2A
+92,3967,1049,Quercetin,TOP2B
+1881,3967,1360,Quercetin,TP53
+2850,8019,1360,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TP53
+3033,42444,1360,Melanin,TP53
+3762,9091,1360,Caffeic acid,TP53
+3143,2414,4108,gamma-Aminobutyric acid,TP53BP1
+570,3967,4404,Quercetin,TPBG
+3485,2414,1033,gamma-Aminobutyric acid,TPH1
+191,3967,1603,Quercetin,TPI1
+2796,8019,1474,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TPMT
+2588,3967,3733,Quercetin,TRAPPC6A
+4085,36175,5050,Arbutin,TREH
+939,3967,5886,Quercetin,TRPV2
+1120,3967,808,Quercetin,TSPO
+2782,8019,808,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TSPO
+2987,42444,808,Melanin,TSPO
+3283,2414,808,gamma-Aminobutyric acid,TSPO
+2282,3967,2416,Quercetin,TST
+13,3967,2785,Quercetin,ttgR
+2391,3967,1700,Quercetin,TTK
+2356,3967,3940,Quercetin,TTR
+2901,8019,3940,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TTR
+1519,3967,1126,Quercetin,TUBA1A
+3077,37864,1137,Glucuronic acid,TUBA4A
+2146,3967,3395,Quercetin,TUBB2B
+2989,42444,1788,Melanin,TUBB3
+1266,3967,3396,Quercetin,TUBB6
+1228,3967,1158,Quercetin,TUBD1
+1204,3967,3141,Quercetin,TUFM
+3581,2687,3141,Decane,TUFM
+49,3967,1460,Quercetin,TXNRD1
+2887,8019,2355,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TYMP
+1300,3967,983,Quercetin,TYMS
+2659,8019,983,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,TYMS
+2022,3967,681,Quercetin,TYR
+3023,42444,681,Melanin,TYR
+3451,2414,681,gamma-Aminobutyric acid,TYR
+3763,9091,681,Caffeic acid,TYR
+4091,36175,681,Arbutin,TYR
+699,3967,3927,Quercetin,UBA3
+3677,35084,4517,Calycosin,UBE3A
+410,3967,3354,Quercetin,UBR4
+1337,3967,4140,Quercetin,UCP2
+433,3967,1082,Quercetin,UGCG
+456,3967,5923,Quercetin,UGT1A5
+863,3967,3265,Quercetin,UGT1A9
+2646,34516,3265,Neochanin,UGT1A9
+3083,37864,5914,Glucuronic acid,UGT2B17
+1447,3967,5919,Quercetin,UGT2B4
+1457,3967,4868,Quercetin,UGT2B7
+8,3967,1759,Quercetin,UGT3A1
+3039,42444,2467,Melanin,UMPS
+2896,8019,3522,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,UNG
+2301,3967,2851,Quercetin,UROD
+2890,8019,2851,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,UROD
+3315,2414,99,gamma-Aminobutyric acid,VAMP2
+1357,3967,4322,Quercetin,VANGL1
+2799,8019,4322,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,VANGL1
+1650,3967,1445,Quercetin,VCAM1
+1947,3967,1511,Quercetin,VDAC1
+2911,8019,367,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,VDR
+498,3967,166,Quercetin,VEGFA
+3528,32304,166,Friedelin,VEGFA
+3678,35084,166,Calycosin,VEGFA
+1135,3967,3908,Quercetin,VIPR1
+260,3967,5238,Quercetin,VLDLR
+2426,3967,113,Quercetin,VTN
+2868,8019,49,N-(4-{[(2-Amino-4-hydroxypteridin-6-yl)methyl]amino}benzoyl)glutamic acid,VWF
+4215,9210,4385,Acetic acid,WT1
+335,3967,1092,Quercetin,XDH
+3769,9091,1092,Caffeic acid,XDH
+4216,9210,1092,Acetic acid,XDH
+843,3967,2354,Quercetin,XIAP
+3626,53911,5559,Cymene,XRCC6
+3169,2414,366,gamma-Aminobutyric acid,YARS
+1231,3967,365,Quercetin,YARS2
+1023,3967,5178,Quercetin,ZFYVE16
+481,3967,4892,Quercetin,ZMPSTE24
+1469,3967,4659,Quercetin,ZNF217
+4230,62860,5786,4-Methylpentan-2-one,ZNF384

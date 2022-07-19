@@ -1,0 +1,327 @@
+FH1: TOM formula 1 known to treat Hypertension,,,,
+Idx,compID,geneID,CompName_afterADMET,GeneSymbol
+26,57137,727,Gallic acid,ABCB1
+27,32326,743,Oleanolic acid,ABCB11
+28,5822,5487,(E)-Isoferulic acid,ABCB6
+29,5822,5482,(E)-Isoferulic acid,ABCB7
+30,5822,5492,(E)-Isoferulic acid,ABCE1
+19,32326,3338,Oleanolic acid,ABCG2
+31,57137,751,Gallic acid,ABL1
+32,32487,270,ursolic acid,ACACA
+33,57137,5420,Gallic acid,ACAN
+20,37808,272,Cryptotanshinone,ACHE
+34,5822,5805,(E)-Isoferulic acid,ACO1
+35,5822,1632,(E)-Isoferulic acid,ACO2
+36,32487,765,ursolic acid,ACP1
+37,32326,765,Oleanolic acid,ACP1
+38,36229,3515,(S)-(-)-Rosmarinic acid,ADAM17
+39,5822,558,(E)-Isoferulic acid,ADH5
+40,5822,747,(E)-Isoferulic acid,AFG3L2
+41,35378,4424,Protocatechuic aldehyde,AGER
+42,32326,4424,Oleanolic acid,AGER
+43,57137,4424,Gallic acid,AGER
+44,37808,1048,Cryptotanshinone,AHR
+45,32487,2563,ursolic acid,AIFM1
+46,33430,559,Tanshinone IIA,AKR1B1
+47,66914,559,Salvianolicacid A,AKR1B1
+48,32487,738,ursolic acid,AKT1
+49,32326,738,Oleanolic acid,AKT1
+50,57137,738,Gallic acid,AKT1
+51,57137,1331,Gallic acid,ALAD
+11,57137,4730,Gallic acid,ALB
+52,33430,740,Tanshinone IIA,APAF1
+53,57137,3941,Gallic acid,APOB
+54,6159,1042,(2R)-3-Bromo-2-hydroxy-2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide,AR
+55,33430,4298,Tanshinone IIA,ATF3
+23,57137,848,Gallic acid,ATM
+56,9912,2266,cis-caffeic acid,AURKA
+57,32487,4943,ursolic acid,BAX
+58,33430,4943,Tanshinone IIA,BAX
+59,57137,4943,Gallic acid,BAX
+21,37808,275,Cryptotanshinone,BCHE
+60,32487,1404,ursolic acid,BCL2
+61,57137,1404,Gallic acid,BCL2
+62,57137,3481,Gallic acid,BCR
+15,57137,909,Gallic acid,CA1
+63,57137,1156,Gallic acid,CA12
+64,57137,1352,Gallic acid,CA13
+65,57137,1308,Gallic acid,CA14
+16,57137,910,Gallic acid,CA2
+66,57137,1309,Gallic acid,CA3
+67,57137,911,Gallic acid,CA4
+68,57137,1346,Gallic acid,CA5A
+69,57137,1347,Gallic acid,CA5B
+70,57137,1348,Gallic acid,CA6
+71,57137,999,Gallic acid,CA7
+72,57137,1155,Gallic acid,CA9
+73,5822,2320,(E)-Isoferulic acid,CAPNS1
+74,32487,1382,ursolic acid,CASP3
+75,33430,1382,Tanshinone IIA,CASP3
+76,32326,1382,Oleanolic acid,CASP3
+77,57137,1382,Gallic acid,CASP3
+78,32487,2731,ursolic acid,CASP7
+79,57137,2731,Gallic acid,CASP7
+80,32487,4256,ursolic acid,CASP8
+81,32326,4256,Oleanolic acid,CASP8
+82,57137,4256,Gallic acid,CASP8
+83,32487,1471,ursolic acid,CAT
+84,32326,1471,Oleanolic acid,CAT
+85,57137,1471,Gallic acid,CAT
+86,70634,4161,Caricaxanthin,CCNB1
+87,70634,4967,Caricaxanthin,CCNB2
+88,70634,4966,Caricaxanthin,CCNB3
+89,32487,1461,ursolic acid,CCND1
+90,33430,1461,Tanshinone IIA,CCND1
+91,32326,1461,Oleanolic acid,CCND1
+92,32487,4959,ursolic acid,CCND3
+93,32487,4441,ursolic acid,CCNE1
+94,57137,4441,Gallic acid,CCNE1
+95,70634,4973,Caricaxanthin,CCNG1
+96,70634,4970,Caricaxanthin,CCNG2
+97,70634,4960,Caricaxanthin,CCNI
+98,57137,2352,Gallic acid,CDC42
+99,32487,2400,ursolic acid,CDK4
+100,9912,2262,cis-caffeic acid,CDK7
+101,32487,4376,ursolic acid,CDKN1A
+102,32326,4376,Oleanolic acid,CDKN1A
+103,57137,4376,Gallic acid,CDKN1A
+104,32487,5462,ursolic acid,CDKN1B
+105,57137,5462,Gallic acid,CDKN1B
+106,57137,4251,Gallic acid,CEBPB
+12,33430,830,Tanshinone IIA,CES1
+107,70634,4823,Caricaxanthin,CH25H
+108,57137,912,Gallic acid,CHUK
+109,57137,518,Gallic acid,CKB
+110,57137,516,Gallic acid,CKM
+111,70634,38961,Caricaxanthin,CNTD2
+112,32326,105,Oleanolic acid,COL1A1
+113,57137,106,Gallic acid,COL2A1
+3,57137,244,Gallic acid,COMT
+114,70634,4841,Caricaxanthin,COQ6
+115,70634,2945,Caricaxanthin,CRP
+116,5822,952,(E)-Isoferulic acid,CRYZ
+117,54284,1678,1-(2-Isopropenyl-1-benzofuran-5-yl)ethanone,CSNK2A1
+118,54284,3587,1-(2-Isopropenyl-1-benzofuran-5-yl)ethanone,CSNK2A2
+119,32487,2927,ursolic acid,CTNNB1
+120,33030,2927,Corosolic acid,CTNNB1
+121,36229,4422,(S)-(-)-Rosmarinic acid,CXCL1
+122,32326,5749,Oleanolic acid,CXCL5
+123,33430,3447,Tanshinone IIA,CXCL8
+124,57137,3447,Gallic acid,CXCL8
+125,57137,1101,Gallic acid,CXCR4
+126,32487,1383,ursolic acid,CYCS
+127,57137,1383,Gallic acid,CYCS
+150,5822,3019,(E)-Isoferulic acid,CYTB
+151,5822,2771,(E)-Isoferulic acid,DECR1
+152,36229,1359,(S)-(-)-Rosmarinic acid,DNMT1
+153,5822,934,(E)-Isoferulic acid,DRD3
+154,33430,3443,Tanshinone IIA,EDN1
+155,32487,5521,ursolic acid,EIF2S1
+156,32487,4039,ursolic acid,EIF4EBP1
+157,32487,3552,ursolic acid,ERN1
+158,66914,947,Salvianolicacid A,ESR1
+159,66914,948,Salvianolicacid A,ESR2
+160,5822,3027,(E)-Isoferulic acid,ETFDH
+161,57137,4268,Gallic acid,FASLG
+162,70634,3431,Caricaxanthin,FDFT1
+163,70634,974,Caricaxanthin,FDPS
+164,5822,1215,(E)-Isoferulic acid,FDX1
+165,5822,2572,(E)-Isoferulic acid,FDXR
+166,5822,2363,(E)-Isoferulic acid,FECH
+167,5822,5374,(E)-Isoferulic acid,FES
+168,5822,1335,(E)-Isoferulic acid,FTH1
+169,5822,1336,(E)-Isoferulic acid,FTL
+170,5822,4771,(E)-Isoferulic acid,FTMT
+171,38071,893,2-Isopropyl-8,GABRA4
+172,38071,894,2-Isopropyl-8,GABRA5
+173,38071,895,2-Isopropyl-8,GABRA6
+174,32326,417,Oleanolic acid,GCLC
+175,32326,442,Oleanolic acid,GCLM
+176,70634,1072,Caricaxanthin,GGPS1
+177,32326,4324,Oleanolic acid,GHRL
+178,32326,2334,Oleanolic acid,GNAS
+179,32326,4686,Oleanolic acid,GPBAR1
+180,32326,192,Oleanolic acid,GPT
+181,32326,482,Oleanolic acid,GPX1
+182,57137,482,Gallic acid,GPX1
+183,5822,482,(E)-Isoferulic acid,GPX1
+184,57137,459,Gallic acid,GPX4
+185,57137,486,Gallic acid,GPX5
+186,57137,123,Gallic acid,GRB2
+187,54262,4505,Methyl 9-methyl-2,GREM1
+188,57137,471,Gallic acid,GSR
+189,70634,471,Caricaxanthin,GSR
+190,32326,2306,Oleanolic acid,HDAC1
+191,57137,1447,Gallic acid,HIF1A
+192,32326,3465,Oleanolic acid,HMGB1
+193,32326,678,Oleanolic acid,HMOX1
+194,9224,1027,Ethyl radical,HPD
+195,5822,3880,(E)-Isoferulic acid,HPSE
+196,5822,5926,(E)-Isoferulic acid,HPSE2
+197,32487,52,ursolic acid,HSPA5
+198,5822,4374,(E)-Isoferulic acid,HSPD1
+199,32487,163,ursolic acid,ICAM1
+200,32326,163,Oleanolic acid,ICAM1
+201,5822,1633,(E)-Isoferulic acid,IDH2
+202,70634,1800,Caricaxanthin,IGF1
+203,57137,928,Gallic acid,IKBKB
+204,5822,4793,(E)-Isoferulic acid,IL17C
+205,57137,1380,Gallic acid,IL1B
+206,36229,1380,(S)-(-)-Rosmarinic acid,IL1B
+207,70634,2552,Caricaxanthin,IL4I1
+208,32487,1514,ursolic acid,IL6
+209,57137,1514,Gallic acid,IL6
+210,32326,1693,Oleanolic acid,INS
+211,32326,64,Oleanolic acid,INSR
+212,5822,5808,(E)-Isoferulic acid,IREB2
+213,32326,3758,Oleanolic acid,IRS1
+214,70634,4198,Caricaxanthin,ITGA2
+215,57137,1161,Gallic acid,JUN
+216,57137,562,Gallic acid,LDHA
+217,57137,567,Gallic acid,LDHB
+218,57137,1235,Gallic acid,LDLR
+219,32487,4271,ursolic acid,LEP
+220,32326,4271,Oleanolic acid,LEP
+221,5822,715,(E)-Isoferulic acid,LIAS
+222,70634,700,Caricaxanthin,LRAT
+223,70634,814,Caricaxanthin,MAOA
+224,5822,814,(E)-Isoferulic acid,MAOA
+22,70634,790,Caricaxanthin,MAOB
+225,57137,2046,Gallic acid,MAP2K1
+226,32326,1409,Oleanolic acid,MAPK1
+227,57137,1409,Gallic acid,MAPK1
+228,9912,1409,cis-caffeic acid,MAPK1
+229,9912,2265,cis-caffeic acid,MAPK12
+230,32326,1179,Oleanolic acid,MAPK3
+231,57137,1179,Gallic acid,MAPK3
+232,57137,1699,Gallic acid,MAPK8
+233,57137,3524,Gallic acid,MAPK9
+234,32326,2045,Oleanolic acid,MET
+235,57137,531,Gallic acid,MGMT
+236,57137,454,Gallic acid,MGST1
+237,9224,5663,Ethyl radical,MIPEP
+238,32487,1273,ursolic acid,MMP2
+239,57137,1273,Gallic acid,MMP2
+240,57137,1275,Gallic acid,MMP7
+241,32487,1277,ursolic acid,MMP9
+242,66914,1277,Salvianolicacid A,MMP9
+243,57137,1277,Gallic acid,MMP9
+244,5822,218,(E)-Isoferulic acid,MOCOS
+245,57137,929,Gallic acid,MPO
+246,70634,677,Caricaxanthin,MSMO1
+247,32487,1024,ursolic acid,MTOR
+248,5822,227,(E)-Isoferulic acid,MTRR
+249,70634,3867,Caricaxanthin,MYB
+250,32326,3797,Oleanolic acid,MYC
+251,5822,429,(E)-Isoferulic acid,NADSYN1
+252,70634,775,Caricaxanthin,NARS
+253,70634,5850,Caricaxanthin,NAT1
+254,70634,4776,Caricaxanthin,NAT2
+255,57137,4535,Gallic acid,NCF1
+256,5822,640,(E)-Isoferulic acid,NDUFA1
+257,5822,652,(E)-Isoferulic acid,NDUFS1
+258,5822,674,(E)-Isoferulic acid,NDUFS8
+259,5822,669,(E)-Isoferulic acid,NDUFV1
+260,32326,4068,Oleanolic acid,NFE2L2
+261,5822,173,(E)-Isoferulic acid,NFS1
+262,9224,5697,Ethyl radical,NLN
+263,5822,541,(E)-Isoferulic acid,NOS1
+264,32487,285,ursolic acid,NOS2
+265,5822,285,(E)-Isoferulic acid,NOS2
+266,32326,38929,Oleanolic acid,Nos2 Inosl
+267,5822,283,(E)-Isoferulic acid,NOS3
+268,32326,724,Oleanolic acid,NQO1
+269,32326,2305,Oleanolic acid,NR1H4
+13,37808,705,Cryptotanshinone,NR1I2
+14,32326,1614,Oleanolic acid,NR1I3
+270,57137,176,Gallic acid,ODC1
+271,32487,2285,ursolic acid,PARP1
+272,66914,4184,Salvianolicacid A,PCNA
+273,32326,4184,Oleanolic acid,PCNA
+274,5822,5668,(E)-Isoferulic acid,PMPCB
+275,32326,1015,Oleanolic acid,PPARA
+276,57137,684,Gallic acid,PPARG
+277,5822,340,(E)-Isoferulic acid,PPAT
+278,32326,5183,Oleanolic acid,PRDX1
+279,57137,494,Gallic acid,PRKCA
+280,9912,1960,cis-caffeic acid,PRKCQ
+25,57137,843,Gallic acid,PRKDC
+281,36229,121,(S)-(-)-Rosmarinic acid,PROCR
+282,9224,3572,Ethyl radical,PSMB4
+283,32326,6497,Oleanolic acid,PTEN
+284,66914,1269,Salvianolicacid A,PTGER2
+285,66914,1338,Salvianolicacid A,PTGER3
+286,32326,538,Oleanolic acid,PTGS2
+287,57137,538,Gallic acid,PTGS2
+288,32487,1203,ursolic acid,PTPRE
+289,32487,205,ursolic acid,PYGM
+290,57137,3160,Gallic acid,RAC1
+291,5822,5631,(E)-Isoferulic acid,RAD52
+292,33430,862,Tanshinone IIA,RARA
+293,70634,701,Caricaxanthin,RBP1
+294,70634,5904,Caricaxanthin,RBP2
+295,70634,5901,Caricaxanthin,RBP4
+296,70634,584,Caricaxanthin,RDH5
+297,57137,4192,Gallic acid,RELA
+298,70634,695,Caricaxanthin,RETSAT
+299,9912,1454,cis-caffeic acid,RHO
+300,57137,3151,Gallic acid,RHOA
+301,57137,137,Gallic acid,RHOB
+302,57137,3328,Gallic acid,RPS6KA1
+303,57137,5509,Gallic acid,RPS6KA5
+304,32487,3901,ursolic acid,RPS6KB1
+305,57137,3357,Gallic acid,RPSA
+306,5822,918,(E)-Isoferulic acid,RRM1
+307,33430,863,Tanshinone IIA,RXRA
+308,33430,861,Tanshinone IIA,RXRB
+309,35378,1266,Protocatechuic aldehyde,S100B
+310,66914,3932,Salvianolicacid A,S1PR1
+311,70634,497,Caricaxanthin,SCARB1
+312,5822,377,(E)-Isoferulic acid,SDHA
+313,5822,385,(E)-Isoferulic acid,SDHB
+314,5822,372,(E)-Isoferulic acid,SDHC
+315,5822,383,(E)-Isoferulic acid,SDHD
+316,32326,1446,Oleanolic acid,SELE
+317,57137,1430,Gallic acid,SELP
+318,5822,978,(E)-Isoferulic acid,SI
+319,32326,5339,Oleanolic acid,SLC10A1
+320,5822,5806,(E)-Isoferulic acid,SLC11A2
+321,5822,3531,(E)-Isoferulic acid,slr0095
+322,35378,3254,Protocatechuic aldehyde,SMAD2
+323,35378,6045,Protocatechuic aldehyde,SMAD3
+324,32326,2730,Oleanolic acid,SOD1
+325,57137,2687,Gallic acid,SOD2
+326,5822,2687,(E)-Isoferulic acid,SOD2
+327,70634,1246,Caricaxanthin,SQLE
+328,32326,4667,Oleanolic acid,STAT3
+329,57137,1723,Gallic acid,SULT1A1
+330,57137,1611,Gallic acid,SULT2A1
+331,57137,1613,Gallic acid,SULT2B1
+332,33430,1119,Tanshinone IIA,TERT
+333,5822,4628,(E)-Isoferulic acid,TFRC
+334,32487,127,ursolic acid,TGFB1
+335,35378,127,Protocatechuic aldehyde,TGFB1
+336,9224,5678,Ethyl radical,THOP1
+337,57137,3439,Gallic acid,TIMP3
+4,32487,17,ursolic acid,TNF
+5,33430,17,Tanshinone IIA,TNF
+6,32326,17,Oleanolic acid,TNF
+7,57137,17,Gallic acid,TNF
+8,36229,17,(S)-(-)-Rosmarinic acid,TNF
+338,32326,18,Oleanolic acid,TNFRSF1B
+339,57137,4386,Gallic acid,TNNT2
+340,32487,1261,ursolic acid,TOP1
+341,32326,1261,Oleanolic acid,TOP1
+342,32487,881,ursolic acid,TOP2A
+343,32326,881,Oleanolic acid,TOP2A
+344,33430,1360,Tanshinone IIA,TP53
+345,57137,1360,Gallic acid,TP53
+346,5822,2416,(E)-Isoferulic acid,TST
+347,5822,3886,(E)-Isoferulic acid,TXN
+348,70634,1460,Caricaxanthin,TXNRD1
+349,70634,3024,Caricaxanthin,UQCRFS1
+350,5822,2851,(E)-Isoferulic acid,UROD
+351,32326,1445,Oleanolic acid,VCAM1
+352,32487,166,ursolic acid,VEGFA
+353,57137,166,Gallic acid,VEGFA
+354,57137,2354,Gallic acid,XIAP
